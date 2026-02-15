@@ -1,0 +1,974 @@
+108 moving needs
+11 Feb 2010
+123D
+123d
+15 March 2014 Meeting
+19 Nov 2009
+1page
+2010 Location Search
+2012.06.29 HYH Minutes
+2012.10.12 HYH Minutes
+2012 Board Elections
+2012 September 27 Hack Your Hackerspace
+2021 Laser storage cleanup
+21 Dec 2010
+21 Jan 2010
+22 Dec 2016
+25 Feb 2010
+2D Printers
+2kproposal
+3D Printers
+3D Scanner
+3 Dec 2009
+3yrfinancial
+4 Dec 10
+501(c)3 Filings
+501c3
+501c3 narrative
+7 Jan 2010
+A-Frame
+Access Card Procedure
+Accessibility
+Accessible Arduino 1page
+Acrylic Bending
+Adding Lets Encrypt SSL To Apache
+Ampache
+An Idea For Tempe Migration
+Apr 14 2011
+Apr 22 10
+Apr 8 10
+Arduino IR Pet
+Arduino Night
+ArizonaCovid19Stats
+Arts and Crafts
+AudioVisual
+Aug 12 10
+Aug 26 10
+Augmenting Humanity
+Autohacking
+Autonomous Hexapod Robot
+Beginners Day
+Bicycle Repair Station
+BigBlueButton
+Biochem Lab
+Blank0
+Blueprint for Neuroscience Research Science Education Award
+Board:10 Feb 2011
+Board:10 June 2010 Meeting
+Board:10 Mar 2011
+Board:11 Feb 2010
+Board:11 March 2010 Meeting
+Board:11 Nov 2010 Meeting
+Board:12 Aug 2010 Meeting
+Board:12 Jan 2012
+Board:12 July 2012 Meeting
+Board:12 May 2011
+Board:13 Jan 2011
+Board:13 May 2010 Meeting
+Board:14 Apr 2011
+Board:14 July 2011
+Board:14 Oct 2010
+Board:19 Nov 2009 Meeting
+Board:21 Dec 2010 Meeting
+Board:21 July 2010 Meeting
+Board:22 April 2010
+Board:23 Sept 2010 Meeting
+Board:24 June 2010 Meeting
+Board:25 Feb 2010
+Board:25 Mar 2010
+Board:25 Nov 2010 Meeting
+Board:26 Aug 2010 Meeting
+Board:27 May 2010 Meeting
+Board:28 Oct 2010 Meeting
+Board:3 Dec 2009 Meeting
+Board:4 Dec 2010 Meeting
+Board:7 Jun 2012 Meeting
+Board:8 April 2010
+Board:8 July 2010
+Board:9 Sept 2010 Meeting
+Board:Meeting Minutes
+Board Elections
+Board Members
+Boxes
+Breadboard Examples
+Build-A-Bot
+Business Plan
+Bylaws
+CNC Machine
+CNC Mill
+CNC Mill Certification Class
+CNC Mill Notes
+CNC Router
+CactusCon Hardware Village
+CactusCon Soldering Village
+Certification Class
+Cheap Chinese Tools
+Class Laptops
+Classes
+Color Printer
+Community Involvement
+Complaints
+Contact
+Content
+Creeper Dress Shirt
+Der Kritzler
+Dial-a-Lulz
+Document Retention and Destruction Policy
+Donation Receipt
+Donations
+Draw Bot
+Drone
+Drone/Design
+Drone/Initial BOM
+EPEM Schematics
+Easter Egg Haunt
+Editor Howto
+Electronics
+Electronics Area
+Electronics Study Group
+Ender 5
+Epilog
+Epson Artisan 725(JohannesGberg)
+Equipment Documentation
+Event Notifications
+Events
+Evoked Potential Eye Mask
+Evoked Potential Mask
+Facilities Floor
+Fakerbot
+Faq
+Feb 10 2011
+Finances
+First Friday
+Forms
+Fun and Games Day
+Fundraising
+Grants
+HSL API
+HYH
+HYH Meeting 2012-11-08
+HYH Meeting 2012-11-22
+HYH Meeting 2012-12-13
+HYH Meeting 2012-12-27
+HYH Meeting 2013-02-14
+HYH Meeting 2013-04-11
+HYH Meeting Template
+Hack Your Hackerspace
+Hacker Curriculum
+HackerspaceResearch
+Hackerspace Discounts
+HeatSync Labs
+HeatSync Labs 2011 Board Meeting Calendar.doc
+Help Wanted
+Hewlett Packard CP5525DN(BobRoss)
+Hosting
+Hosting Signup Solution
+HotTopics
+HowTo
+How To Hackerspace
+How to Run HeatSync Labs
+Hsl-access
+IT
+IdeaPad S10-3t
+Infrared Bug
+Inkscape
+InstallMediaWikiOnLightsail
+Install MediaWiki On Lightsail
+Insurance
+Intranet
+Inventory
+Jan 12 2012
+Jan 13 11
+Jan 13 2011
+Jewelry
+Joining In
+July 14 2011
+July 21 10
+July 8 10
+Jun 7 2012
+June 10 10
+June 24 10
+Kudo3D Titan 1 Ruby
+LED Whiteboard
+LEGO
+LTD Stirling Engine
+Lab Furnishings
+Lab Incident Report
+Landing Page
+Large 80W Laser
+Large 80W Laser Cheat Sheet
+LaserCut
+LaserCut 5.3
+LaserPCB
+Laser Cutter
+Laser Cutter Availability
+Laser Cutter Emergency Guidelines
+Laser Cutter Kickstarter
+Laser Cutter Questions
+Laser Cutter Quick Guide
+Laser Cutter Safety Training
+Laser Cutter Software
+Laser Cutters
+Laser Cutting Leather
+Laser Engraving
+Laser Example Book
+Laser FAQ
+Laser Focus
+Laser Material Guidelines
+Laser Meetup
+Laser Microphone
+Laser Mustache Party
+Laser storage proposal
+Lasering
+Leather Working
+Lessons In Electric Circuits
+Lets Encrypt SSL On Apache
+Liability Waiver
+Library
+LightBurn
+LightedBuildPlatform
+Links
+LinuxCNC Inches ini file
+LinuxCNC Pinout
+Local Resources
+Location
+Location Regulations
+Loldialer
+Loldialer HeatSyncLabs Config
+MIT Circuits and Electronics
+MSDS Binder
+MSDS Index
+Machine Shop
+Magomatic V2
+Main Page
+Makerfaire
+Manifesto
+Maple
+Mar 10 2011
+Mar 11 10
+Mar 25 10
+Marketing
+May 12 2011
+May 13 10
+May 27 10
+MediaWiki Help for beginners
+MediaWiki On Lightsail
+Media Wiki syntax explained
+Meeting Minutes
+Meeting Minutes Template
+Meetings
+Member Welcome Letter
+Membership Guidelines
+Micro Earpiece
+Microwave Furnace
+Mini 60W Laser
+Mini Mill
+Model Aircraft
+Model Rockets
+Monthly Laser Meetup
+Mystery Box
+Nearspace Balloon
+Nearspace Balloon 2
+Nearspace Balloon II
+Network
+New Space Noodling 2020
+New Stuff
+New to HeatSync Labs?
+NightVision
+Nonprofit Annual Filings
+Nov 11 10
+Nov 25 10
+NutsandBolts
+Oct 14 10
+Oct 28 10
+Open Hours
+Operational Policies
+Operations Directors
+Operations Software
+Operations team
+Organic Chemistry Series
+Other Resources
+PCBLaserEtch
+PCB Etching
+Packet Radio
+Paper Electronics
+Parking Permit
+Parking Ticket
+Parts of the Mill
+Pebble
+PewPew4500
+PewPew9000
+Phoenix RepRap
+Phoenix RepRap/Printed Parts
+Physical Data Recovery
+Podcasts
+Poker Night Fundraiser
+Presentations
+Presentations/DMS
+Press
+Press Kit
+Printer
+Printers
+Procedures
+Processes
+Procurement Request
+Project Needs
+Projects
+Proposals
+Public Meeting Minutes
+RBCreation
+RD Works
+RFID Access
+Reference
+RepRapping
+Rocket Cars
+Rules
+SEM Microscopy
+Sander Dust Collector
+Screen Printing
+Secretary HowTo
+Sept 23 10
+Sept 9 10
+Sewing
+Soda
+Solar Concentrator
+Soldering Station
+Spy Kits
+Sst
+Starting a Non-Profit
+Station Heads
+Station Screensavers
+Stencil Etching
+Stencil Etching: Stencil Etching
+Store
+Streamlining Engagement
+SurveyOfPrices
+Survey of Subscription Fees
+SyncStarter
+SyncSwag
+Tapping
+Tempe Migration Financial Analysis
+Ten Thousand Foot Layout Concept
+Tesla Coil
+The Stony Brook Algorithm Repository
+Ticketed Events
+Toaster Oven Reflow Soldering
+Tool Acquisition HOWTO
+Tool Manuals Index
+Tools
+ToolsDB
+Trans Cranial DC Stimulation
+Transhumanism
+Trick Or Treat
+Types
+UAS
+UAS/Design
+UAS/Design/Software
+UAS/Initial BOM
+UAS/Notes
+UAS/Notes/IMU
+UAS/Notes/L3G4200D
+UAS/Software
+Ultimaker
+Ultimaker Quickstart Guide
+Understanding the HeatSync Community
+Using the vinyl cutter
+Utilities
+UtilitiesBill
+VGG482704
+Vacuum Forming
+Value
+Verizon
+Vintage gaming night
+Vinyl Cutter
+VolunteerMatch
+Walk Through Orientation
+Wearable Computing
+Web
+Web Presence
+Website Management
+Weekly Schedule
+Welding
+Whats that tool
+Wiki Management
+Wiki formatting description
+Wiki formatting explained
+Wishlist
+WoodShop
+WoodShop Arcade Control Class
+WoodShop Basic Table Saw Class
+Woodshop
+Woodworking Day
+Workshop Policy
+Workshops
+YouTube Makers
+Young Makers
+asset tags
+attiny
+blue box
+docircuits
+esp8266
+fusion360
+instructables website
+ltspice
+parking
+python 2 official tutorial
+shapeoko
+signage
+sketchup
+thingiverse website
+Talk:An Idea For Tempe Migration
+Talk:Augmenting Humanity
+Talk:Business Plan
+Talk:Classes
+Talk:Equipment Documentation
+Talk:Hack Your Hackerspace
+Talk:Landing Page
+Talk:Large 80W Laser
+Talk:Laser Cutter Kickstarter
+Talk:Laser Cutter Quick Guide
+Talk:Laser FAQ
+Talk:Links
+Talk:Local Resources
+Talk:Main Page
+Talk:New to HeatSync Labs?
+Talk:PewPew9000
+Talk:Phoenix RepRap
+Talk:Rules
+Talk:Tools
+Talk:Types
+Talk:Workshop Policy
+Talk:Workshops **DRAFT**
+Talk:Young Makers
+User:BobBushman
+User:DylanT
+User:Eric Ose
+User:Gamebofh
+User:Jac goudsmit
+User:Jaymcgavren
+User:Julien
+User:Mindblender
+User:Nelo
+User:NohbdyAhtall
+User:Phong
+User:RobertBushman
+User:Rrix
+User:Technoguyfication
+User:Uberschnitzel
+User:Will
+User:X-Istence
+User:tianxuan0757
+User talk:Eric Ose
+User talk:Nelo
+HeatSync Labs Wiki:Community portal
+HeatSync Labs Wiki:Current events
+File:00-parts.jpg
+File:01mendel-ABS solid-bed-height-spacer-31m.jpg
+File:02mendel-ABS solid-bed-spring.jpg
+File:03mendel-ABS solid-belt-split-jig-bracke.jpg
+File:04mendel-ABS solid-belt-split-jig-spacer.jpg
+File:05mendel-ABS solid-circuit-board-bracket.jpg
+File:06mendel-ABS solid-circuit-spacer-3mm.jpg
+File:07mendel-ABS solid-circuit-spacer-4mm.jpg
+File:08mendel-ABS solid-drive-pulley.jpg
+File:09mendel-ABS solid-frame-vertex.jpg
+File:1003 Building a Hacker Space.pdf
+File:10mendel-ABS solid-x-180-z-bearing-plate.jpg
+File:11mendel-ABS solid-x-360-z-bearing-mir.jpg
+File:12-2-goggles-they do nothing.jpg
+File:12-2-main unit label.jpg
+File:12-2-overall shot.jpg
+File:12-2-power unit label.jpg
+File:12-2inside shot.jpg
+File:12345.JPG
+File:12mendel-ABS solid-x-360-z-bearing-plate.jpg
+File:13mendel-ABS solid-x-axis-side-plate-nut.jpg
+File:14mendel-ABS solid-x-bar-clamp-m3.jpg
+File:15mendel-ABS solid-x-cable-clamp.jpg
+File:16mendel-ABS solid-x-carriage-lower.jpg
+File:17mendel-ABS solid-x-carriage-upper.jpg
+File:18mendel-ABS solid-x-end-bracket.jpg
+File:19mendel-ABS solid-xlr-bracket.jpg
+File:2020-10-09-az-cases-and-deaths.png
+File:20mendel-ABS solid-x-motor-bracket-space.jpg
+File:21mendel-ABS solid-x-vert-drive-nut-trap.jpg
+File:22mendel-ABS solid-x-vert-side-plate360.jpg
+File:23mendel-ABS solid-x-vert-side-plate-180.jpg
+File:24mendel-ABS solid-y-bar-clamp.jpg
+File:25mendel-ABS solid-y-bearing-180-inner.jpg
+File:26mendel-ABS solid-y-bearing-180-outer-l.jpg
+File:27mendel-ABS solid-y-bearing-180-outer-r.jpg
+File:28mendel-ABS solid-y-bearing-360-inner.jpg
+File:29mendel-ABS solid-y-bearing-360-outer-l.jpg
+File:2K Grant Proposal.pdf
+File:2k budget.jpg
+File:30mendel-ABS solid-y-bearing-360-outer-r.jpg
+File:31mendel-ABS solid-y-belt-clamp.jpg
+File:32mendel-ABS solid-y-idler-bracket.jpg
+File:33mendel-ABS solid-y-motor-bracket.jpg
+File:34mendel-ABS solid-z-bar-top-clamp.jpg
+File:35mendel-ABS solid-z-driven-pulley.jpg
+File:36mendel-ABS solid-z-drive-pulley-rim.jpg
+File:37mendel-ABS solid-z-leadscrew-base.jpg
+File:38mendel-ABS solid-z-leadscrew-base-cl.jpg
+File:39mendel-ABS solid-z-motor-bracket.jpg
+File:3d Printing BYOF.jpg
+File:3d Printing Completed Parts Bin.jpg
+File:3d Printing Donation Box.jpg
+File:3d Printing Guidelines.jpg
+File:3d Printing QR Code.jpg
+File:3d Printing Wash Station.jpg
+File:40mendel-ABS solid-z-opto-bracket.jpg
+File:41mendel-ABS solid-z-tensioner.jpg
+File:560px-Schema MEB (en).svg.png
+File:7784872780 9810f5be81.jpg
+File:8116A 50MHz Programmable Pulse Function Generator Manual.pdf
+File:9000-soft-stop.jpg
+File:Acrylic Cutting Tips.pdf
+File:Alligator Plugs.jpg
+File:Andrea.jpg
+File:Arduino.jpg
+File:Arduino IR Pet Photo.JPG
+File:Art Station Donation Bin.jpg
+File:Auto Insurance 4048.jpg
+File:Auto Insurance 4996.jpg
+File:Awls.jpg
+File:BAMF10 Maker Manual FINAL.pdf
+File:BA Gauge.jpg
+File:Banana Plugs.jpg
+File:Basictc.jpg
+File:Bed-printed-parts.PNG
+File:Bicycle Station Sign.jpg
+File:Bicycle Vinyl Decal.jpg
+File:Bitcoin and Gold 1940.jpg
+File:Blood sweat tears.jpg
+File:Board Meeting 01-13-11.pdf
+File:Board Meeting 7-21-10.doc
+File:Board Meeting 9-23-10.doc
+File:Brother Project Runway.jpg
+File:Brother XR9550 Sewing Machine Operation Manual.pdf
+File:Brother XR9550 Sewing Machine Quick Reference Guide.pdf
+File:Burnisher.jpg
+File:Burnisher Key.jpg
+File:Burnisher side.jpg
+File:CastleCastle 735.jpg
+File:Center-cutting Non-center-cutting.jpg
+File:Center Finding.jpg
+File:Certification 3695.jpg
+File:Certification 4929.jpg
+File:Chucking against non-square.jpg
+File:Circle punches.jpg
+File:Circuit-board-bottom-printed-parts.PNG
+File:Clamp PETG.png
+File:Clamp Usage.png
+File:Clamping Vice Overview.jpg
+File:Classic volt meter.jpg
+File:Classy Creepers.jpg
+File:Cleaning Light Oil.jpg
+File:Cleaning Mill by Hand.jpg
+File:Climb Cutting.jpg
+File:Closeup Clamp Angle.jpg
+File:Colorcube.jpg
+File:Conventional Cutting.jpg
+File:Cost-breakdown.PNG
+File:DBH SDS 13228XXXX.pdf
+File:DIamond chisels.jpg
+File:DV-6M Supply Protoshield.jpg
+File:Damaged vs New Endmills.jpg
+File:David.jpg
+File:David Huerta.jpg
+File:DirtyVentScreen.png
+File:Donation Request Letter.doc
+File:Drea.jpg
+File:Dv6m supply.png
+File:E-stop speed.jpg
+File:Edge Creaser.jpg
+File:Edge Finding.jpg
+File:Electronic cigarette 2120.jpg
+File:Electronic cigarette 3102.jpg
+File:Electronic cigarette 4437.jpg
+File:Electronic cigarette 4453.jpg
+File:Electronic cigarette 5434.jpg
+File:Electronic cigarette 5510.jpg
+File:Electronic cigarette 966.jpg
+File:Electronics Donation Box.png
+File:Electronics Microcontroller Sign.png
+File:Electronics Soldering Instructions.png
+File:Electronics Soldering Sign.png
+File:Electronics Soldering Sign 2.png
+File:Empty Hook of Goodness.jpg
+File:Escher Drawing Hands.gif
+File:EtherShield.zip
+File:Exlas Machine Manual.pdf
+File:Extruder-printed-parts.png
+File:Fakerbot.xml
+File:Federal Reserve System 3018.jpg
+File:Ff-map.png
+File:Frame-end-printed-parts.PNG
+File:Frame-side-printed-parts.PNG
+File:Fun and Games Day Prototype Spinner.jpg
+File:Fun and Games Day Prototypes.jpg
+File:Fundraising Letter.doc
+File:General Collect Your Stuff Shelf.png
+File:General Do Not Enter Stairs.jpg
+File:General Donation Bin.jpg
+File:General Emergency Contact.jpg
+File:General Flier Back.jpg
+File:General Flier Front.jpg
+File:General Hand Tools Sign.jpg
+File:General How To Use Calipers.jpg
+File:General Keychain Dispenser.jpg
+File:General No Trespassing.jpg
+File:General Parking Permits.png
+File:General Push Bar To Open.jpg
+File:General Sandwhich Board Sign.jpg
+File:General Snacks Donate.jpg
+File:Glue.jpg
+File:Gp3-floorplan.jpg
+File:Groover.jpg
+File:Gum trag Beeswax.jpg
+File:HLS Board Meeting 08-26-10.doc
+File:HP8116.jpg
+File:HSL Board Meeting 10-14-10.doc
+File:HSL Board Meeting 10-28-10.doc
+File:HSL Board Meeting 11-11-2010.pdf
+File:HSL Board Meeting 12-21-2010.doc
+File:HSL Board Meeting 12-4-10.doc
+File:HSL Board Meeting 4-22-2010.doc
+File:HSL Board Meeting 5-13-10.doc
+File:HSL Board Meeting 5-27-10.pdf
+File:HSL Board Meeting 7-8-10.doc
+File:HSL Board Meeting Minutes 3-25-2010.doc
+File:HSL Board Meeting Minutes 4-8-2010.doc
+File:HSL Board Minutes 06-24-2010.doc
+File:HSL Board Minutes 6-10-10.doc
+File:HSL Board Minutes 8-12-10 .doc
+File:HSL Parking.png
+File:Hair PiecesHair Pieces 2704.jpg
+File:Header.png
+File:HeatSync Donation Receipt.pdf
+File:HeatSync Labs 2011 Board Meeting Calendar.doc
+File:HeatSync Labs Board Meeting 3-11-10.doc
+File:HeatsyncLabsLoI.pdf
+File:Heatsync Labs Lathe 101.doc
+File:Heatsync Labs Milling 101.doc
+File:Heatsync labs brand standards.pdf
+File:Heatsync labs icon - black - latest.png
+File:Heatsync labs icon - color - latest.png
+File:Heatsync labs logo - black - latest.png
+File:Heatsync labs logo - color - latest.png
+File:Heatsync labs logo pack.zip
+File:HeattSync Logo Simplified SVG.zip
+File:Hex key.jpg
+File:Honing compound.jpg
+File:Honing guide.jpg
+File:Hsl-ff.jpg
+File:Husqvarna Designer 2.jpg
+File:Husqvarna Viking Designer II Users Guide.pdf
+File:Husqvarna Viking Notes.txt
+File:Hvac 4008.jpg
+File:IMAG0075.jpg
+File:Inductor.jpg
+File:Inductor label1.jpg
+File:Inductor label2.jpg
+File:Installing-circuit-board-top-printed-parts.PNG
+File:Inverter damage.jpg
+File:Jacob.jpg
+File:Jacob Rosenthal.jpg
+File:Jeremy.jpg
+File:Jeremy Leung.jpg
+File:LaserCut5.3 Manual.pdf
+File:LaserCutColorOptions.png
+File:LaserCutLayerColors.png
+File:Laser Cutter Training Slides.pdf
+File:Laser Do Not Operate Unattended.jpg
+File:Laser Donation Box.jpg
+File:Laser Machine has no Brain.jpg
+File:Laser QR Code for Manual.jpg
+File:Laser Scap Sign.png
+File:Laser Scrap Sign F.zip
+File:Laser Training Required.jpg
+File:Layout.jpg
+File:Length of Endmill.jpg
+File:LiPo-USB-Charger-v13.pdf
+File:Liability Waiver.pdf
+File:LightBurn Layer Colos.png
+File:Light Oil Examples.jpg
+File:LilyPad-EvokedPotentialEyeMask-Board.pdf
+File:LilyPad-EvokedPotentialEyeMask.pdf
+File:LilyPad-PowerSupply-Lipo.pdf
+File:Location-CenPho1.jpg
+File:Location-CenPho2.jpg
+File:Location-CenPho3.jpg
+File:Location-Innovations1.jpg
+File:Logo.gif
+File:MPC6515 Manual-2.pdf
+File:MPC6515 User Manual.pdf
+File:MSDS-InSitePS.pdf
+File:Machining Breaker CautIon Tape.jpg
+File:Machining Breaker Sign.jpg
+File:Machining Starret Tap Drill Sizes.jpg
+File:Machining Welding Wall Sign.jpg
+File:Machining White Door Sign.jpg
+File:Machining Yellow Door Sign.jpg
+File:Makerfairelogo.jpg
+File:Mar Map.pdf
+File:Membership Application.doc
+File:Microcontroller Donation Box.jpg
+File:Mill Class Packet.zip
+File:Mill Parallels.jpg
+File:Mini Mill.jpg
+File:Mini usb schematic.pdf
+File:Mutant Plugs.jpg
+File:Myster Cables.jpg
+File:NOOOOOOOOOOOOOOOOOO.jpg
+File:Needles.jpg
+File:No Trespassing Sign.zip
+File:OneWire.zip
+File:Oscope Cables.jpg
+File:Our coil.png
+File:PXL 20201228 175920778.jpg
+File:PXL 20210426 230338708.jpg
+File:Paul Hickey.jpg
+File:Pcb etched.jpg
+File:Pcb transfer.jpg
+File:Pebble-assembled-top.jpg
+File:Pebble-bom.pdf
+File:Pebble-sch.png
+File:Phoenix Magazine May 2011.jpg
+File:PhoestivalVendorApp FINAL.pdf
+File:Piece Clamping.jpg
+File:Plunge Cutting.jpg
+File:Poker-Night.jpg
+File:Possible-hsl.jpg
+File:Printed-parts-glossary.PNG
+File:Public Meeting Notes 11-19-09.pdf
+File:Pulleys.jpg
+File:Putting in Endmill.jpg
+File:Putting in a Piece.jpg
+File:QF Flange.jpg
+File:R8 Endmills and Collets.jpg
+File:RF-31.pdf
+File:Rainbow V36 16key PWM LCD.zip
+File:Raster to Vector in Corel.pdf
+File:Recommended Speed Settings.pdf
+File:Reprap mendel.jpg
+File:Resistor-codes-6up.gif
+File:Rick.jpg
+File:Rivet setter.jpg
+File:SEM sketch, brainstorming.jpg
+File:SEM sketch, brainstorming (large).jpg
+File:Safety skiver.jpg
+File:Screen Shot 2021-02-12 at 7.18.49 PM.png
+File:Screwless Vice.jpg
+File:Sewing Certified Users.jpg
+File:Sewing Hackerspace Rulez.jpg
+File:Sewing Hackerspae Rulez.jpg
+File:Sewing Light Switch.jpg
+File:Sewing Machine Certification.jpg
+File:SheldonModel0.pdf
+File:Singer 4423 Heavy Duty Sewing Machine Instruction Manual.pdf
+File:Singer Heavy Duty.jpg
+File:Snippers.jpg
+File:Solder Drawer.jpg
+File:Squaring Mill Piece.jpg
+File:Start.txt
+File:Stitching Clamp 1.jpg
+File:Stitchingclamp.jpg
+File:Student loans 1847.jpg
+File:Student loans 2010.jpg
+File:Student loans 4154.jpg
+File:T-Pin Usage.png
+File:T-Pin Usage Closeup.png
+File:T-Pins.png
+File:Tempe Migration 2020 Financials.xlsx
+File:Thickness gauge.jpg
+File:Thread.jpg
+File:Tone.zip
+File:TravelTravel 3317.jpg
+File:TurkeyTurkey 5464.jpg
+File:VGG482704-Series.pdf
+File:VGG482704.jpg
+File:Vector Files in Corel.pdf
+File:Vice Clamping.jpg
+File:Vintage gaming night.png
+File:Warped Material Problem.png
+File:Warped Material Results.png
+File:Welding Back Door Warnings.jpg
+File:Welding Turn Off Gas By Tanks.jpg
+File:Welding Turn off Gas Door Sign.jpg
+File:Wiki logo.png
+File:Will.jpg
+File:Window Entrance Sign At 108.jpg
+File:Window Jewelry Display.jpg
+File:Window Poster Left.jpg
+File:Window Poster Right.jpg
+File:Window We Don't Sell Things.jpg
+File:Window Wooden Gear Sign.jpg
+File:Wire Drawer.jpg
+File:Wire Rules.jpg
+File:Women ClothesWomen Clothes 4073.jpg
+File:Woodshop-1.jpg
+File:Woodshop-stack-bench.jpg
+File:Woodshop-stow-table-saw-0.jpg
+File:Woodshop-stow-table-saw-1.jpg
+File:Woodshop-stow-table-saw-2.jpg
+File:Woodshop-table-saw-stand.jpg
+File:Workholding Storage.png
+File:Worksmith Router Bit Set.png
+File:X-axis-printed-parts.PNG
+File:X-carriage-lower.png
+File:Y-bar-printed-parts.PNG
+File:Y-chassis-printed-parts.PNG
+File:Y-idler-printed-parts.PNG
+File:Z-Axis Lock.jpg
+File:Z-leadscrew-base-printed-parts.PNG
+File:Z-tensioner-printed-parts.PNG
+File:Zach.jpg
+File:add-text.png
+File:align-circle-result.png
+File:align-circle.png
+File:arcade control back.jpg
+File:arcade control front.jpg
+File:arcade control open.jpg
+File:asset-tag-prototype.png
+File:basic lathing operations.png
+File:beginning-rectangle-size.png
+File:bluebox000.jpg
+File:bluebox001.jpg
+File:business card back.pdf
+File:business card back.png
+File:business card back svg.zip
+File:business card front.pdf
+File:business card front.png
+File:business card front svg.zip
+File:charis sil.zip
+File:click-and-drag-rectangle.png
+File:copy.png
+File:create-new-engrave-layer.png
+File:dietdiet 4648.jpg
+File:draw-circle.png
+File:dxf-popup.png
+File:epsom salt 1750.jpg
+File:epsom salt 3001.jpg
+File:esp8266-pinout.jpg
+File:fakerbot.xml
+File:guestlistdashboard.png
+File:heatsync-parking.png
+File:heliosync all data.png
+File:heliosync cloudless day.png
+File:heliosync cloudy day.png
+File:heliosync power density.png
+File:hsl flier 1.pdf
+File:hsl map.jpg
+File:hsl website qr code.png
+File:inkscape-basic-controls.png
+File:inkscape-canvas.png
+File:inkscape-colors.png
+File:inkscape-document-properties.png
+File:inkscape-grid-units.png
+File:isis-one-desktop-3d-printer-5.jpg
+File:kodama.jpg
+File:labourlabour 1628.jpg
+File:large-laser-log.xlsx
+File:laser-cut-bag-meatspace.jpg
+File:laser-cut-laptop-bag-willbradley.jpg
+File:laser-cut-leather-bag-pattern.png
+File:laser-storage-color.png
+File:laser after.jpg
+File:laser before.jpeg
+File:laser storage bay2.png
+File:laser storage bay3.png
+File:lasercut-all-s2p.jpg
+File:lasercut-bad-s2p.jpg
+File:lasercut-colors.jpg
+File:lasercut-layers.jpg
+File:lasercut.gpl
+File:lightburn-screen.jpg
+File:ltd-stirling-finished.jpg
+File:mini-mill-manual.pdf
+File:misc.jpg
+File:montreal exotic car rental 2449.jpg
+File:mortgage360.org 769.jpg
+File:move-text-to-engrave-layer.png
+File:noise reducing wall structure.png
+File:noname.jpg
+File:online billiardonline billiard 1947.jpg
+File:only-cut-visible.png
+File:only-engrave-visible.png
+File:osb frame with bottom.jpg
+File:osb glue-up with bottom.jpg
+File:paper electronics photo.png
+File:parkingpermit.pdf
+File:parkingticket.pdf
+File:personal injury lawyer 5271.jpg
+File:places to visit in georgia 5614.jpg
+File:plywood.jpg
+File:pp-4500-file-overwrite.jpg
+File:pp4500-bed.jpg
+File:pp4500-fill-line.jpg
+File:pp4500-key.jpg
+File:pp4500-laser-controls-annotated.png
+File:pp4500-switches.jpg
+File:rdworks-1.png
+File:rdworks-simulate-icon.png
+File:rdworks2.png
+File:rdworks3.png
+File:rdworks4.png
+File:rdworks5.png
+File:resize-rectangle-to-30x100.png
+File:sander-belt-dust-collector-2.png
+File:sander-belt-dust-collector.png
+File:sander-belt-dust-collector.skp
+File:sander-dust-collector.jpg
+File:save-your-file-as-dxf.png
+File:save-your-file-as-svg.png
+File:select-arrow-then-rectangle.png
+File:select-rectangle-icon.png
+File:sheildbotbot.jpg
+File:skiverblades.jpg
+File:skyhook.jpg
+File:small-laser-log.xlsx
+File:start.txt
+File:stroke-to-path.png
+File:ten thousand foot concept floorplan-hsl-operational.png
+File:ten thousand foot concept floorplan-investor-financial.png
+File:ten thousand foot concept floorplan-investor-operational.png
+File:text-created-and-resized.png
+File:upload test.jpg
+File:view-outline-mode.png
+File:zoom-into-rectangle.png
+MediaWiki:Common.js
+MediaWiki:Loginprompt
+MediaWiki:Monobook.css
+Help:Contents
+Help:Editing
+Help:Formatting
+Category:3D-Printing
+Category:3D Printing Utilities
+Category:CAD Utilities
+Category:Electronics Tutorials
+Category:Electronics Utilites
+Category:Electronics Utilities
+Category:Events
+Category:Facilities
+Category:HYH
+Category:High Priority
+Category:InterestingData
+Category:Laser
+Category:Location
+Category:Machine Shop
+Category:Mill
+Category:Programming Tutorials
+Category:Project Tutorials
+Category:Proposals
+Category:Sewing
+Category:Sysadmin Tutorials
+Category:Tutorials
+Category:Vinyl
+Category:WoodShop
+Corp:Corporate Main
+Board:11 April 2013 Meeting
+Board:12 July 2012 Meeting
+Board:23 May 2013 Meeting
+--END--

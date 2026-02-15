@@ -1,0 +1,25 @@
+{
+    "api": "https://wiki.heatsynclabs.org/w/api.php",
+    "api_chunksize": 50,
+    "curonly": false,
+    "date": "20260215",
+    "delay": 1.5,
+    "exnamespaces": [],
+    "export": "",
+    "failfast": false,
+    "http_method": "POST",
+    "images": false,
+    "index": "https://wiki.heatsynclabs.org/w",
+    "logs": false,
+    "namespaces": [
+        "all"
+    ],
+    "path": "dumps",
+    "redirects": false,
+    "retries": 5,
+    "templates": false,
+    "xml": true,
+    "xmlapiexport": true,
+    "xmlrevisions": false,
+    "xmlrevisions_page": false
+}
