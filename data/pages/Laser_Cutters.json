@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutters",
+  "ns": 0,
+  "id": 1410,
+  "slug": "Laser_Cutters",
+  "latest_revision": {
+    "id": 6811,
+    "timestamp": "2026-01-26T18:29:17Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "Update laser meetup link",
+    "text": "*'''Station Champions:''' David Flores (Training), Nate Caine (Maintenance)\n*'''Communication:''' Slack #lasering channel\n*'''Certification:''' 4th Friday of every Month 7pm - 10pm\n*'''Events:''' N/A\n\n==Overview==\n\nHeatSync Labs has an '''[[Large_80W_Laser | 80 Watt Laser Cutter]]''' and '''[[Mini_60W_Laser | 60 Watt Laser Cutter]]'''. You must be certified to use the laser cutter on your own.\n\nAs you have questions using the laser please consider using our '''[[Laser_FAQ | Laser FAQ page]]'''. By having a single searchable page things will be easier for everyone.\n\nIf there are problems that cause the laser not to be safe to use; Discuss with whoever is hosting open hours. Post a sign on the laser if it's out of order. Then post on Slack in the laser channel about the problem.\n\nThe [[:Category:Laser | Laser Category ]] page lists all articles on our wiki about the laser cutters. Some may be outdated.\n\n==Expectations==\nThere are plenty of safety and other considerations covered in our training class. Here are some highlights.\n\n* Always stay in the area when your job is running in case you need to hit the E-Stop or respond to a problem or fire\n* Clean up after your job\n* Log your work when you are done\n* Empty the trash out in the dumpster when it is 3/4 full\n* Take turns with others\n* Be courteous of volunteers hosting and be cleaned up by the end of open hours\n\n==Events==\nSome of the current and past events for the laser cutter:\n*Laser Certification on the 4th Friday every month.\n*[[Laser_Meetup | Laser Meetup]] 2nd Sunday of every month\n*[[Build-A-Bot | Build-A-Bot series]]\n*[https://guestlist.co/events/712497 Laser Cut Box Making]\n*[https://guestlist.co/events/723270 Laser Engraved Stamp Making]\n*[https://guestlist.co/events/741495 Young Maker Laser Portraits]\n*[https://guestlist.co/events/750477 Earring Making with the Laser Cutter]\n*[https://guestlist.co/events/733125 Snowflake Earring Making]\n*[https://guestlist.co/events/743007 LaserCut 5.3 Hands-On Class]\n\n[[Category:Laser]]",
+    "bytes": 2016
+  },
+  "revision_count": 16,
+  "first_revision_timestamp": "2023-08-11T04:05:27Z",
+  "is_redirect": false
+}

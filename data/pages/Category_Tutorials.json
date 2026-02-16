@@ -1,0 +1,21 @@
+{
+  "title": "Category:Tutorials",
+  "ns": 14,
+  "id": 1285,
+  "slug": "Category_Tutorials",
+  "latest_revision": {
+    "id": 4853,
+    "timestamp": "2020-09-13T08:18:48Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "",
+    "text": "If your tutorial doesn't fit in any of the categories below, create a new category page with a name like 'Pet Grooming Tutorials' and tag it with <nowiki>[[Category:Tutorials]]</nowiki>.",
+    "bytes": 186
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2020-09-13T08:15:09Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ToolsDB",
+  "ns": 0,
+  "id": 23,
+  "slug": "ToolsDB",
+  "latest_revision": {
+    "id": 1243,
+    "timestamp": "2010-08-05T20:26:34Z",
+    "contributor": {
+      "username": "68.104.219.111",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Status */",
+    "text": "==Tools database==\n\n2 applications really, Simply a discovery tool to find out who has something you need, more important before space is set up\ninventory control - may be useful after space is set up\n\nOur thought is we should focus on the discovery portion and get it up and running ASAP so its useful before the space is ready\n\nAnother thought, really it should be tools and SKILLS/Services.  Some people have these to offer rather than actual physical items.\n\nOur thought is that we shouldn't track single tools, like phillips screwdriver, and that we shouldn't bother trying to have unique tools that multiple users would attach to, let it be generic and searchable instead\n\nTools should be distinct members, not shared\nSkills on the other hand should be common to all and attachable to multiple users\n\nShould be a 'will you donate' field\n\n\n===Status===\n*Rick O had done some early work in php but has had to abandon that due to time\n*Jacob did some database brainstorming based on the above scribblings along with Will who has begun implementing the application in Rails.  The very alpha version can be found at http://toolshare.heatsynclabs.org [Note: External link currently fails with a permission error]",
+    "bytes": 1212
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2009-09-09T18:17:35Z",
+  "is_redirect": false
+}

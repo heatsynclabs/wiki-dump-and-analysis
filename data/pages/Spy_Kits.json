@@ -1,0 +1,21 @@
+{
+  "title": "Spy Kits",
+  "ns": 0,
+  "id": 203,
+  "slug": "Spy_Kits",
+  "latest_revision": {
+    "id": 1179,
+    "timestamp": "2010-06-15T21:51:06Z",
+    "contributor": {
+      "username": "64.38.194.13",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Research */",
+    "text": "==What is this?==\nThis is a central resource for the Spy Kit pages\n\n==Active Development==\nThese are all projects that are currently in active development\n*[[Laser Microphone]]\n*[[NightVision]]\n\n==Research==\nThese are projects that have been researched but are not currently considered to be in active development\n*[[Micro Earpiece]]\n*[[Infrared Bug]]\n\n==Ideas==\nThese are project ideas we have had that have not been researched at all yet",
+    "bytes": 439
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2010-06-15T21:22:36Z",
+  "is_redirect": false
+}

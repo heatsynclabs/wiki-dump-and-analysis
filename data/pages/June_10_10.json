@@ -1,0 +1,21 @@
+{
+  "title": "June 10 10",
+  "ns": 0,
+  "id": 963,
+  "slug": "June_10_10",
+  "latest_revision": {
+    "id": 3655,
+    "timestamp": "2012-07-13T03:38:30Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "Rrix moved page [[June 10 10]] to [[Board:10 June 2010 Meeting]]",
+    "text": "#REDIRECT [[Board:10 June 2010 Meeting]]",
+    "bytes": 40
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2012-07-13T03:38:30Z",
+  "is_redirect": true
+}

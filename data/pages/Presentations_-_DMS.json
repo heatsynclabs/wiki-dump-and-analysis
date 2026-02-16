@@ -1,0 +1,21 @@
+{
+  "title": "Presentations/DMS",
+  "ns": 0,
+  "id": 452,
+  "slug": "Presentations_-_DMS",
+  "latest_revision": {
+    "id": 2724,
+    "timestamp": "2011-08-25T23:47:06Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "/* Developing Maintainable Software */",
+    "text": "= Developing Maintainable Software =\nThis page is a place holder for a future Thursday Night Presentation.\n\n'''You really shouldn't read this, yet.'''\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere are some initial ideas for topics:\n* Finding defects early means less overall effort\n** language selection (e.g. c++ vs objective-C, scripted languages vs compiled languages)\n** compiler options (strong typing, ZERO warnings, etc)\n*** examples: SQLite\n*** anecdote: turning on warnings and forcing errors: found latent defects, forced co-workers to write better (i.e. NON sloppy) code\n* style\n** pretty printers\n** stupid IDEs (e.g. tabs, line endings, etc)\n* #defines vs inlines and debugging\n* [http://en.wikipedia.org/wiki/Hungarian_notation#Disadvantages Hungarian Notation]\n* parent keyword for classes\n* pass by reference vs pass by address, const references\n* use const!\n* stdint.h\n* boost libraries\n* stl\n* consistency of style (again? so soon?)\n* modularize, make code manageable.  There should be a limit to the number of lines in a given file.\n* function size: fit on a screen.\n* document / doxygen is it.\n* let the compiler find problems:\n** typing\n** avoid setting default values, have the compiler tell you when a garbage value might get used (this is a defect)\n** avoid default in switches\n* if/else -- smaller goes near the test",
+    "bytes": 1360
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-08-25T22:14:40Z",
+  "is_redirect": false
+}

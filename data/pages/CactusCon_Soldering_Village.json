@@ -1,0 +1,21 @@
+{
+  "title": "CactusCon Soldering Village",
+  "ns": 0,
+  "id": 1441,
+  "slug": "CactusCon_Soldering_Village",
+  "latest_revision": {
+    "id": 5845,
+    "timestamp": "2024-01-22T20:41:59Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "Eric Ose moved page [[CactusCon Soldering Village]] to [[CactusCon Hardware Village]]: Name is wrong",
+    "text": "#REDIRECT [[CactusCon Hardware Village]]",
+    "bytes": 40
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2024-01-22T20:41:59Z",
+  "is_redirect": true
+}

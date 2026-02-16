@@ -1,0 +1,21 @@
+{
+  "title": "Adding Lets Encrypt SSL To Apache",
+  "ns": 0,
+  "id": 1288,
+  "slug": "Adding_Lets_Encrypt_SSL_To_Apache",
+  "latest_revision": {
+    "id": 4864,
+    "timestamp": "2020-09-13T22:59:08Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "RobertBushman moved page [[Adding Lets Encrypt SSL To Apache]] to [[Lets Encrypt SSL On Apache]]: To make the alphabetical sort on a category page more sensible.",
+    "text": "#REDIRECT [[Lets Encrypt SSL On Apache]]",
+    "bytes": 40
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-09-13T22:59:08Z",
+  "is_redirect": true
+}

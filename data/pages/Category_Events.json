@@ -1,0 +1,21 @@
+{
+  "title": "Category:Events",
+  "ns": 14,
+  "id": 1421,
+  "slug": "Category_Events",
+  "latest_revision": {
+    "id": 5709,
+    "timestamp": "2023-10-30T00:40:31Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "You can see the current events on the calendar on our homepage [http://www.heatsynclabs.org/ HeatSyncLabs.org]. Most of the events at HeatSync Labs will not have a wiki page. For those that do we can include them here to make them easier to find by tagging them in this category.",
+    "bytes": 279
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2023-10-30T00:28:15Z",
+  "is_redirect": false
+}

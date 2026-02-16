@@ -1,0 +1,21 @@
+{
+  "title": "Website Management",
+  "ns": 0,
+  "id": 35,
+  "slug": "Website_Management",
+  "latest_revision": {
+    "id": 113,
+    "timestamp": "2009-09-18T09:08:34Z",
+    "contributor": {
+      "username": "174.17.59.186",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Front Page Information */",
+    "text": "This page is for brainstorming changes and enhancements to the website.\n== Front Page Information ==\nRelevant information that should always be visible on the front page: \n* Upcoming Events/Meetings (EventCal?)\n* Headline section outlining HeatSync Labs and the charter\n* Polls (Google Docs)\n\n== Backend ==\n* Canonical urls\n* Additional Data fields in profiles (Twitter, City, Membership Level, etc)\n* Discussion forum platform (possible unified login with wordpress or wiki)",
+    "bytes": 475
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2009-09-18T08:24:48Z",
+  "is_redirect": false
+}

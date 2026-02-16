@@ -1,0 +1,21 @@
+{
+  "title": "MSDS Index",
+  "ns": 0,
+  "id": 1125,
+  "slug": "MSDS_Index",
+  "latest_revision": {
+    "id": 4162,
+    "timestamp": "2013-09-14T15:14:21Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "Created page with \"This is a tab-separated spreadsheet; save as a text file and open in Excel (TSV) to edit. <pre> HeatSync Labs MSDS Binder\t Chemical Name Index\t \t Chemical\tCompany Acetone (Kle...\"",
+    "text": "This is a tab-separated spreadsheet; save as a text file and open in Excel (TSV) to edit.\n<pre>\nHeatSync Labs MSDS Binder\t\nChemical Name Index\t\n\t\nChemical\tCompany\nAcetone (Klean-Strip)\tBarr\nAcrylic (Acrylite)\tLucite\nButane\tBernzomatic/Worthington\nCarbon Monoxide (filed as Plywood 2/4)\t\nCharcoal Lighter\tKroger (Kingsford)\nClorox Toilet Bowl Cleaner\tClorox\nConcrete Crack Filler\tSakrete\nCutting Oil (Thread)\tCRC\nDark Thread Cutting Oil\tOatey\nDi-Electric Grease\tCRC\nFerric Chloride\tMG Chemicals\nFloetrol\tAkzo Nobel\nFlux (Liquid, for Soldering)\tKester\nFormaldehyde (filed as Plywood 3/4)\t\nGoo Gone (Spray Gel)\tGoo Gone\nIsopropyl Alcohol\t\nJoy (Liquid Soap)\tProcter & Gamble\nKerosene\tBarr\nLithium Grease (White)\tLiquid Wrench\nM-1 All Purpose Lubricant\tStarrett\nMag 1 85W-140\tWarren\nMAP-PRO Propylene Fuel\tBernzomatic/Worthington\nMethyl Methacrylate (filed as Acrylic 2/2)\t\nMineral Oil\tDurvet\nNitric Oxide (filed as Plywood 4/4)\t\nOxygen\tBernzomatic/Worthington\nPaint Thinner\tBarr\nPenetrating Magnetic Lubricant\tB'Laster\nPine Disinfectant\tZep\nPlywood\tWeyerhaeuser\nPropane\tBernzomatic/Worthington\nSimple Green Pro HD\tSimple Green\nSolder (Lead Free)\tRadio Shack\nSolder (Lead)\tRadio Shack\nSuper 77 Classic Spray Adhesive\t3M\nSuper Tech Dexron III Automatic Trans Fluid\tWarren\nVaseline (Petrolatum)\t\nVaseline Petroleum Jelly\tUnilever\nWD-40 Aerosol\tWD-40\nWD-40 Bulk Liquid\tWD-40\n\n\t\nStored at: http://wiki.heatsynclabs.org/wiki/MSDS_Index\t\n</pre>",
+    "bytes": 1433
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2013-09-14T15:14:21Z",
+  "is_redirect": false
+}

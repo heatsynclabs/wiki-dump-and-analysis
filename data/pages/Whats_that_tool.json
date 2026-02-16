@@ -1,0 +1,21 @@
+{
+  "title": "Whats that tool",
+  "ns": 0,
+  "id": 392,
+  "slug": "Whats_that_tool",
+  "latest_revision": {
+    "id": 2486,
+    "timestamp": "2011-07-07T19:41:28Z",
+    "contributor": {
+      "username": "Tim",
+      "ip": null,
+      "id": 66
+    },
+    "comment": "",
+    "text": "Whats that tool? This is setup to explain all those crazy tools out their. \n\n{| border=\"1\" cellpadding=\"2\"\n|-\n!|Title\n!|Topic\n!|Location\n!|Format\n!|comments\n|-\n||Wire / small hole EDM\n||An advanced look at wire EDM and high-speed small hole EDM\n||http://www.youtube.com/watch?v=FfNPkqDOqd4\n||Youtube\n||\n|-\n||Ram/Sinker EDM\n||Introduction to Ram/Sinker EDM\n||http://www.youtube.com/watch?v=GKFLnJNxc6w\n||Youtube\n||\n|-\n||DMLS ()\n||Direct metal laser sintering\n||http://www.youtube.com/watch?v=DwInQ4cn524\n||Youtube\n||\n|-\n||\n||\n||\n||Youtube\n||\n|}",
+    "bytes": 543
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-06-30T02:14:47Z",
+  "is_redirect": false
+}

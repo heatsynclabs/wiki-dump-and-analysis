@@ -1,0 +1,21 @@
+{
+  "title": "LinuxCNC Pinout",
+  "ns": 0,
+  "id": 1049,
+  "slug": "LinuxCNC_Pinout",
+  "latest_revision": {
+    "id": 3889,
+    "timestamp": "2012-11-15T02:03:47Z",
+    "contributor": {
+      "username": "Mooglinux",
+      "ip": null,
+      "id": 669
+    },
+    "comment": "Linuxcnc pinout file for cnc mill",
+    "text": "<pre>\n# standard pinout config file for 3-axis steppers\n# using a parport for I/O\n#\n# first load the parport driver\nloadrt hal_parport cfg=\"0x0378\"\n#\n# next connect the parport functions to threads\n# read inputs first\naddf parport.0.read base-thread 1\n# write outputs last\naddf parport.0.write base-thread -1\n#\n# finally connect physical pins to the signals\nnet Xstep => parport.0.pin-03-out\nnet Xdir  => parport.0.pin-02-out\nnet Ystep => parport.0.pin-05-out\nnet Ydir  => parport.0.pin-04-out\nnet Zstep => parport.0.pin-07-out\nnet Zdir  => parport.0.pin-06-out\n\n# create a signal for the estop loopback\nnet estop-loop parport.0.pin-10-in-not iocontrol.0.emc-enable-in\n\n# create signals for tool loading loopback\nnet tool-prep-loop iocontrol.0.tool-prepare iocontrol.0.tool-prepared\nnet tool-change-loop iocontrol.0.tool-change iocontrol.0.tool-changed\n\n# connect \"spindle on\" motion controller pin to a physical pin\n# net spindle-on motion.spindle-on => parport.0.pin-09-out\n\n###\n### You might use something like this to enable chopper drives when machine ON\n### the Xen signal is defined in core_stepper.hal\n###\n\n# net Xen => parport.0.pin-01-out\n\n###\n### If you want active low for this pin, invert it like this:\n###\n\n#setp parport.0.pin-04-out-invert 1\n\n###\n### A sample home switch on the X axis (axis 0).  make a signal,\n### link the incoming parport pin to the signal, then link the signal\n### to EMC's axis 0 home switch input pin\n###\n\nnet Xhome parport.0.pin-13-in => axis.0.home-sw-in\nnet Yhome parport.0.pin-12-in => axis.1.home-sw-in\n\n###\n### Shared home switches all on one parallel port pin?\n### that's ok, hook the same signal to all the axes, but be sure to \n### set HOME_IS_SHARED and HOME_SEQUENCE in the ini file.  See the\n### user manual!\n###\n\n#net homeswitches <= parport.0.pin-10-in\n#net homeswitches => axis.0.home-sw-in\n#net homeswitches => axis.1.home-sw-in\n#net homeswitches => axis.2.home-sw-in\n\n###\n### Sample separate limit switches on the X axis (axis 0)\n###\n\nnet X-neg-limit parport.0.pin-13-in-not => axis.0.neg-lim-sw-in\nnet X-pos-limit parport.0.pin-15-in-not => axis.0.pos-lim-sw-in\nnet Y-neg-limit parport.0.pin-11-in-not => axis.1.neg-lim-sw-in\nnet Y-pos-limit parport.0.pin-12-in-not => axis.1.pos-lim-sw-in\n\n###\n### Just like the shared home switches example, you can wire together\n### limit switches.  Beware if you hit one, EMC will stop but can't tell\n### you which switch/axis has faulted.  Use caution when recovering from this.\n###\n\n# net Xlimits parport.0.pin-13-in => axis.0.neg-lim-sw-in axis.0.pos-lim-sw-in\n\n# setup for the gamepad\nloadusr -W hal_input -KRAL GamePad\n\n</pre>",
+    "bytes": 2624
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2012-11-15T02:03:47Z",
+  "is_redirect": false
+}

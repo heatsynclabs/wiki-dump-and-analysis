@@ -1,0 +1,21 @@
+{
+  "title": "Processes",
+  "ns": 0,
+  "id": 132,
+  "slug": "Processes",
+  "latest_revision": {
+    "id": 4317,
+    "timestamp": "2014-06-05T22:04:18Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "With the variety of tools at HeatSync, this page is intended to keep a running record of the processes available. The following is a list of lab processes we have the materials for and are collecting for instructional purposes. Please refer to the [[Library]] and [[Toolshare]] pages for text, materials, or tools available for checkout.\n\n=== List of Processes ===\n*[[Paper Electronics]]\n*[[PCB Etching]]\n*[[Stencil Etching]]\n*[[Toaster Oven Reflow Soldering]]\n*[[Vacuum Forming]]\n*[[Microfiche]]\n*[[Fakerbot | 3D Printing!]]\n*[[Lasering | Laser Cutting]]\n**[[Laser Cutting Leather]] (i.e. for laptop bags)\n*[[Tapping]]\n*[[NutsandBolts]]",
+    "bytes": 637
+  },
+  "revision_count": 11,
+  "first_revision_timestamp": "2010-01-27T07:57:31Z",
+  "is_redirect": false
+}

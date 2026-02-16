@@ -1,0 +1,21 @@
+{
+  "title": "RD Works",
+  "ns": 0,
+  "id": 1250,
+  "slug": "RD_Works",
+  "latest_revision": {
+    "id": 6108,
+    "timestamp": "2024-11-21T19:53:03Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "We recommend using LightBurn instead for the [[Mini 60W Laser]]. This is the software that comes with the [[Mini 60W Laser]].  Eric had started documenting it, so I'm going to translate that over to here.\n\n=Getting started=\n\n== Open and import ==\nOpen RD Works and import your design using the menu (File | Import)\n\n== Check dimensions ==\n\nCheck that your dimensions are correct. See the transform tab (2) at the right of the screen. The icon (2) for scale is second from the right.\n\n[[File:rdworks-1.png|250px]]\n\n== Set your layer, power & speed ==\n\nBack on the work tab set the speed and power for your layers and be sure that on your layers it has output set to Yes\n\nRemember that in RD Works Scan = engrave\n\n== Simulate! ==\nSimulate your cut to be sure things look correct\n\n[[File:rdworks-simulate-icon.png]]\n\nThe icon for simulate is at the top of the screen and looks like a monitor.\n\n== Download file to the laser ==\n\nDownload the design to the machine. The download button is in the right side 2/3 down the window.\n\n[[File:rdworks2.png|250px]]\n\nKeep DEFAULT as the file name. It's short enough and doesn't have any forbidden characters.\n\n[[File:rdworks3.png|250px]]\n\nPrompt! Duplicate File!Cover old one? Click Yes.\n\n[[File:rdworks4.png|250px]]\n\nRDWorks File download success! In this case the exclamation icon is a good thing.\n\n[[File:rdworks5.png|250px]]\n\n== Move the laser ==\n\nAfter downloading use the arrow keys on the control panel move the laser to a good starting point.\n\n== Set the origin ==\nPress the origin key to set the starting point for the cut.\n\n== Check the cut path ==\nPress the frame button to see where the cut will go. Much like Run Box from [[LaserCut 5.3]]\n\nThis will make send the laser on a rectangular path around all the parts in your design without cutting anything.\n\n\n\n[[Category:Laser]]",
+    "bytes": 1824
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2020-06-26T01:26:40Z",
+  "is_redirect": false
+}

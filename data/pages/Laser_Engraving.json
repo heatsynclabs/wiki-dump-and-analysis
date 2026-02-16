@@ -1,0 +1,21 @@
+{
+  "title": "Laser Engraving",
+  "ns": 0,
+  "id": 1219,
+  "slug": "Laser_Engraving",
+  "latest_revision": {
+    "id": 4655,
+    "timestamp": "2020-06-21T23:54:09Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "initial creation",
+    "text": "General guidelines on how to get the best engraving results.  Overall, I'm really unqualified to give you help here, but this is where I'll document as I learn.\n\n= Clear Acrylic =\nThe trick here is to mirror your engrave.  You want to be engraving on the \"backside\" of the acrylic because it looks better.  As a result, you'll need to use the \"mirror\" when you go to engrave.  Create your design as you want to see it, and then just do it in software at the end.\n\n= Other Materials =\nDocument some stuff here.\n\n[[Category:Laser]]",
+    "bytes": 529
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-06-21T23:54:09Z",
+  "is_redirect": false
+}

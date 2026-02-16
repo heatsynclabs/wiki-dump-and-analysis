@@ -1,0 +1,21 @@
+{
+  "title": "IdeaPad S10-3t",
+  "ns": 0,
+  "id": 322,
+  "slug": "IdeaPad_S10-3t",
+  "latest_revision": {
+    "id": 1828,
+    "timestamp": "2011-02-07T20:03:19Z",
+    "contributor": {
+      "username": "205.241.11.6",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Its a Linux box, put Linux stuff on it */",
+    "text": "So, Intel gave us all these cool netbook tablets. What can we do with them?\n\n== MeeGo Hax ==\n\n=== Its a Linux box, put Linux stuff on it ===\nZypper is the default package management system for MeeGo.  Many standard GNU utilities are included in the default repos.  You should install these if you're a developer:\n* vim\n* gcc\n* git\n* ruby\n* ruby-irb\n\nSearching for packages is fairly straightforward:\n<pre>\n$ zypper search chromium\n</pre>\n\nInstalling packages requires root privies, which you can use sudo to gain using the password that was assigned by default (1234):\n<pre>\n$ sudo zypper install chromium\n</pre>\n\n=== Make Tablet Less Suck ===\n* Install [http://www.chromeextensions.org/appearance-functioning/chrometouch/ chromeTouch] extension.\n\n=== Install KDE ===\nFor those of you who don't RAGE RAGE RAGE about KDE, you can install KDE on to\nMeeGo, including experimental KDEPIM mobile packages, which are\nfreaking sexy.\n\n[http://userbase.kde.org/Kontact_Touch/MeeGo installation details]\n\n=== Make Virtual Keyboard Work ===\nInstructions taken from: [http://blog.neteril.org/2010/11/19/turning-your-meego-lenovo-s10-3t-into-a-real-slate/]\n\n1. To get the keyboard in place.. open the terminal and run these lines.. (The $ is the command prompt \n<pre>\n$ sudo -s\n       (password is 1234 by default)\n$ cd /etc/zypp/repos.d/\n$ sudo -s\n$ cp netbook.repo handset.repo\n$ sed 's/netbook/handset/' -i handset.repo\n$ zypper refresh # at this point you will probably have a security alert, ignore it\n$ zypper install meegotouch-inputmethodbridges meegotouch-inputmethodkeyboard meegotouch-theme meegotouch-theme-meego libmeegotouch-qtstyle meegotouch-systemui\n</pre>\n\n2. To avoid a weird parsing bug, comment out line 715 in /usr/share/themes/base/meegotouch/libmeegotouchcore/style/commonlayouts.css\nDo that by (also in the terminal), doing:\n<pre>\nvim /usr/share/themes/base/meegotouch/libmeegotouchcore/style/commonlayouts.css\n</pre>\nand then typing :715 and then using insert mode (press 'i') so you can type text. Add a /* and */ before and after the line.\nWhen done, press ESC key a few times and then :x to exit and save.\n\n3. Then you're doing to change how the meego UI/desktop thing loads. \n<pre>\nvim /etc/xdg/autostart/meego-im-uiserver.desktop \n</pre>\nThen change the Exec=*blah blah* line to say:\n<pre>\nExec=/usr/bin/meego-im-uiserver -target slate -bypass-wm-hint\n</pre>\nThen change the OnlyShowIn line to have X-MEEGO-NB at the end after the X-MEEGO-HS seperating them by a ; (colon).\nWhen done, press ESC key a few times and then :x to exit and save.\n\nOK, now if you restart you would have a keyboard.. But let's make one more mod so it's even better...\n\n4. Let's make the keyboard transparent so you don't lose have your screen..\nGo back to the terminal and run:\n<pre>\nvim /usr/share/themes/base/meegotouch/svg/meegotouch-keyboard.svg\n</pre>\nSomewhere in the first few lines you'll see something similar to:\n<pre>\n<svg version=\"1.1\"\n  id=\"meegotouch-keyboard-layer\"\n  viewBox=\"0 0 500 480\"\n  style=\"enable-background:new 0 0 500 480; opacity:0.4\"\n  xml:space=\"preserve\">\n</pre>\nExcept your version don't have \"opacity:0.4\" ..which is the part you'll add. Just throw it at the end of the line using the same commands as before.\nI recommend \"opacity:0.2\" instead of the meego recommended 0.4\n\n5. Now restart. Type \"reboot\" at the command line",
+    "bytes": 3349
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2011-02-05T04:02:47Z",
+  "is_redirect": false
+}

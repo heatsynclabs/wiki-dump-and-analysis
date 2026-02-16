@@ -1,0 +1,21 @@
+{
+  "title": "User:Nelo",
+  "ns": 2,
+  "id": 1261,
+  "slug": "User_Nelo",
+  "latest_revision": {
+    "id": 4731,
+    "timestamp": "2020-07-03T06:13:37Z",
+    "contributor": {
+      "username": "Nelo",
+      "ip": null,
+      "id": 709
+    },
+    "comment": "Am I?",
+    "text": "I am human.",
+    "bytes": 11
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-07-03T06:13:37Z",
+  "is_redirect": false
+}

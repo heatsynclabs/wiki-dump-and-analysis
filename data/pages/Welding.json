@@ -1,0 +1,21 @@
+{
+  "title": "Welding",
+  "ns": 0,
+  "id": 1372,
+  "slug": "Welding",
+  "latest_revision": {
+    "id": 6088,
+    "timestamp": "2024-09-10T02:02:57Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "station template added",
+    "text": "*'''Station Champions:''' Shaundra Newstead\n*'''Communication:''' Slack #metal channel\n*'''Certification:''' Yes required!\n*'''Events:''' None\n\n== Overview ==\nThere are both MIG and TIG welders and various equipment for using these tools. Safety certification is required please post on Slack asking for a class. When using the welding it is expected you will donate to cover the cost of gas and wire etc.\n\n'''No welding or torch work is allowed indoors.''' We do not have proper fire sprinkler system. Please use the welding table behind the lab for any welding work.\n\n== Tools ==\n[https://drive.google.com/drive/folders/1oeOuCOS7v1QFB4Q2ik1CncCepe887iXJ Lincoln Power MIG 140c]\n\n[https://drive.google.com/drive/folders/1NhS-WeXfpJbWZzr_m208nD-ai2gmBbUP Miller TIG Welder Dynasty 200 SD]\n\n[[Category:Welding]]",
+    "bytes": 810
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2022-11-30T20:01:02Z",
+  "is_redirect": false
+}

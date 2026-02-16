@@ -1,0 +1,21 @@
+{
+  "title": "Ticketed Events",
+  "ns": 0,
+  "id": 1309,
+  "slug": "Ticketed_Events",
+  "latest_revision": {
+    "id": 4997,
+    "timestamp": "2021-02-26T01:17:17Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "",
+    "text": "Here are the step-by-step instructions on how to create a ticketed event for Heatsync.  This can be used for RSVP hosted hours or other events.\n\n* Login to [https://guestlist.co/ guestlist.co]\n** Username: instructors@heatsynclabs.org\n** Password: [https://knowyourmeme.com/memes/hunter2 Hunter2]    (Not really.  You'll have to get it from an existing member)\n* Go to the [https://guestlist.co/manage/events Dashboard] (upper left corner) \n* Find a class/hosting that looks like yours and copy it. \n[[File:copy.png|500px]]\n** Edit the date and time.\n** Edit the tickets details.\n** Lather\n** Edit event details\n** Preview.\n** Rinse.\n** Correct errors.\n** Preview again.\n** Repeat\n* Publish.\n[[File:guestlistdashboard.png|500px]]\n* Copy link.\n* Share link.\n* Log in prior to event to see who has signed up.\n\n==Notes==\n* [https://guestli.st/677631 Example]\n* You can make drafts very easily.  The only thing you want to not do is delete someone else's event",
+    "bytes": 956
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2021-02-20T21:22:33Z",
+  "is_redirect": false
+}

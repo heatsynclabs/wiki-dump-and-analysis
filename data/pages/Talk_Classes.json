@@ -1,0 +1,21 @@
+{
+  "title": "Talk:Classes",
+  "ns": 1,
+  "id": 1431,
+  "slug": "Talk_Classes",
+  "latest_revision": {
+    "id": 5865,
+    "timestamp": "2024-01-28T01:53:02Z",
+    "contributor": {
+      "username": "Robert Andrews",
+      "ip": null,
+      "id": 724
+    },
+    "comment": "",
+    "text": "Classes information can be included on events page. Robert Andrews\n\nI'd agree with you. Workshop_Policy and Events might be best merged and cleaned up as well - Eric Ose\n\nLooks more like Classes, Workshop_Policy, Events, and Presentations should all be combined with things moved to their relevant sections. Perhaps we could have a past events page or something. - Eric Ose\n\nI went ahead and merged all of Workshop Policy, Presentations, Classes to Events. I hope I wasn't jumping on this too quickly. Please forgive me if I overstepped - Robert Andrews",
+    "bytes": 553
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2024-01-16T04:16:49Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "The Stony Brook Algorithm Repository",
+  "ns": 0,
+  "id": 1144,
+  "slug": "The_Stony_Brook_Algorithm_Repository",
+  "latest_revision": {
+    "id": 4265,
+    "timestamp": "2014-01-21T09:33:00Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "",
+    "text": "\n'This WWW page is intended to serve as a comprehensive collection of algorithm implementations for over seventy of the most fundamental problems in combinatorial algorithms. The problem taxonomy, implementations, and supporting material are all drawn from my book The Algorithm Design Manual. Since the practical person is more often looking for a program than an algorithm, we provide pointers to solid implementations of useful algorithms, when they are available.'\n\nGreat resource!\n\n[http://www.cs.sunysb.edu/~algorith/ The Stony Brook Algorithm Repository]\n\n\n[[Category:Programming Tutorials]]",
+    "bytes": 598
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2014-01-21T09:31:55Z",
+  "is_redirect": false
+}

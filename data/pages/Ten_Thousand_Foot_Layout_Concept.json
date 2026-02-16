@@ -1,0 +1,21 @@
+{
+  "title": "Ten Thousand Foot Layout Concept",
+  "ns": 0,
+  "id": 1275,
+  "slug": "Ten_Thousand_Foot_Layout_Concept",
+  "latest_revision": {
+    "id": 4833,
+    "timestamp": "2020-09-06T02:15:30Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "/* Investor Operational View */",
+    "text": "= Overview =\n\nThis is a conceptual layout of a 10,000 square foot space for HSL within a 15,425 square foot warehouse owned by an investor group.\n\nThis is intended as a practical property model to use in considering [[An Idea For Tempe Migration]].\n\nSee Also: [[New Space Noodling 2020]]\n\n= HSL Operational View =\n\n[[File:ten_thousand_foot_concept_floorplan-hsl-operational.png|600px]]\n\nThe west wall of KitchenSync / Class Room - shown with hashmarks in the image above - is adjoining the noisy space. To make it more usable, we could build the west wall using a noise-reducing structure. See \"Nose Reducing Wall\" below.\n\nBaths 1 and 2 would have things like Fast Orange, Goop, and a shop sink.\n\nBaths 3 and 4 would have things like a sink that doesn't have smudges of machine shop lubricant.\n\nStorage 1 would allow storage of anything, with a recommendation to cover any items that are sensitive to dust or dirt.\n\nStorage 2 would only allow storage of clean things.\n\nHaving an air break with a pressure differential may be too difficult to do in practice to be worth the upside. But it was fun to think about, so I put it in. Maybe just a wall with doors or those plastic curtain things would work.\n\n== Noise Reducing Wall ==\n\nI heard a podcaster recommend this design for noise isolation, having used it in their home recording booth. Having separate inside and outside wall studs prevents the drywall from acting as a giant microphone on one side and a giant speaker on the other. Sound vibrations aren't transferred through the studs from one side to the other like tin cans and string.\n\n[[File:noise_reducing_wall_structure.png|400px]]\n\n= Investor Operational View =\n\n[[File:ten_thousand_foot_concept_floorplan-investor-operational.png|800px]]\n\nDoors between the for-profit and HSL space would be electronically locked with HSL permission controlling passage to the HSL side, and Investor permission controlling access to the for-profit side. These doors cannot be counted as fire-egress.\n\nLeasing a for-profit space would not confer any privileges with HSL.\n\nLessors may choose to become a member of HSL and work toward earning card membership, but failure to earn card membership or loss of card membership privileges would not have any effect on the lease of for-profit space.\n\n= Investor Financial View =\n\n[[File:ten_thousand_foot_concept_floorplan-investor-financial.png|800px]]\n\nThe following are highlights from a spreadsheet I tossed together and will be providing soon. It has a lot of guesswork and presumably incorrect calculations in it at the moment. Beware these numbers. Here be dragons. If you continue you will probably be eaten by a grue.\n\n{| class=\"wikitable\"\n|+ 15,425 ft2 back-of-the-envelope numbers (substantial vetting / improvement needed)\n|-\n! Item !! Value !! Notes\n|-\n| Monthly Full Occupancy Rent || $13,900 ||\n|-\n| Monthly 80% Occupancy Rent || $11,120 || Assuming 20% of the space will not earn rent at any given moment.\n|-\n| Annual Tax || $9,482 || Tempe Commercial Rental + Maricopa Commercial Property\n|-\n| Annual Cashflow after Tax || $123,958 || Assumes zero profit, zero employees, and hence no federal tax.\n|-\n| Annual Operating Expenses || $45,000 || WAG\n|-\n| Annual Net Cashflow || $78,958 || Cashflow minus taxes minus operating expenses.\n|}\n\nI think that puts the target building price somewhere between $1.5m and 2m, but I'm still digging in on how to go from cashflow to breakeven building price. (suggestions very welcome!)",
+    "bytes": 3474
+  },
+  "revision_count": 41,
+  "first_revision_timestamp": "2020-09-05T18:24:55Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Autohacking",
+  "ns": 0,
+  "id": 198,
+  "slug": "Autohacking",
+  "latest_revision": {
+    "id": 2156,
+    "timestamp": "2011-03-29T03:24:33Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "",
+    "text": "Some resources so far\n*http://www.geekmyride.org/wiki/index.php/Main_Page\n\n\n*mc33290 is an ISO K Line Serial Link Interface, I think has to do with serial interfacing odbii\n*[http://www.elmelectronics.com/contact.html ELM] seems to make some of the (only?) odb interface chips.  They appear to have a software stack they burn onto microchip microcontrollers\n*http://www.scantool.net/parts/ has some promising software, and seems to sell ELM products and a breakout board.\n\n\nTypically, one finds that the manufacturers use the following standards though most manufactures have adopted ISO15765 CAN for 2006 and newer vehicles:\n*J1850-PWM (mainly Ford)\n*J1850-VPW (Chrysler, GM, Saturn)\n*ISO9141/ISO14230 (Acura, Chrysler, Honda, Subaru, Suzuki, Toyota, Volkswagen)\n*ISO15765 (most newer vehicles)\n\n\n'''Open Source Implementations'''\n\n*[http://www.practicalarduino.com/projects/vehicle-telemetry-platform Vehicle Telemetry Platform] from the Practical Arduino book is a derivative of the OBDuino32K using the Arduino Mega\n*http://code.google.com/p/opengauge/ looks like a great open source resource\n*[http://github.com/practicalarduino/OBDuinoMega.git OBDuinoMega]\n*[http://code.google.com/p/opengauge/wiki/OBDuino32K OBDuino32K]\n*[http://ecomodder.com/wiki/index.php/MPGuino MPGuino] Miles Per Gallon monitor using the Arduino\n\n\n'''Commercial Implementations'''\n\nThese links are basically for commercial versions of the obdII interface. Almost all of them give you a connector with free software that can read the basic trouble codes. Some give you the manufacturer specific \"extended\" or \"enhanced\" support codes that allow a person to troubleshoot even more components.\n\n*[http://autoenginuity.com/ AutoEnginuity.com]\n\n\n'''Hardware'''\n{| border=\"1\" class=\"wikitable\"\n!Adapter\n!Form factor\n!Other features\n!Cost(at time of writing)\n!Comments\n|-\n|Scantool.net [http://www.scantool.net/scan-tools/smart-phone/obdlink-bluetooth.html OBDLink]\n|Adapter and cable (adapter can be separated from cable)\n|Rx/Tx Host<->ECU status lights\n|$149.90(Special offer), $199.90 Normal\n|Flash upgradable firmware, Powersave/sleep function, [https://www.scantool.net/forum/ Support forums]\nReports of good customer support.\nThis is the best adapter if you want the fastest PID read speed.\n|-\n|PLX Devices [http://www.plxkiwi.com/kiwibluetooth/ Kiwi Bluetooth]\n|Adapter and cable (adapter cannot be separated from cable)\n|On/off switch, link light\n|$99.99\n|[http://www.plxdevices.com/forum/index.php Support forums]\n|-\n|[http://www.obdkey.com/ OBDKey]\n|Single moulded unit, smallest adapter\n|Status/activity LED on side\n|&pound;103.56\n|\n|-\n|[http://www.ebay.com/ Adapter from China/via ebay/amazon]\n|Single moulded unit\n|Rx/Tx Host<->ECU status lights\n|$20.00 to $60.00\n|Many units seem to suffer poor build quality and reliability issues. Some units are perfectly fine. Make sure you purchase with a buyer who has a decent returns policy should the unit turn out to be defective. '''I would recommend avoiding this adapter, *especially* if you intend to use it on a Ford or other vehicle which uses the J1850-PWM protocol'''\n|}",
+    "bytes": 3108
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2010-06-05T01:08:27Z",
+  "is_redirect": false
+}

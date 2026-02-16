@@ -1,0 +1,21 @@
+{
+  "title": "Maple",
+  "ns": 0,
+  "id": 437,
+  "slug": "Maple",
+  "latest_revision": {
+    "id": 2666,
+    "timestamp": "2011-08-18T23:08:36Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "Created page with 'Links for maple: * [http://leaflabs.com/docs/unix-toolchain.html UNIX toolchain howto]'",
+    "text": "Links for maple:\n* [http://leaflabs.com/docs/unix-toolchain.html UNIX toolchain howto]",
+    "bytes": 86
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-08-18T23:08:36Z",
+  "is_redirect": false
+}

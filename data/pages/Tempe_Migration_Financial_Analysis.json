@@ -1,0 +1,21 @@
+{
+  "title": "Tempe Migration Financial Analysis",
+  "ns": 0,
+  "id": 1280,
+  "slug": "Tempe_Migration_Financial_Analysis",
+  "latest_revision": {
+    "id": 4841,
+    "timestamp": "2020-09-08T21:14:52Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "/* Spreadsheet: Is 5% ROI Possible? */",
+    "text": "These numbers are meant to accompany [[An Idea For Tempe Migration]] and [[Ten Thousand Foot Layout Concept]].\n\nSee Also: [[New Space Noodling 2020]]\n\n= Spreadsheet: Is 5% ROI Possible? =\n\n[[File:Tempe_Migration_2020_Financials.xlsx]]: 20 years of projected monthly ROI and cashflow for a 15,425 square foot building.",
+    "bytes": 317
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2020-09-08T21:01:29Z",
+  "is_redirect": false
+}

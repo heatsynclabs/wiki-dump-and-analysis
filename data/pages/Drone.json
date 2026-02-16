@@ -1,0 +1,21 @@
+{
+  "title": "Drone",
+  "ns": 0,
+  "id": 434,
+  "slug": "Drone",
+  "latest_revision": {
+    "id": 2651,
+    "timestamp": "2011-08-18T18:05:19Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "moved [[Drone]] to [[UAS]]:&#32;UAS is more descriptive, I think....",
+    "text": "#REDIRECT [[UAS]]",
+    "bytes": 17
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-08-18T18:05:19Z",
+  "is_redirect": true
+}

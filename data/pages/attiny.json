@@ -1,0 +1,21 @@
+{
+  "title": "attiny",
+  "ns": 0,
+  "id": 606,
+  "slug": "attiny",
+  "latest_revision": {
+    "id": 3058,
+    "timestamp": "2011-12-06T18:25:53Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "/* Links */",
+    "text": "= atTiny =\n\n== Links ==\n* [http://www.sparkfun.com/tutorials/57 SparkFun power tutorial]\n* [http://hlt.media.mit.edu/?p=1229 high-low tech programming an attiny w/ arduino tutorial]",
+    "bytes": 181
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-12-04T19:15:23Z",
+  "is_redirect": false
+}

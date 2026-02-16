@@ -1,0 +1,21 @@
+{
+  "title": "MediaWiki:Common.js",
+  "ns": 8,
+  "id": 2,
+  "slug": "MediaWiki_Common.js",
+  "latest_revision": {
+    "id": 7,
+    "timestamp": "2009-09-04T23:59:09Z",
+    "contributor": {
+      "username": "WikiSysop",
+      "ip": null,
+      "id": 1
+    },
+    "comment": "Blanked the page",
+    "text": "",
+    "bytes": 0
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2009-09-04T23:56:17Z",
+  "is_redirect": false
+}

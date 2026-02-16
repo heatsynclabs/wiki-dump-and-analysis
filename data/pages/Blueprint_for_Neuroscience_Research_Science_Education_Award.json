@@ -1,0 +1,21 @@
+{
+  "title": "Blueprint for Neuroscience Research Science Education Award",
+  "ns": 0,
+  "id": 355,
+  "slug": "Blueprint_for_Neuroscience_Research_Science_Education_Award",
+  "latest_revision": {
+    "id": 2160,
+    "timestamp": "2011-03-29T04:28:29Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "",
+    "text": "=Project Synopsis=\nThe NIH [http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-11-013.html Blueprint for Neuroscience Research Science Education Award] is a cooperative effort among 16 NIH Institutes, Centers and Offices that support neuroscience research.  Included among the Blueprint’s goals are development of new tools, training opportunities, and other resources to assist neuroscientists in both basic and clinical research.  The goal of the RFA is to fund the development and evaluation of innovative model programs and materials for enhancing knowledge and understanding of neuroscience among K-12 students and their teachers.  This program seeks to 1) provide education to youth on neuroscience, and 2) ensure that highly trained scientists will be available in adequate numbers to address the Nation's research needs in neuroscience. The award provides support for the formation of partnerships between scientists and educators for the development and evaluation of programs and materials that will enhance knowledge and understanding of neuroscience.  The intended focus is on topics not well addressed in existing efforts by educational, community, or media activities.\n\n\nBecause of the disproportionately low representation of underrepresented individuals in biomedical, behavioral and clinical fields, applications that will foster science education among underrepresented racial and ethnic groups, individuals with disabilities, individuals from socially, culturally, economically, or educationally disadvantaged backgrounds that have inhibited their ability to pursue a career in health-related research are encouraged.\n==Letter of Intent==\n[[File:HeatsyncLabsLoI.pdf]]\n\n==Phase One==\n\n#We build a passive and opto isolated amp and electrode rig of at least 2 channels based on the OpenEEG project. This is a known safe design that won't require further testing other than to assure our quality control produces a safe product.\n#Use the Arduino to generate a square wave program to interpret the signal and display some feedback either on computer, phone, or led based output.\n#Write modules based on this basic hardware setup.\n\n===Modules===\n\n#Take advantage of the noisy environment and show what can affect the signal.\n#Measuring hand movements. Show left vs right and where to measure.\n\n\n==Budget==",
+    "bytes": 2322
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-03-29T04:21:20Z",
+  "is_redirect": false
+}

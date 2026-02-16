@@ -1,0 +1,21 @@
+{
+  "title": "Transhumanism",
+  "ns": 0,
+  "id": 225,
+  "slug": "Transhumanism",
+  "latest_revision": {
+    "id": 1457,
+    "timestamp": "2010-11-07T20:58:22Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "moved [[Transhumanism]] to [[Augmenting Humanity]]",
+    "text": "#REDIRECT [[Augmenting Humanity]]",
+    "bytes": 33
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-11-07T20:58:22Z",
+  "is_redirect": true
+}

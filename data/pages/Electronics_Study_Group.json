@@ -1,0 +1,21 @@
+{
+  "title": "Electronics Study Group",
+  "ns": 0,
+  "id": 1093,
+  "slug": "Electronics_Study_Group",
+  "latest_revision": {
+    "id": 4087,
+    "timestamp": "2013-06-08T03:51:40Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "Created page with \"The electronics study group is for anyone beginning or continuing their electronics education. Check the [http://www.heatsynclabs.org/events/ schedule] for the next class whic...\"",
+    "text": "The electronics study group is for anyone beginning or continuing their electronics education. Check the [http://www.heatsynclabs.org/events/ schedule] for the next class which is currently occurring on a Wednesday evening. \n\nCheck out the [[Breadboard Examples]] which demonstrate using common components.",
+    "bytes": 306
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2013-06-08T03:51:40Z",
+  "is_redirect": false
+}

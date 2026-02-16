@@ -1,0 +1,21 @@
+{
+  "title": "User:Rrix",
+  "ns": 2,
+  "id": 983,
+  "slug": "User_Rrix",
+  "latest_revision": {
+    "id": 3711,
+    "timestamp": "2012-08-15T07:49:05Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "Holy shit, that's me!",
+    "text": "Ryan Rix is HeatSync Labs' Secretary of the Board. But that doesn't matter,\nhe'd rather talk about\n[http://www.flickr.com/photos/hslphotosync/7225303510/in/photostream rockets]\nor 3D printing.\n\nRyan's really good at:\n* Software Development\n** Ruby on Rails\n** Javascript\n** Cross platform Mobile applications\n** Qt/C++\n* Linux Administration\n* 3D Printing\n* Breaking shit\n\nRyan's one of the \"day crowd\" people, working on software contracts during the\nday and building cool things at night. Basically, he gets paid to hang out at\nHSL and show people the cool toys we have. He's also in charge of the 3D\nprinting station and the monthly 3D printing nights. Ryan is one of the guys\nin charge of the IT, along with [[User:will]] and [[User:uberschnitzel]]. Ryan\ncreated the tablet/phone doorlock control application and is in charge of our\n[[SpaceAPI]] endpoint.\n\nIf you need to get a hold of Ryan, he's reachable on Twitter (@rrrrrrrix) or\nemail (ry@n.rix.si) or in the space.",
+    "bytes": 974
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2012-08-15T07:49:05Z",
+  "is_redirect": false
+}

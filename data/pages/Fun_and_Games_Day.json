@@ -1,0 +1,21 @@
+{
+  "title": "Fun and Games Day",
+  "ns": 0,
+  "id": 1488,
+  "slug": "Fun_and_Games_Day",
+  "latest_revision": {
+    "id": 6028,
+    "timestamp": "2024-02-28T17:41:50Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "prototypes and a link to DMA event",
+    "text": "== When ==\nSaturday 03/09/2024 any time from 11am - 5pm\n\nThis is during [https://downtownmesa.com/do/i-love-mesa-day-2024 I Love Mesa Day] when there will be a lot going on downtown.\n\n== Description ==\nCome have fun making and playing games. We will be making and giving away free games, puzzles, and toys with the laser cutter, 3d printer, soldering irons and other tools in the lab. This free event is for everyone. Anyone under 18 must have an adult with them.\n\n== Prototypes ==\nI've worked on some prototypes for [https://www.youtube.com/watch?v=Wz6q03b8R6U Iso-Path], and [https://www.printables.com/model/72515-abstract-strategy-game-leaves Leaves] which are both abstract strategy games. A simple balance game, and a fun spinner with LED's. A big multi-person marble maze is being constructed. A couple electronic games in the works as well.\n\n<gallery widths==947px heights==40px>\nFile:Fun_and_Games_Day_Prototype_Spinner.jpg\nFile:Fun_and_Games_Day_Prototypes.jpg\n</gallery>\n\n== History ==\nWe did a [https://guestlist.co/events/736986 Fun and Games Design Challenge] on 02/19/2023. The intention was to create files for projects we could then turn around and use during Fun and Games Day. There were not many people signed up.\n\n[[Category:Events]]",
+    "bytes": 1254
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2024-02-07T21:22:20Z",
+  "is_redirect": false
+}

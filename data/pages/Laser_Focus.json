@@ -1,0 +1,21 @@
+{
+  "title": "Laser Focus",
+  "ns": 0,
+  "id": 1257,
+  "slug": "Laser_Focus",
+  "latest_revision": {
+    "id": 5589,
+    "timestamp": "2023-08-11T04:14:50Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Focus */",
+    "text": "If you want to be successful, you need to make sure that you have the laser at the right focal distance.  The process is the same for both lasers, although you use the computer for one, and the manual knob for the other.\n \n=Focus=\n# Jog laser head over to the material using computer or keypad\n# Set the Z-axis\n## Focus will be 6mm below air cone for the 80 Watt laser and 4.2mm for the 60 Watt laser\n## Place the puck near, but not under, the laser and on the material\n## Move the bed up and down and try to get the puck to slide under the laser\n### Do '''not''' simply put the puck on the material and raise the table until it hits the laser.  That's how you'll crash it.  Do it to the side and try to slide it in so that head crash isn't as likely.\n## '''If you run the head through the table hit the E-STOP and see [[Laser Cutter Emergency Guidelines]]'''\n\n=Out of focus=\nThere are times where you want to do work with the laser de-focused.  You'll have to figure that out on a per material basis.\n\n[[Category:Laser]]",
+    "bytes": 1021
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2020-06-27T18:56:06Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Operations Directors",
+  "ns": 0,
+  "id": 391,
+  "slug": "Operations_Directors",
+  "latest_revision": {
+    "id": 2443,
+    "timestamp": "2011-06-17T05:54:00Z",
+    "contributor": {
+      "username": "Huertanix",
+      "ip": null,
+      "id": 20
+    },
+    "comment": "",
+    "text": "As per our transition away from a nanny-board, I have a list of ops positions currently under consideration:\n\n* '''Blogger''' - Writes Meeting, Local Project, and This Week in Photos blog posts.\n* '''Photographer''' - Takes awesome photos of stuff that happens in the lab and things built there.\n* '''Events Coordinator''' - Hunts down and books speakers, gets meeting info to the Office of Marketing and Blogger.\n* '''Resource Manager''' - Basically the same things the Resource board position did.\n* '''Resource Manager''' - Responsible for matters regarding HeatSync Labs's physical space.\n* '''Minister/Ministress of Propaganda''' - Designs branded materials, such as business cards, stickers, shirts, bandanas, and flags.\n* '''Grant Hunter''' - Person to hunt down grants and either apply for them on HSL's behalf or forward info to people that might be interested.\n* '''Ambassador''' - Tell other hackerspaces about HeatSync Labs and what its up to, especially at Hackerspace call-in, Hacker/Maker events, and visits to other hackerspaces.",
+    "bytes": 1045
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-06-17T05:51:12Z",
+  "is_redirect": false
+}

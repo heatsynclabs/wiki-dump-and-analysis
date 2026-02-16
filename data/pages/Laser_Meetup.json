@@ -1,0 +1,21 @@
+{
+  "title": "Laser Meetup",
+  "ns": 0,
+  "id": 1382,
+  "slug": "Laser_Meetup",
+  "latest_revision": {
+    "id": 6819,
+    "timestamp": "2026-01-27T05:51:11Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "List some approved materials",
+    "text": "=Overview=\n\nLaser Meetup is on the 2nd Sunday of each month from 12pm - 4pm.\n\nCome hang out, and cut and engrave projects with the laser cutters. No experience necessary!\n\nTime on the lasers is first-come, first-served, but priority will be given to projects that are ready-to-cut and will take less than 30 minutes.\n\nIf you don't have a project yet, just come out and learn! We have some small examples you can quickly cut to get experience.\n\n\n=What to Bring=\n\nYou'll want [https://wiki.heatsynclabs.org/wiki/Laser_Material_Guidelines#Approved approved material] to cut, such as:\n\n*Plywood up to 12mm thick\n*Acrylic (be ready to tell us what brand and type it is!)\n*Cardboard\n*Medium-Density Fiberboard\n\nIf you don't have material, we do have scraps available to use for practice but be aware these tend to be small.\n\nSome materials are NEVER allowed, including:\n\n*PVC or anything that may contain PVC; it releases toxic gas when cut! If there's any doubt, you won't be allowed to cut it, so be ready to tell us what brand and version of material you have.\n*Vinyl\n*Metal (not even for engraving)\n\nNone of these items is required, but bringing them will help ensure your project is successful:\n\n*A laptop. (We also have a limited number of desktop machines available.)\n*A complete design file in a vector format such as .SVG or .DXF.\n*A USB thumb drive. (Or you can connect to our wifi and save files on our network drive.)\n*Design software such as:\n**[https://inkscape.org/ Inkscape] (steep learning curve, but free, open-source, and works on Windows, Mac, and Linux)\n**Adobe Illustrator\n**Any other software that can export .SVG and/or .DXF.\n\n=Laser Certification=\n\nWhile you will learn a lot attending this event, it will not make you certified to use the laser on your own.\n\nThere is a separate 3 hour training that covers a lot of safety and more details about the proper usage and problems you may encounter. More info here: [https://wiki.heatsynclabs.org/wiki/Laser_FAQ#Laser_Certification Laser Certification]\n\n[[Category:Laser]]\n[[Category:Events]]",
+    "bytes": 2057
+  },
+  "revision_count": 15,
+  "first_revision_timestamp": "2023-04-20T18:30:38Z",
+  "is_redirect": false
+}

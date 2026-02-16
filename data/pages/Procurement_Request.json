@@ -1,0 +1,21 @@
+{
+  "title": "Procurement Request",
+  "ns": 0,
+  "id": 360,
+  "slug": "Procurement_Request",
+  "latest_revision": {
+    "id": 3169,
+    "timestamp": "2012-03-09T04:00:24Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "'''To request an expense from the Treasurer, email purchasing@heatsynclabs.org with the following info:'''\n\n\nREQUEST BY: \n\nREQUEST DATE: \n\nNEED-BY DATE: \n\nDESCRIPTION:\n\n\n\nJUSTIFICATION:\n\n\n\nVENDOR INFORMATION:\n\n\n\nSUMMARY OF COSTS:\n\n\n\n(Treasurer use)\n\nDOC ID#: \n\nCOST AREA: \n\nAPPROVALS: \n\nChampion: \n\nTreasurer:",
+    "bytes": 309
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2011-04-06T02:02:03Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "CactusCon Hardware Village",
+  "ns": 0,
+  "id": 1440,
+  "slug": "CactusCon_Hardware_Village",
+  "latest_revision": {
+    "id": 5964,
+    "timestamp": "2024-02-07T02:14:38Z",
+    "contributor": {
+      "username": "Robert Andrews",
+      "ip": null,
+      "id": 724
+    },
+    "comment": "/* Overview */",
+    "text": "== Overview ==\nThe upcoming [https://www.cactuscon.com/ CactusCon] is on Friday and Saturday Feb 02/16 and 02/17/2024.\n\nHeatSync Labs helps host the soldering at the hardware village for [https://www.cactuscon.com/ CactusCon] which is an annual information security conference in Arizona.\n\nThe soldering event focuses on the conference electronic conference badges which varies from year to year. They typically require some amount of soldering to assemble, and often a prototyping area which they can add things.\n\nHeatSync Labs brings out a bunch of soldering iron kits and volunteers to help those just learning soldering, or those who just need to know which steps to take on the current years badge.\n\nIf you are interested in volunteering for the Soldering Village reach out to Robot Ambassador on Slack, or find the post on the discussion group.\n\n[[Category:Events]]",
+    "bytes": 871
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2024-01-22T20:22:29Z",
+  "is_redirect": false
+}

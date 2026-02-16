@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ page_title }}</h1>
+
+<div class="page-meta">
+  <span><strong>Revisions:</strong> {{ revision_count }}</span>
+  <span><strong>Size:</strong> {{ (bytes / 1024)|round(1) }}KB</span>
+  <span><strong>Created:</strong> {{ first_timestamp[:10] }}</span>
+  <span><strong>Last Updated:</strong> {{ latest_timestamp[:10] }}</span>
+  <span><strong>Category:</strong> {{ category }}</span>
+</div>
+
+{% if has_improved %}
+<div class="page-wrapper">
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="current">Current</button>
+    <button class="tab-btn" data-tab="improved">Improved</button>
+    <button class="tab-btn" data-tab="diff">Diff</button>
+  </div>
+
+  <div id="tab-current" class="tab-content active">
+    <div class="wiki-content">
+      {{ current_html | safe }}
+    </div>
+  </div>
+
+  <div id="tab-improved" class="tab-content">
+    {{ change_summary | safe }}
+    <div class="improved-content">
+      {{ improved_html | safe }}
+    </div>
+  </div>
+
+  <div id="tab-diff" class="tab-content">
+    {{ change_summary | safe }}
+    {{ diff_html | safe }}
+  </div>
+</div>
+{% else %}
+<div class="wiki-content">
+  {{ current_html | safe }}
+</div>
+{% endif %}
+{% endblock %}

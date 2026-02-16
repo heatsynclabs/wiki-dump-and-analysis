@@ -1,0 +1,21 @@
+{
+  "title": "Lasering",
+  "ns": 0,
+  "id": 365,
+  "slug": "Lasering",
+  "latest_revision": {
+    "id": 2580,
+    "timestamp": "2011-08-14T02:14:57Z",
+    "contributor": {
+      "username": "72.44.240.228",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "For the HeatSync laser, see [[Laser Cutter]]\n\n=Epilog Resources=\n\n==Howto==\nInstall the drivers and plug in the powered laser cutter. The machine should be recognized as a regular printer.  Basically thats it, you print to it.  The epilog vastly prefers Corel Draw as the design program so I recommend that.  You can get a trial at http://www.corel.com/servlet/Satellite/us/en/Product/1208530085783  Vector cuts must be 'hairline' or between .001 and .007 inches wide (depending on resolution), all else rasters.\n\n==Drivers==\n*[http://www.epiloglaser.com/downloads_ext.htm Official Epilog driver for Windows] - Vector cuts must be 'hairline' or between .001 and .007 inches wide (depending on resolution), all else rasters\n*http://hci.rwth-aachen.de/lasercutter Open Source CUPS Linux/Mac driver  [http://hci.rwth-aachen.de/tiki-download_wiki_attachment.php?attId=1069&download=y Direct Download] - vector cuts must be .5pt and red, all else rasters\n\n=Resources=\n*http://www.laserbits.com/ Ordering supplies, cleaners and more\n*http://www.sawmillcreek.org/ Great forum where people talk lasers\n*http://www.cnczone.com/forums/laser_engraving_cutting_machines/ Another great forum where people talk lasers\n\n=Buying Materials=\n\n==Plastics==\nYou probably want acrylic.  \n*Port Plastics 480 813 6118 - Good selection of remnants (rems or cutoffs) for fairly cheap \n\n==Wood==\nCheap plywood can give mixed results due to the glue and air in between layers.  However for the price you still can't beat it.\n*Home Depot\n*Lowes",
+    "bytes": 1516
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-05-09T18:53:51Z",
+  "is_redirect": false
+}

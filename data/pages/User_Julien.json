@@ -1,0 +1,21 @@
+{
+  "title": "User:Julien",
+  "ns": 2,
+  "id": 1376,
+  "slug": "User_Julien",
+  "latest_revision": {
+    "id": 5468,
+    "timestamp": "2023-01-28T21:59:44Z",
+    "contributor": {
+      "username": "Julien",
+      "ip": null,
+      "id": 720
+    },
+    "comment": "/* Laser cut 3d box for my previous LED project */",
+    "text": "I will try to keep track of my project and certifications on this page!\n\n__TOC__\n\n== Projects ==\n\n=== Current ===\n\nList my current projects. Order can be somewhat random.\n\n\n=== Done ===\n\n==== Laser cut box for the LED project ====\n\n'''Date:''' 2022-01-28\n\n'''Materials:'''\n\n* Scrap of 3mm plywood from the lab\n\n'''Detail:'''\n\n* Speed: 10mm/s\n* Power: 50%\n\n'''What I learned:'''\n\n* I wanted something quickly because we were getting close to the end of public time, but next time I should definitely take into consideration the kerf\n\n==== LED lighting for my office shelf ====\n\n'''Started:''' 2022-12-31\n\n'''Ended:''' 2023-01-21\n\n'''Materials:'''\n\n* WS2812B LED (~2.5m) 30led/m\n* NodeMCU (ESP8266) on which I flashed WLED\n* 5v 4A power supply\n* A capacitor (can't remember the capacitance)\n* Some wire\n\n'''Detail:'''\n\n* I've cut 5 strips of 15led, soldered them together (using ~50cm between each)\n* Flashed WLED on my NodeMCU\n* The power supply:\n** feeds the NodeMCU on VIN and GND. The capacitor is placed on this connection. The idea is that if I turned from dim green to bright white, the power supply might be slow to adjust and the NodeMCU might reset (lose power). But with the capacitor, this one will \"discharge\", providing power to the NodeMCU while the power supply adjust. Thanks David for the tip!\n** feeds the LED Strip\nIn theory, I would need a maximum of 4.5A=75led * 0.06A (60mA) for the strips, that's the theoretical maximum for full-brightness white. But I didn't have one handy, so I'll probably set WLED to use max 3.5A, I believe that'll give enough brightness and it leaves 0.5A for my NodeMCU which I believe is enough.\n\n'''What I learned:'''\n\n* everything above :-) Soldering was.. difficult. Everything seems very small haha.\n\n== Certifications ==\n\n2023-09-01: Laser cutting certification by Eric\n\n\n== Templates ==\n\n=== Project ===\n\n  ==== Name ====\n  \n  <nowiki>'''Started:''' 2022-12-31</nowiki>\n  \n  <nowiki>'''Ended:''' current</nowiki>\n  \n  <nowiki>'''Materials:'''</nowiki>\n  \n  * A\n  * B\n  * C\n  \n  <nowiki>'''Detail:'''</nowiki>\n  \n  * give\n  * some\n  * details\n  ** sublist\n  \n  <nowiki>'''What I learned:'''</nowiki>\n  \n  * list",
+    "bytes": 2164
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2023-01-09T18:10:35Z",
+  "is_redirect": false
+}

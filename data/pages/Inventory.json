@@ -1,0 +1,21 @@
+{
+  "title": "Inventory",
+  "ns": 0,
+  "id": 1321,
+  "slug": "Inventory",
+  "latest_revision": {
+    "id": 5049,
+    "timestamp": "2021-11-05T20:22:07Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "/* How can I tell which is which? */",
+    "text": "This documents Heatsync Labs policies around inventory management.\n\n=Position statement=\nHeatsync Labs is a Hackerspace, not a storage space.  As a result it should be actively used for work, not a place for things that might be worked on someday.  However, for large projects that are in-progress it is sometimes necessary for them to be temporarily left at the lab.  To facilitate that we have green Parking Passes to keep the number of projects manageable.  \n\n= What does this apply to =\n* Member projects\n* Member materials\n* Member tools\n\n= What doesn't this apply to=\n* Heatsync tools\n* Heatsync materials\n* Member tools on long-term loan to Heatsync\n\n=How can I tell which is which?=\nLab equipment should have an [[asset tags]].\n\n= Parking Passes =\nParking passes are green tags that are attached to your project.  They must have the following information:\n\n* Your name\n* Contact information\n* Current date\n\n[https://wiki.heatsynclabs.org/wiki/HYH_Meeting_2012-11-08 Parking passes are only valid for 7 days] and the project can not disrupt the function of the lab.\n\n== Flat stock ==\nFlat stock has slightly different rules due to the fact that it is bulky to transport and not everyone has a car to transport it back and forth.\n\n* Flat stock may stay at the lab for 30 days, with a proper parking pass.\n* After 30 days it is subjected to the same red tag process and can be either taken by a member or moved to scrap for community project use.\n\n'''Note:'''  We may come up with a different process for this, but if so it will be updated via proposal and this page will hopefully be updated as well.\n\n=Red tags=\nAny equipment or material that has an expired or invalid (lacking date or member information) parking pass can be red-tagged at any time. Red tags are valid for 14 days.  Any time after 14 days the material can either be taken by a member or discarded.\n\n== Process ==\n* Fill out a red tag and attach it to the item in question\n* Make a good faith effort to contact the member that owns the material.  This means you should:\n** Call/text/email the contact information on the parking pass.\n** Post to the Google group about the red tag.\n** Post in slack (#red_tags) about the red tag.  @ the member directly as well to let them know.",
+    "bytes": 2250
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2021-05-12T01:08:36Z",
+  "is_redirect": false
+}

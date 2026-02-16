@@ -1,0 +1,21 @@
+{
+  "title": "Install MediaWiki On Lightsail",
+  "ns": 0,
+  "id": 1289,
+  "slug": "Install_MediaWiki_On_Lightsail",
+  "latest_revision": {
+    "id": 4866,
+    "timestamp": "2020-09-13T22:59:48Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "RobertBushman moved page [[Install MediaWiki On Lightsail]] to [[MediaWiki On Lightsail]]: To make the alphabetic sort on a Category page more sensible.",
+    "text": "#REDIRECT [[MediaWiki On Lightsail]]",
+    "bytes": 36
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-09-13T22:59:48Z",
+  "is_redirect": true
+}

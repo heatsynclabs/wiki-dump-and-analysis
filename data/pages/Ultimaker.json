@@ -1,0 +1,21 @@
+{
+  "title": "Ultimaker",
+  "ns": 0,
+  "id": 991,
+  "slug": "Ultimaker",
+  "latest_revision": {
+    "id": 5341,
+    "timestamp": "2022-09-20T17:28:32Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "'''The Ultimaker is running, pending upkeep by [[User:Dfarms]].'''\n\n== Basics ==\n\nTake a look at our [[Ultimaker Quickstart Guide]] for your five minute crash\ncourse on the Ultimaker 3D printer.\n\n== Future Plans ==\n\n[[User:Dfarms|I'd]] Really like to update our machine to the Ultimaker 2 at some point.\n\n== Tasks ==\n* Clean Hot end every month\n\n== Upkeep Log ==\n\n=== 8 June 2014 ===\n* Switched to E3d metal hot end with new bowden clamp system\n* Added Heated bed to allow for printing with different materials and allowing larger prints\n\n=== 30 November 2012 ===\n* New PEEK tube turned on Lathe by colin\n* Colin installed the Makerbot mk6 extruder drive\n* Prints back up to installed quality.\n\n=== 14 November 2012 ===\n* Machine down pending new PEEK from Colin and Jake\n\n=== 18 October 2012 ===\n* Set up remote gcode generation through dropbox (contact [[User:Rrix]])\n\n=== 12 October 2012 ===\n* Flashed Marlin Rev2.0 on to machine\n* Set up RepetierHost for GCode generation\n\n[[Category:3D-Printing]]",
+    "bytes": 1001
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2012-10-18T23:41:21Z",
+  "is_redirect": false
+}

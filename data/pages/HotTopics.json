@@ -1,0 +1,21 @@
+{
+  "title": "HotTopics",
+  "ns": 0,
+  "id": 602,
+  "slug": "HotTopics",
+  "latest_revision": {
+    "id": 3723,
+    "timestamp": "2012-08-24T06:22:51Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "/* When? */",
+    "text": "=What is it? Like the store?=\nHot Topics is our unfortunately named lightning talks series modeled on events like Ignite, Ted, and [http://www.noisebridge.net/wiki/Five_Minutes_of_Fame Noisebridge's Five Minutes of Fame]. Talks are <5 minutes and generally revolved around creation and hackerspace culture.\n\n=When?=\nHot Topics is generally scheduled to coincide with Mesa's monthly Second Friday event starting between 7 and 8pm, however check the [http://www.heatsynclabs.org/events/ Event Calendar] for confirmation.\n\n=Why?=\nIt is an opportunity to :\n*keep up to date with each other's projects\n*connect with other hackerspaces \n*explain to the world at large what 'hackers' get up to\n\n=How do I participate?=\nSend an email to info@heatsynclabs.org with your presentation topic and title and we'll notify the speakers prior to the event.  If your talk wasn't accepted this month, submit again!\n\n=Past Presentations=\n==9/15==\n*[http://www.youtube.com/watch?v=IuexRmzvi6g Will Bradley, LED Matrix, laser engraving and fabrics project]\n*[http://www.youtube.com/watch?v=eB0imlt_51o Jasper Nance, SEM Project update]\n*[http://www.youtube.com/watch?v=1RMV0yxxMh8 Harry Meier, Transcranial DC stimulation]\n*[http://www.youtube.com/watch?v=9NRjHgD7WRA Prescott Ogden, Introduction to Bitcoin]\n*[http://www.youtube.com/watch?v=xRFm-LCqL1w Killhamster, Introduction to Buttcoin]\n*[http://www.youtube.com/watch?v=OBh5y_NMHjQ Isaac Olson, Local Motors' Open Source Car]\n*[http://www.youtube.com/watch?v=QOcn3ORc9dw Clark Jones, Digital Altimeters]\n\n==11/11 ==\n*[http://www.youtube.com/watch?v=n7Jy0jDZACo Scott Bailey, Draw bot build updates]\n*[http://www.youtube.com/watch?v=Sd6d0mrdUKQ Chad Stearns, The Mathematics of Music]\n*[http://www.youtube.com/watch?v=KOm-dmwaMBc Justin Benore, Anodized Screen Printing]\n*[http://www.youtube.com/watch?v=ZjvOgjA9bLE Katherine George, SouthWest Scrap Exchange]",
+    "bytes": 1892
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-11-03T18:31:54Z",
+  "is_redirect": false
+}

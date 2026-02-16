@@ -1,0 +1,21 @@
+{
+  "title": "ArizonaCovid19Stats",
+  "ns": 0,
+  "id": 1297,
+  "slug": "ArizonaCovid19Stats",
+  "latest_revision": {
+    "id": 4946,
+    "timestamp": "2020-10-09T15:05:11Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "",
+    "text": "[[File:2020-10-09-az-cases-and-deaths.png]]\n\nSource: [https://covidtracking.com/data/state/arizona The COVID Tracking Project]\n\nFor comparison, the top 10 causes of death in AZ (not counting COVID-19, approximated from national numbers):\n\n* Heart Disease: 39 deaths per day\n* Cancer: 36 deaths per day\n* Accidents: 10 deaths per day\n* Chronic Lower Respiratory Disease: 10 deaths per day\n* Stroke: 9 deaths per day\n* Alzheimer’s: 7\n* Diabetes: 5\n* Influenza & Pneumonia: 3\n* Nephritis, etc: 3\n* Suicide: 3\n\n\n[[Category:InterestingData]]",
+    "bytes": 538
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2020-10-09T14:56:38Z",
+  "is_redirect": false
+}

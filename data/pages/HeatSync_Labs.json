@@ -1,0 +1,21 @@
+{
+  "title": "HeatSync Labs",
+  "ns": 0,
+  "id": 164,
+  "slug": "HeatSync_Labs",
+  "latest_revision": {
+    "id": 5055,
+    "timestamp": "2022-04-01T16:29:15Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "/* Our Purpose */",
+    "text": "== Our Purpose ==\n\nHeatSync Labs is an Arizona nonprofit organization aimed at empowering engineers, artists, and inventors to push the limits of technology beyond its intended use. We host public hours (that are posted on the our calendar).\n\nThe concept for HeatSync Labs came out of the desire for a group of Arizona locals to get together and continue working on projects after academic life. We wanted a place to share tools, space, and ideas with fellow hackers and makers.\n\n== Mission Statement ==\n\nAs Internet use has become a ubiquitous aspect of daily life, the breaking of the traditional broadcast-and-consumption model of media has inspired a renaissance of individually-produced digital content that has shifted cultural production to a model of sporadic creating and sharing.\n\nWhile the cost of digital production has fallen to nearly zero, access to professional quality tools has not followed suit in the production of physical hardware. Heavy industrial and electrical equipment, as well as professional computer software can be so costly as to be out of reach for the average student, entrepreneur, or garage tinkerer.\n\nWe at HeatSync Labs aim to make these resources available to our creative community outside of the constraints of an academic, corporate, or state controlled environment and nurture a community of collaboration and education among our members and the community at large.\n\n== Website ==\n*[http://www.heatsynclabs.org/ HeatSync Labs Website]\n*[http://www.flickr.com/groups/heatsynclabs/ HeatSync Labs on Flickr]",
+    "bytes": 1547
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2010-04-13T18:30:18Z",
+  "is_redirect": false
+}

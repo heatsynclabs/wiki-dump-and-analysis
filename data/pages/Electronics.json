@@ -1,0 +1,21 @@
+{
+  "title": "Electronics",
+  "ns": 0,
+  "id": 1330,
+  "slug": "Electronics",
+  "latest_revision": {
+    "id": 6084,
+    "timestamp": "2024-09-10T01:57:05Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "*'''Station Champions:''' David Flores, and Nate Caine\n*'''Communication:''' Slack #electronics channel\n*'''Certification:''' None, ask if you need help with something\n*'''Events:''' Arduino Night 1st Wednesday each month 7pm\n\n'''Welcome to HeatSync Labs Electronics Station.'''\nThere are a lot of great tools and things to learn. You must have a waiver filled out to use tools at HeatSync Labs. other than that you don't require any special classes or training if you already know how to use them you can do so. If you need to learn how to use a tool then come out during Arduino Night\n\n'''Events:''' Arduino Night is the 1st Wednesday of every month between 7pm - 10pm. No experience necessary.\n\n'''Supplies:''' Yes you can use the general component supplies, please contribute back by helping restock things that are running low.'''\n\n'''Station Champions:''' David Flores, Nate Caine\n\n== Test Equipment ==\n===HP 8116A 50MHz Programmable Pulse Function Generator ===\n\n[[File:HP8116.jpg]]\n\n[[File:8116A_50MHz_Programmable_Pulse_Function_Generator_Manual.pdf‎ ]]\n\n===Rigol Digital Oscilloscope===\nmodel number\nimage\nmanual\n\n===Tektronix Analog Oscilloscope===\nmodel number\nimage\nmanual\n\n===Tektronix Modular 500-Series===\n====DMM-501====\n====PS-201====\n====PG-101====\n\n== Soldering Station ==\n[[http://mightyohm.com/soldercomic good intro to soldering]] for those who are new.\n\n=== Metcal ===\n\n=== Weller ===\n\n=== Hakko===\n\n=== Hot Air Station===\n\n==Microcontrollers==\nThe various microcontrollers are here for you to use to test out ideas. Please put them back at the end of the day. If you think we need one of the latest and greatest controllers for others to learn grab one and add it to the collection.\n\n===Arduino===\n*Arduino Uno R3\n*Arduino Duemilanove\n\n===Raspberry Pi===\n\n== Parts Inventory ==\n===Integrated Circuits===\n===Discrete Components===",
+    "bytes": 1856
+  },
+  "revision_count": 12,
+  "first_revision_timestamp": "2022-06-21T19:50:26Z",
+  "is_redirect": false
+}

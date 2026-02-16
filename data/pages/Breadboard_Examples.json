@@ -1,0 +1,21 @@
+{
+  "title": "Breadboard Examples",
+  "ns": 0,
+  "id": 1092,
+  "slug": "Breadboard_Examples",
+  "latest_revision": {
+    "id": 4086,
+    "timestamp": "2013-05-30T21:34:38Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Breadboard Examples */",
+    "text": "\nShiftout Example: Arduino code here [http://arduino.cc/en/Tutorial/ShiftOut]\n\n555 Timer Example\n\n8 Million Gain: Details here [http://www.talkingelectronics.com/projects/200TrCcts/200TrCcts.html]",
+    "bytes": 196
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-05-30T21:33:58Z",
+  "is_redirect": false
+}

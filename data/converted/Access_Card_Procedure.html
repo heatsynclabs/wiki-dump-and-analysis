@@ -1,0 +1,61 @@
+<article class="wiki-content">
+<h1>Access Card Procedure</h1>
+<h2 id="Access_Cards">Access Cards</h2>
+
+<h3 id="New_Member">New Member</h3>
+<ul>
+<li>Members can receive cards when approved by a majority vote of members at an operations meeting ("Hack your Hackerspace" night.) Ensure their card access proposal is posted publicly via email (subject prefix "Proposal:") at least 1 week prior to the meeting.</li>
+<ul>
+<li>An <a href="https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ" rel="nofollow">example of a proposal</a> may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.</li>
+</ul>
+<li>Login to <a href="hsl-access.html">hsl-access</a> via SSH</li>
+<li>Run minicom</li>
+<ul>
+<li>If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.</li>
+</ul>
+<li>Type e #### where # is the enable password.</li>
+<li>Type a for a list of all users.</li>
+<li>Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.)</li>
+<li>Check the Access Control System Card Database.txt file in Dropbox.</li>
+<ul>
+<li>Log which user# you're going to use, in this format:</li>
+<ul>
+<li>UserNumber UserMask TagNumber FirstName LastName</li>
+<li>I.e.: 9 1 a1b2c3d4 John Smith</li>
+<li>Usermask 1 is "full access", 255 is "no access."</li>
+</ul>
+</ul>
+<li>Type m followed by the user#, usermask, and tagnumber.</li>
+<ul>
+<li>Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.</li>
+<li>I.e. m 9 1 a1b2c3d4</li>
+</ul>
+<li>Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.</li>
+</ul>
+
+<h3 id="Member_Nonpayment_Cancellation">Member Nonpayment/Cancellation</h3>
+
+<ul>
+<li>It's a good idea for the member to have a Basic ($50/mo) membership.</li>
+<li>Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.</li>
+<li>Check the Access Control System Card Database.txt file in Dropbox.</li>
+<ul>
+<li>Find the user's entry in the list, and update their UserMask to be 255 ("no access") instead of 1 ("full access") or vice versa.</li>
+<ul>
+<li>I.e.: 9 255 a1b2c3d4 John Smith</li>
+</ul>
+</ul>
+<li>Login to <a href="hsl-access.html">hsl-access</a> via SSH</li>
+<li>Run minicom</li>
+<ul>
+<li>If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.</li>
+</ul>
+<li>Type e #### where # is the enable password.</li>
+<li>Type m followed by the user#, usermask, and tagnumber.</li>
+<ul>
+<li>Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.</li>
+<li>I.e. m 9 255 a1b2c3d4</li>
+</ul>
+<li>Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.</li>
+</ul>
+</article>

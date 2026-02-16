@@ -1,0 +1,21 @@
+{
+  "title": "Projects",
+  "ns": 0,
+  "id": 20,
+  "slug": "Projects",
+  "latest_revision": {
+    "id": 4035,
+    "timestamp": "2013-03-09T05:56:54Z",
+    "contributor": {
+      "username": "Shorttie",
+      "ip": null,
+      "id": 203
+    },
+    "comment": "/* Active Projects */",
+    "text": "==Active Projects==\n'''Please add links to your projects here, in ''reverse chronological'' order!'''\n\n* [[Autonomous Hexapod Robot]]\n* [[CNC Router]]\n* [[LTD Stirling Engine]]\n* [[3D Scanner]]\n* [[Fakerbot]]\n* [[Draw Bot]]\n* [[Drone]]\n* [[A-Frame]]\n* [[SEM Microscopy]]\n* [[Nearspace_Balloon_2|Nearspace Balloon II]]\n* [[Evoked Potential Eye Mask]]\n* [[Autohacking]]\n* [[Operations Software]]\n\n==Inactive Projects That Need Your Help==\n* [[Phoenix RepRap]]\n* [[NightVision]]\n* [[Accessibility]] grant research\n* [[Solar_Concentrator|Solar Concentrator Power Generation]]\n* [[SyncSwag]]\n* [[Magomatic V2]]\n* [[Hax0r Candy Machine]]\n\n==Completed Projects / Hall of Fame==\n* [[LED Whiteboard]]\n* [[Creeper Dress Shirt]]\n* [[RFID_Access]] control system in Arduino\n* [[Loldialer]]\n* Potato Cannons\n* [[2kproposal | 2000 ASU EAP Grant Proposal]]\n* [[RBCreation]]\n* [http://mightyohm.com/blog/2010/03/rigol-ds1052e-50mhz-to-100mhz-scope-conversion/ hack our Rigol] to change it from 50mhz to 100mhz (we already did this!)\n* Cameras at HeatSync\n* [[Epilog]]\n* [[Microwave_Furnace | Microwave-Oven Smelting Furnace]]\n* [[ToolsDB]]\n* [[Starting a Non-Profit]]\n* [[Pebble]] Arduino workshop resources\n* [[Laser_Cutter_Kickstarter|Laser Cutter Kickstarter]]\n* [[Nearspace Balloon]]\n* [http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=60 Reflow Toaster]\n* [[IdeaPad S10-3t]]\n* [[Tesla_Coil|Tesla Coil]]\n* [[Arduino IR Pet]] \"Tamogachi\" Arduino workshop resources\n\n==Project Idea Wall==\n\n===Logistics===\n* Computer networking\n* Creating classes and trainings \n* Taxes\n* Location scouting\n* Creating the wiki\n\n===Other===\n*Video wall to other hackerspaces at HeatSync\n*[[CNC]]\n*Digital Audio Mixer/Converter/Splitter\n*Homemade Milling Machine\n*\"Junkyard\" Battle Bots\n*Laser Range Finder/Parking Guide for Cars(Hopefully on the Cheap)\n*Massive Trebuchet\n*Renewable Energy Products\n*RFID Anything!\n*Soda and Mentos Powered Cannon\n*Spy Gadgets\n*Vacuuform Table\n*[[Wearable Computing]]\n*Whimshurst Generator\n*Work With Schools\n*[http://hackaday.com/2010/03/03/vacuum-pick-and-place-for-smd-parts/ Pick and Place]\n*[http://hackaday.com/2010/04/08/flux-paste-applicator-gun/ Flux Paste Applicator]\n* Arduino Twilio Library\n\n===Workshops===\n* '''Gringo Challenge''': Wake up after a bad night in a Mexican Jail cell?  Can you get out?\n* '''Post Apocalyptic World''':  How to Survive\n* '''Take it Apart!''': It would be fun to invite people who have never taken anything apart, and walk them through whats inside the electronic junk they might have just thrown away.  Each participant could bring one or two things to take apart and then show-and-tell what they found. Not sure if there would be safety concerns with this. Might need a waiver.\n*End to End construction of say an Arduino. Component education to soldering to burning the arduino code to writing arduino sketches.",
+    "bytes": 2871
+  },
+  "revision_count": 85,
+  "first_revision_timestamp": "2009-09-09T18:16:28Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "File:Pebble-sch.png",
+  "ns": 6,
+  "id": 307,
+  "slug": "File_Pebble-sch.png",
+  "latest_revision": {
+    "id": 1731,
+    "timestamp": "2011-01-18T06:01:07Z",
+    "contributor": {
+      "username": "Jac goudsmit",
+      "ip": null,
+      "id": 47
+    },
+    "comment": "uploaded a new version of \"[[File:Pebble-sch.png]]\":&#32;Color version downloaded from https://github.com/lukeweston/Pebble/blob/master/pebble-sch.png",
+    "text": "Schematic for Pebble Arduino shield",
+    "bytes": 35
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-01-15T04:36:27Z",
+  "is_redirect": false
+}

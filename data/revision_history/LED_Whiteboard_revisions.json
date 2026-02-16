@@ -1,0 +1,21 @@
+{
+  "title": "LED Whiteboard",
+  "slug": "LED_Whiteboard",
+  "ns": 0,
+  "revision_count": 1,
+  "revisions": [
+    {
+      "id": 3063,
+      "parent_id": null,
+      "timestamp": "2011-12-13T07:56:19Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "Created page with '[http://willbradley.name/2011/12/arduino-nagios-display/ Image and blog post here]  The movie ‘Hackers’ came out in 1995, when I was still in elementary school. So by the tim…'",
+      "text": "[http://willbradley.name/2011/12/arduino-nagios-display/ Image and blog post here]\n\nThe movie ‘Hackers’ came out in 1995, when I was still in elementary school. So by the time I grew up and watched it (along with the Matrix and Tron) I knew that the kinds of computer visualization depicted in those movies was something I wanted. I’m a very visual person (and I think computers are generally way more cerebral than visual) so I’ve always wanted a more visual, physical representation of computer systems. Imagine if we had a tricorder or sick bay analyzer that could show you every little invisible detail of complex systems like the environment, human bodies, or networks? This is one small step towards that.\n\nRather than simply get email alerts and have a website you can visit to get status information, why not some kind of persistent, physical display that was available to see whether you intended to see it or not? Like a clock, thermometer, or smoke detector, always on with little or no effort required to maintain it. Computer screens kinda work, but in practice break way too often and waste tons of energy.\n\nSo enter the Arduino Nagios display, or as I was calling it, my LED status whiteboard. On the outside, it’s a 5×8 LED grid poked into a foamcore board and mounted inside of a glass box painted white on the backside. So the LEDs shine through what’s effectively a glass whiteboard. The idea being that you can then have it output basic status info on whatever you want, and annotate/draw on it how you like, and it’s just there 24/7 being constantly updated automatically.\n\nIn the guts, the Arduino updates the grid with 5 daisy chained shift registers (8-bit) which are super cheap. This way the Arduino doesn’t need 40 data pins. The wiring is still a mess, but hey someone would still have to solder them all up, why not do it quick n dirty? The Arduino itself runs a program I cobbled together by combining the Arduino ShiftOut example with the WiServer wifi shield example code. (I’m using an Arduino Diamondback, which is basically an Arduino with a built in wifi shield. You could use an Arduino Ethernet too, slightly cheaper.) The WiServer code queries my Nagios server for status info, which it returns in a condensed Arduino-friendly manner via a PHP script I also cobbled together. Then some code I wrote myself interprets the Nagios stuff into LED stuff (i.e. a 0 in Nagios should actually turn the LED on, and a 1 or 2 should turn the LED off, and you’ve gotta parse the string of numbers into a binary array.) It updates itself every 15 seconds or so.\n\n[https://github.com/zyphlar/arduino-nagios-display The code is all on GitHub if you’d like to do something similar yourself (and who wouldn’t?)]\n\nAnd that’s really it! It sounds simple in retrospect, but if you’ve never done this before it can be quite a banging-head-against-desk experience finding the right examples and getting them to work together without ending up all crappy. So I’m quite proud of myself and hope to see more awesome persistent visualization stuff coming out in the future, hopefully hackable and not too expensive.\n\nThe whole thing cost under $100, considering the $73 Arduino Diamondback, 40 LEDs, glass and wood for the whiteboard, wire, and resistors. Not bad considering the cheapest computer you can get is still around $400, plus this is all nice and self contained and pretty looking.\n\nWhat other displays could you create with just a network-connected Arduino?",
+      "bytes": 3513
+    }
+  ]
+}

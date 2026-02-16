@@ -1,0 +1,21 @@
+{
+  "title": "Streamlining Engagement",
+  "ns": 0,
+  "id": 1427,
+  "slug": "Streamlining_Engagement",
+  "latest_revision": {
+    "id": 6030,
+    "timestamp": "2024-02-28T17:52:57Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Other Projects */",
+    "text": "==Objective==\nMake it easier for people who are new to figure things out.\n\nThis isn't a project, but more of an overall goal/objective and will consist of sub-projects that aid this goal.\n\n*People: Window lookers, Website visitors, Event guests, and New members\n*Things: Who is in charge, what tools can they can use, how to ask for help, how to report problems, how to learn new things, where to communicate questions, When they can come do what, how to get 24/7 access\n*Also these things: Liability Waiver, Memberships, Card Access,\n\n==Work Station Wiki Pages==\nNate has done a good job of putting the various stations on the home page under resources. It would be best if reading the wiki page answers the basics of how to engage with the tools in that area and how is in charge. I have been updating links to things like tools, notes on who is in charge, events related to that station. It may be a good idea to make a template of what to include and then standardize it.\n\nI think creating the Laser FAQ has been great and probably should happen for the other stations.\n\n==Walk Through Orientations==\nWhen I was new to the lab Will would email people and coordinate a [[Walk_Through_Orientation | Orientation]]. I helped with this at the time and have done so at different times. Unfortunately it is very frustrating when you have people reschedule on short notice or just not show up. Rather than repeatedly trying to coordinate schedules my current suggestion is to do this during [[Hack_Your_Hackerspace | HYH]]. We do need to update the information that people see when they sign up so they don't expect an email follow up and not receive one.\n\n==Other Projects==\nThese are some other projects I have done to improve the experience for new people.\n\nThe [[Hosting_Signup_Solution | Hosting Spreadsheet]] helps us reduce the times when the doors are locked when we say we are open. There is also hope that new people become of the opportunity to co-host which reduces the times people come in and leave before anyone even addresses them.\n\nI worked on the [[VolunteerMatch]] project in part to get new people to co-host.\n\nHosting [[Woodworking_Day]] and looking for someone with more experience to help with it.\n\nWorking on Metal Mondays to have a regular monthly event for machining and metal working.\n\nThe [[Event_Notifications | Event Notifications]] project is to make sure people that learn about the lab can get reminders about events they will be interested in.\n\nThe [[Station_Screensavers | Station Screensavers]] are meant to help people who are new see the possibilities and get inspired.\n\nThe [[Laser_Example_Book | Laser Example Book]] is meant to be a tool for those new to the laser cutter more easily navigate what settings for engraving, and now material settings and more.\n\n==More Thoughts==\nDarrell has done an excellent job adding QR codes on the different tools.\n\nThe window displays are another Darrell project. They are running PiSignage.\n\nThe process of giving tours has been intimidating for some new people. We could put together a list of things to say. I have a partially started map of the lab with notes. I should look over that and see if it helps people who are new to giving tours.\n\n[[Category:Project]]",
+    "bytes": 3240
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2023-11-12T17:21:43Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "2D Printers",
+  "ns": 0,
+  "id": 1206,
+  "slug": "2D_Printers",
+  "latest_revision": {
+    "id": 4647,
+    "timestamp": "2020-06-21T22:32:10Z",
+    "contributor": {
+      "username": "Cprossu",
+      "ip": null,
+      "id": 698
+    },
+    "comment": "",
+    "text": "HeatSync Labs maintains a variety of 2D printers. \n\nColor Laser and Inkjet printing technologies are available for use on projects. You may also use the Vinyl cutter as a 2D printer/plotter with the help of a writing implement like a pen, marker, etc.\n\n== Color Laser ==\n\n* [[Hewlett Packard CP5525DN(BobRoss)]]\n\n== Inkjet ==\n* [[Epson Artisan 725(JohannesGberg)]]\n\n== Any Writing Implement Within Reason ==\n* [[Vinyl Cutter]]",
+    "bytes": 426
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2020-06-20T22:34:10Z",
+  "is_redirect": false
+}

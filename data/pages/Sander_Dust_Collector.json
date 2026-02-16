@@ -1,0 +1,21 @@
+{
+  "title": "Sander Dust Collector",
+  "ns": 0,
+  "id": 691,
+  "slug": "Sander_Dust_Collector",
+  "latest_revision": {
+    "id": 3282,
+    "timestamp": "2012-04-01T02:08:27Z",
+    "contributor": {
+      "username": "Rbb36",
+      "ip": null,
+      "id": 239
+    },
+    "comment": "",
+    "text": "[[File:sander-dust-collector.jpg]]\n\nThese are images of the dust collectors on what looks to be the same sander, [http://www.grizzly.com/products/Combination-Sander-6-x-48-Belt-9-Disc-Z-Series/G1014Z available from Grizzly]. I think these designs would be very easy to knock off, and should work fairly well. I would probably extend the belt sander collector to get a bit closer to the belt, to concentrate the airflow a bit more.\n\n[[Media:sander-belt-dust-collector.skp|Click to Download The Belt-Side Sketchup Model File]]\n\n[[File:sander-belt-dust-collector-2.png]]",
+    "bytes": 567
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2012-03-31T00:06:02Z",
+  "is_redirect": false
+}

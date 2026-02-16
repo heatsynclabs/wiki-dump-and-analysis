@@ -1,0 +1,21 @@
+{
+  "title": "Operations Software",
+  "ns": 0,
+  "id": 1082,
+  "slug": "Operations_Software",
+  "latest_revision": {
+    "id": 4036,
+    "timestamp": "2013-03-09T06:00:08Z",
+    "contributor": {
+      "username": "Shorttie",
+      "ip": null,
+      "id": 203
+    },
+    "comment": "Created page with \"==Membership.heatsynclabs.com== *Quickbooks API **Looks like there is a pro version, but it costs after 90 days. **OpenSource versions exist. - http://docs.developer.intuit.co...\"",
+    "text": "==Membership.heatsynclabs.com==\n*Quickbooks API\n**Looks like there is a pro version, but it costs after 90 days.\n**OpenSource versions exist. - http://docs.developer.intuit.com/0025_Intuit_Anywhere/0200_DevKits/0350_Open_Source_DevKits\n*** Ruby - https://code.intuit.com/sf/wiki/do/viewPage/projects.ipp_dev_kits/wiki/RubyDevKit",
+    "bytes": 328
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2013-03-09T06:00:08Z",
+  "is_redirect": false
+}

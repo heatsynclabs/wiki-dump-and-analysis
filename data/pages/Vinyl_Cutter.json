@@ -1,0 +1,21 @@
+{
+  "title": "Vinyl Cutter",
+  "ns": 0,
+  "id": 1159,
+  "slug": "Vinyl_Cutter",
+  "latest_revision": {
+    "id": 6667,
+    "timestamp": "2025-02-19T18:39:55Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "/* LaserPoint II */",
+    "text": "*'''Station Champions:''' Needed\n*'''Communication:''' Slack #vinyl channel\n*'''Certification:''' None, just ask for help getting started\n*'''Events:''' None\n\n== Overview ==\nHeatSync Labs has a LaserPoint II (aka Sir-Cuts-A-Lot) and Silhouette Cameo 3.\nYou do not need special certification to use these tools. Just ask for help on Slack if you are new to it and need help.\n\n== Materials ==\n*sign vinyl / sticker vinyl\n*heat transfer ([https://www.amazon.com/dp/B0127RTOYQ/ EasyWeed] is a good brand)\n*Paper\n*Cardstock\n*Vinyl Film\n*Fluorescent Film\n*Reflective Film\n*Other materials of thickness between 0.05-0.30mm. \n\n== LaserPoint II ==\n*[[Using_the_vinyl_cutter | Using Sir-Cuts-A-Lot]]\n*[https://uscutter.com/content/PDFs/LaserPointII_Manual_6_27_2016.pdf LaserPoint II User Manual]\n*[http://www.uscutter.com/Sure-Cuts-A-Lot-Pro-Design-Cut-Software Software: Sure Cuts A Lot Pro ]\nLicense Transfer: [https://support.uscutter.com/hc/en-us/articles/360038423791-Transfer-Sure-Cuts-A-Lot-to-a-new-Computer transferring license to a new computer]\n\nReplacement Blades [http://www.uscutter.com/6-Roland-Replacement-Blades-45-Degree]\nLower cost replacement blades with holder [https://www.aliexpress.us/item/15pcs-Set/32768951705.html]\n\nBe aware that the belt can lift up out of the carriage. Pretty rare, but if it does you can push the belt back down. You will want to check that you can get full travel. The part where the belt ends are clamped can bump into the rollers. Adjust the left and right position until you can move it fully left and right without it binding on the rollers.\n\n== Silhouette Cameo ==\nThis uses the Silhouette Studio software and the sticky mats to hold your material.\nPlenty of material online on usage.\n\n\n== Heat Press ==\n[https://www.amazon.com/dp/B0043H9FMU/ Fancierstudio Heat press] 15x15 inch digital\n\n[[Category:Vinyl]]",
+    "bytes": 1851
+  },
+  "revision_count": 21,
+  "first_revision_timestamp": "2014-04-03T01:13:31Z",
+  "is_redirect": false
+}

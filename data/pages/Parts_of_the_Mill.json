@@ -1,0 +1,21 @@
+{
+  "title": "Parts of the Mill",
+  "ns": 0,
+  "id": 1070,
+  "slug": "Parts_of_the_Mill",
+  "latest_revision": {
+    "id": 4947,
+    "timestamp": "2020-10-10T19:48:41Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "adding categories to start organizing",
+    "text": "= Parts of the CNC Mill = \nPictures forthcoming\n\nE-STOP\n\nStepper motors\n\nSpindle\n\nBelts\n\nWays\n\nPower Supply\n\nTable\n\nT-slots \n\nControl computer\n\nMACH3 Manual\n\n[[Category:Machine Shop]]\n[[Category:Mill]]",
+    "bytes": 201
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-01-17T18:17:27Z",
+  "is_redirect": false
+}

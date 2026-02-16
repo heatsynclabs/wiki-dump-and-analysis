@@ -1,0 +1,21 @@
+{
+  "title": "UAS/Design/Software",
+  "ns": 0,
+  "id": 446,
+  "slug": "UAS_-_Design_-_Software",
+  "latest_revision": {
+    "id": 3047,
+    "timestamp": "2011-11-15T06:39:10Z",
+    "contributor": {
+      "username": "Jmussemann",
+      "ip": null,
+      "id": 83
+    },
+    "comment": "",
+    "text": "Software Design should be layout out here.\n\nShould have an initial design that outlines the major components, and how they inter communicate.\n\n\nIn order to fully describe a motion status of an object, 6 variables are needed, 3 linear coordinate: x, y, z, and 3 angular coordinate α, β, γ. accelerometer can measure the x y z and gyro can measure the α, β, γ, so 6 variables are all measured by the 2 elements, you get the exact status.\n\n==Implementation Considerations ==\n*code will be implemented in c++\n*application will be single threaded, design may or mayn't  take this into consideration. \n*\n\n\n\n== Main Loop ==\n\n*Sensor Reading\n*Sensor combing\n*Position Control\n*Telemetry & Datalogging\n\n\nsensor the first three items will be run all the time, and the last will only be executed if there is enough time. We will put in ,some kind of check to ensure that telemetry is going out sometime, even if the timers are being overrun.",
+    "bytes": 936
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-08-21T22:21:34Z",
+  "is_redirect": false
+}

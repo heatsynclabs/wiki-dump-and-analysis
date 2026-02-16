@@ -1,0 +1,21 @@
+{
+  "title": "Operations team",
+  "ns": 0,
+  "id": 395,
+  "slug": "Operations_team",
+  "latest_revision": {
+    "id": 6790,
+    "timestamp": "2025-12-13T04:15:35Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Station Heads */",
+    "text": "The operations team is a committee recruited by the board in order to manage the day-to-day operations of HeatSync Labs.\n\n== Station Heads ==\n\n*'''[[:Category:Facilities | Facilities]]''': Nate Caine\n*'''[[3D_Printers | 3D Printing]]''': Antonio Contrisciani, Cpro\n*'''[[AudioVisual | Audio/Video]]''': Rick Blake\n*'''[[Biochem Lab]]''': Shaundra Newstead, Greg Oswalt\n*'''[[Electronics]]''': David Flores, Nate Caine\n*'''[[Jewelry]]''': Sarah McCann\n*'''[[Laser Cutters]]''': David Flores (certification classes), Nate Caine (laser maintenance)\n*'''[[Machine Shop]]''': Darrell Wertz\n*'''Microcontrollers''': David Flores\n*'''Nuts & Bolts''': Greg Oswalt\n*'''[[Sewing]]''': Michelle Mueller, Linda Brett\n*'''[[Vinyl_Cutter | Vinyl Cutter]]''': Needed\n*'''[[Welding]]''': Shaundra Newstead, Eric Wood\n*'''[[WoodShop | Wood Shop]]''': Needed, Shaundra Newstead and Darrel Wertz (temporary)\n\n== IT ==\n\n* Server/website/email/wiki/docs design/implementation/support/management (also see: [[Web_Presence]])\n* Web development and design (with marketing help)\n* eCommerce (with treasurer account)\n* Online account management (passwords, integration)\n* Computer/hardware design/implementation/management/support\n* Network support\n* Webcams, twitter bots, etc\n* Physical security (with resource manager)\n* Public notification of outages/downtime\n* Technological recommendations/reviews/ordering (with resource manager and treasurer)\n* Technical training",
+    "bytes": 1445
+  },
+  "revision_count": 36,
+  "first_revision_timestamp": "2011-07-04T05:33:33Z",
+  "is_redirect": false
+}

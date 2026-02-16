@@ -1,0 +1,21 @@
+{
+  "title": "Reference",
+  "ns": 0,
+  "id": 212,
+  "slug": "Reference",
+  "latest_revision": {
+    "id": 1725,
+    "timestamp": "2011-01-15T05:07:53Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Reference material goes here.\n\n== Reference Material ==\n\n* [[Arduino]]\n* [[Pebble]]\n* [[Arduino IR Pet]]\n\n== See Also ==\n\n[[Projects]]",
+    "bytes": 134
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2010-08-12T02:25:27Z",
+  "is_redirect": false
+}

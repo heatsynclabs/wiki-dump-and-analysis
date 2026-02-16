@@ -1,0 +1,21 @@
+{
+  "title": "Lab Incident Report",
+  "ns": 0,
+  "id": 318,
+  "slug": "Lab_Incident_Report",
+  "latest_revision": {
+    "id": 4499,
+    "timestamp": "2018-09-08T02:10:18Z",
+    "contributor": {
+      "username": "Meznak",
+      "ip": null,
+      "id": 48
+    },
+    "comment": "Replace broken link to form with email",
+    "text": "Incidents and accidents should be reported to [mailto:board@heatsynclabs.org board@heatsynclabs.org].\n\n[[Bylaws#CODE_OF_CONDUCT|Code of Conduct]] violations should be reported to [mailto:conduct@heatsynclabs.org conduct@heatsynclabs.org]",
+    "bytes": 237
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2011-01-31T02:11:42Z",
+  "is_redirect": false
+}

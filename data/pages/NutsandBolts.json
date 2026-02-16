@@ -1,0 +1,21 @@
+{
+  "title": "NutsandBolts",
+  "ns": 0,
+  "id": 337,
+  "slug": "NutsandBolts",
+  "latest_revision": {
+    "id": 3090,
+    "timestamp": "2011-12-22T10:23:08Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "",
+    "text": "This page is meant to document our hardware purchases for future generations. \n\n= Nuts and Washers Guidelines =\nWe're going to use [http://www.mcmaster.com/ Mcmaster Carr] instead.  Some items to note:\n*Generally using steel\n*Dont care about finish(Usually Plain, though if zinc finish or stainless steel are available for cheaper or equivalent, take those)\n*Don't care about rating(but if rated is same price or cheaper, go for it)\n*looking for qty 100, though occasionally you can get more for same price\n*For washers, well just price out standard, as they'll fit metric fine.\n*We're waiting on a bolt order as we think there is a cheap assortment.  However if you order bolts, use same guidelines and simply order the longest bolts that are completely threaded.  For smaller bolts just cut down.\n\nWhen reordering, dont necessarily buy the same part if price has gone up substantially, try to find another cheap replacement with the above guidelines\n\n=hex nuts metric (course)=\n*m3-.5     90592A009 .99   x100\n*m4-.7     90591A141 1.33 x100\n*m5-.8     90592A012 1.65 x100\n*m6-1.0   90591A151 2.19 x100\n*m8-1.25 90591A161 4.83 x100\n\n=hex nuts standard=\n*4-40 90480A005\t.81 x100\n*6-32 90480A007\t1.16 x100\n*8-32 90480A009\t1.49 x100\n*10-24 90480A011\t1.65 x100\n*10-32 90480A195\t1.65 x100\n*1/4-20 95505A601\t2.15 x100\n*5/16-18 95505A602\t2.92 x100\n*3/8 -16 95505A603\t3.97 x100\n*1/2 -13 90490A033\t6.26 x100\n\n=hex washer standard flat=\n*4 90126A505\t1.09 x100\n*6 90126A509\t1.17 x100\n*8 90126A512\t1.29 x100\n*10 91081A127 1.09 x100\n*1/4 90126A029 4.17 x222\n*5/16 91081A127\t4.17 x192 \n*3/8 90126A031\t3.07 x140\n*1/2 91083A033\t2.70 x55  X2!!\n\n=hex washer split flat=\n*4-40 91102A720\t.61 x100\n*6-32 91102A730\t.73 x100\t\n*8-32 91102A735\t.98 x100\n*10-24 91102A740\t1.23 x100\n*1/4 91102A750\t1.62 x100\n*5/16 91102A755\t2.60 x100\n*3/8 91101A231\t3.20 x100\n*1/2 91101A233\t5.53 x100\n\n=Bolts Guidelines=\nOn mcmaster carr I drilled down to socket cap screws->standard head->drive by hex->right handed->no self locking.  Go cheapest finish(black oxide or stainless is often cheapest).  Just order a large length (fully threaded if possible) rather than stock all lengths.  We can cut them down if we need to.  Again it is more important to find the price break for size/qty than for matching sets\n\n=hex cap bolts standard=\n*4-40 91251A114\t$9.55 x100 7/8\" black oxide\n*6-32 91251A153\t$9.83 x100 1\" black oxide\n*8-32 92196A199\t$6.93 x100 1\" stainless plain\n*10-24 92196A247\t$8.87 x100 1\" stainless plain\n*10-32 92196A274 $8.87 x100 1\" stainless plain\n*1/4-20 91251A542 $14.43 x100 1\" black oxide\n*5/16-18 91251A583 $9.79 x50 1\" black oxide\n*3/8 -16 91251A624 $6.25 x 25 1\" black oxide \n*1/2 -13 91251A712 $5.24 x 10 1\" black oxide\n\n=hex cap bolts metric=\nwe use mainly metric for rep rap style open source projects, mainly small, m3 and m4\n*m3 91292A113 $5.86x100 10mm stainless\n*m3 91292A114 $3.15x100 12mm stainless\n*m3 91292A115 $3.24x100 16mm stainless\n*m3 92125A136 $4.83x100 20mm stainless\n*m3 91292A022 $3.63x50 30mm stainless\n*m4 91290A168 $6.39 x100 20mm black oxide\n*m4 91292A122 $8.26x100  25mm stainless\n*m4\t91290A186 $12.71x100 50mm alloy steel\n*m5 91290A242 $7.67 x100 20mm black oxide\n*m6 91290A326 $8.23 x100 20mm black oxide\n*m8 91290A426 $9.22 x50 20mm black oxide",
+    "bytes": 3251
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2011-02-15T23:33:14Z",
+  "is_redirect": false
+}

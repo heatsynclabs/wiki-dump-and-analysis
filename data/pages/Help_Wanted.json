@@ -1,0 +1,21 @@
+{
+  "title": "Help Wanted",
+  "ns": 0,
+  "id": 158,
+  "slug": "Help_Wanted",
+  "latest_revision": {
+    "id": 977,
+    "timestamp": "2010-04-23T02:15:20Z",
+    "contributor": {
+      "username": "174.26.74.244",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Office of the Editor */",
+    "text": "== Office of the Champions == \n* Finding presenters\n* Finding people interested in running a workshop on a technology or skill relevant to the group's interests\n\n== Office of the Editor ==\n* Finding local makers and projects to blag about\n* Organizing the wiki/formatting existing pages\n* Fixing spelling/grammar errors on the wiki\n* Creating a sexy HSL flier (Joyce)\n\n== Office of the Marketing Director ==\n* Adding HSL events to various online calendars, including: (Joyce T - Doing)\n** Make\n** Eventification\n** Facebook\n* Customizing HSL Teitter page to match the color scheme and style of the HSL website (Nate Phillips) (David Huerta - Done)\n* Modeling/photo shooting HSL merchandise (currently just the shirt) to increase interest/sales/page hits (Joyce and Zach - Done)\n* Convincing Cali Lewis of GeekBrief.tv to wear an HSL shirt on her video podcast\n* Getting more HSL stickers made\n\n== Office of IT Directors ==\n* Checking for incompatibilities of Wordpress plugins with the newest version of WP and removing plugins not being used (Zach - done)\n* Contacting sponsors for a LAN Party\n* Contributing code to the HSL Toolshare web app\n* Creating a workshop-esque look-and-feel for the Toolshare DB web app (Nate Phillips)\n\n== Office of the Treasurer ==\n* Updating the fundraiser bar to reflect current donation levels.",
+    "bytes": 1327
+  },
+  "revision_count": 19,
+  "first_revision_timestamp": "2010-03-16T18:51:14Z",
+  "is_redirect": false
+}

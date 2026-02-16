@@ -1,0 +1,21 @@
+{
+  "title": "UAS/Notes/L3G4200D",
+  "ns": 0,
+  "id": 449,
+  "slug": "UAS_-_Notes_-_L3G4200D",
+  "latest_revision": {
+    "id": 2712,
+    "timestamp": "2011-08-23T23:02:18Z",
+    "contributor": {
+      "username": "Jmussemann",
+      "ip": null,
+      "id": 83
+    },
+    "comment": "",
+    "text": "This page contains developers notes on the L3G4200D 3 axis gyro\n\nA lot of the information of this page comes from the datasheets, but it has been interrupted and filtered to how it can and should be used on this project.\n\nthis units provides dps (degrees per seconds) as well as temperature\n\n\n== Registers ==\n\n=== WHO_AM_I (0x0F) ===\nwriting to register 0x0f should return the value 0xD3 11010011(binary) D3(hex) or 211 (dec)\n\n\n=== Register 4 (0x23) ===\ncontrol register\n\nthis is how we are configuring the device<BR>\n\nBDU BLE FS1 FS0 --- ST1 ST0 SIM <BR>\n0   0   1   1   0   0   0   0",
+    "bytes": 585
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-08-23T15:46:43Z",
+  "is_redirect": false
+}

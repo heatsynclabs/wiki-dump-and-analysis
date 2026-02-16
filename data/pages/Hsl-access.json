@@ -1,0 +1,21 @@
+{
+  "title": "Hsl-access",
+  "ns": 0,
+  "id": 398,
+  "slug": "Hsl-access",
+  "latest_revision": {
+    "id": 2469,
+    "timestamp": "2011-07-04T07:06:13Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Server used for access control at the hackerspace.\n\nIP: 172.22.110.15\n\nAccess via SSH.\nAlso hosts HTTP for intranet.\n\nSee [[Access Card Procedure]] and [[Intranet]] for more info.",
+    "bytes": 179
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-07-04T07:04:43Z",
+  "is_redirect": false
+}

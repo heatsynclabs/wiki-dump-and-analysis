@@ -1,0 +1,21 @@
+{
+  "title": "Parking Ticket",
+  "ns": 0,
+  "id": 1158,
+  "slug": "Parking_Ticket",
+  "latest_revision": {
+    "id": 4296,
+    "timestamp": "2014-04-02T18:37:15Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Download here: [[File:parkingticket.pdf]]\n\nUsed for marking property within the lab that has been abandoned, so its owners are notified and have a chance to fix the situation before stuff gets thrown away, etc.\n\nUsually printed on fluorescent red paper at Kinkos/Fedex, 4 tickets per page, pre-cut. Tickets are used far less than permits, so you don't need to print too many.",
+    "bytes": 375
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2014-04-02T18:35:08Z",
+  "is_redirect": false
+}

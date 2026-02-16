@@ -1,0 +1,21 @@
+{
+  "title": "Beginners Day",
+  "ns": 0,
+  "id": 1383,
+  "slug": "Beginners_Day",
+  "latest_revision": {
+    "id": 5514,
+    "timestamp": "2023-05-24T21:04:55Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Schedule */",
+    "text": "== Overview ==\nWe are having [https://guestlist.co/events/747255 Beginners Day] on Saturday May 27th 2023 from noon - 5pm. The goal is to show the basics of as many tools as possible. In 2016 we had a similar event and it was a great success.\n\n== Volunteer ==\nIf you would like to volunteer reach out in Slack to Robot Ambassador, reply in the google discussion group thread, or email instructors AT heatsynclabs.org\n\n== Schedule ==\n\nUnless noted the schedule is noon - 5pm.\n\nSewing - Linda\n\nElectronics - Ben and David\n\nSoldering - Stephen and David G\n\nBioChem Lab - Microscope demo with Greg\n\n3d Printing - Jot and Bill\n\nLaser Cutter - David C Noon - 3pm Paul 2pm - 5pm\n\nJewelry - Sarah\n\nVinyl Cutter - Joy noon - 2pm\n\nLock Picking - Joe\n\nTours of the Hackerspace - Nathan\n\nMore - TBD",
+    "bytes": 786
+  },
+  "revision_count": 15,
+  "first_revision_timestamp": "2023-05-05T14:23:47Z",
+  "is_redirect": false
+}

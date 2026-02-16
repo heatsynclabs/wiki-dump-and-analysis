@@ -1,0 +1,21 @@
+{
+  "title": "fusion360",
+  "ns": 0,
+  "id": 1152,
+  "slug": "fusion360",
+  "latest_revision": {
+    "id": 4279,
+    "timestamp": "2014-01-22T18:38:07Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "Created page with \" Fusion 360 brings Industrial and mechanical design together in a single easy-to-use design tool. Start by using simple push pull commands to get just the right shape, or take...\"",
+    "text": "\nFusion 360 brings Industrial and mechanical design together in a single easy-to-use design tool. Start by using simple push pull commands to get just the right shape, or take a short-cut by bringing in one of your existing or scanned models. Then add the detail needed to make your design manufacturable.\n\nFusion 360 is a web based 3D CAD tool with builtin support for sharing designs.\n\nFree for personal use during Beta testing, Fusion 360 is expected to have a $25/month subscriptin cost at launch.\n\n[http://fusion360.autodesk.com/about fusion360.autodesk.com]\n[[Category:CAD Utilities]]\n[[Category:3D Printing Utilities]]",
+    "bytes": 625
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2014-01-22T18:38:07Z",
+  "is_redirect": false
+}

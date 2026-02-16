@@ -1,0 +1,21 @@
+{
+  "title": "Donation Receipt",
+  "ns": 0,
+  "id": 368,
+  "slug": "Donation_Receipt",
+  "latest_revision": {
+    "id": 4159,
+    "timestamp": "2013-09-14T09:04:59Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Download the file here: [[File:HeatSync_Donation_Receipt.pdf]]\n\nTODO: Add this line to the wording: \"no goods or services were provided by the organization in return for this donation.\"",
+    "bytes": 185
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-05-20T07:56:00Z",
+  "is_redirect": false
+}

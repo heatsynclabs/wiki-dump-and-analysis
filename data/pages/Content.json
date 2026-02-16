@@ -1,0 +1,21 @@
+{
+  "title": "Content",
+  "ns": 0,
+  "id": 26,
+  "slug": "Content",
+  "latest_revision": {
+    "id": 44,
+    "timestamp": "2009-09-09T18:18:29Z",
+    "contributor": {
+      "username": "Friedpope",
+      "ip": null,
+      "id": 2
+    },
+    "comment": "Created page with '==Ideas on generating interesting content==  During the meeting it was proposed that the way to get people to come, to take interest, or even to drive marketing was to have somet…'",
+    "text": "==Ideas on generating interesting content==\n\nDuring the meeting it was proposed that the way to get people to come, to take interest, or even to drive marketing was to have something to link them to and keep them interested, even if not paying dues.  I see a local version of Hack-A-Day generating content for Wired/Make/Hackaday.  I envision all of us having a blog for our project that we update and aggregate to our main site.\n\nOur inital content should be the setup of the space itself.  The location scouting, non-profit creation, donation begging, etc.\n\nAlso the Agenda and minutes are content that need to be posted early and often.\nWe are generating content constantly and we don't realize.",
+    "bytes": 698
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2009-09-09T18:18:29Z",
+  "is_redirect": false
+}

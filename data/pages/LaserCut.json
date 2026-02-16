@@ -1,0 +1,21 @@
+{
+  "title": "LaserCut",
+  "ns": 0,
+  "id": 1266,
+  "slug": "LaserCut",
+  "latest_revision": {
+    "id": 4746,
+    "timestamp": "2020-07-10T01:54:28Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "Redirected page to [[LaserCut 5.3]]",
+    "text": "#REDIRECT [[LaserCut_5.3]]",
+    "bytes": 26
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-07-10T01:54:28Z",
+  "is_redirect": true
+}

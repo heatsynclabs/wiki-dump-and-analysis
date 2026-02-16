@@ -1,0 +1,21 @@
+{
+  "title": "Stencil Etching: Stencil Etching",
+  "ns": 0,
+  "id": 130,
+  "slug": "Stencil_Etching_Stencil_Etching",
+  "latest_revision": {
+    "id": 555,
+    "timestamp": "2010-01-27T07:44:56Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "moved [[Stencil Etching: Stencil Etching]] to [[Stencil Etching]]",
+    "text": "#REDIRECT [[Stencil Etching]]",
+    "bytes": 29
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-01-27T07:44:56Z",
+  "is_redirect": true
+}

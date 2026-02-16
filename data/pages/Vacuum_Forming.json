@@ -1,0 +1,21 @@
+{
+  "title": "Vacuum Forming",
+  "ns": 0,
+  "id": 159,
+  "slug": "Vacuum_Forming",
+  "latest_revision": {
+    "id": 842,
+    "timestamp": "2010-04-01T21:21:51Z",
+    "contributor": {
+      "username": "32.173.191.96",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "=Locating Stock=\nPolystyrene seems to be the stock of choice.  You may also be able to use polycarbonate or petg (also known as bivac and which may also allow for no predrying).  Several people have recommended locating scrap from sign shops (like for sale signs and such) as those are made out of polystyrene.  See the [[Local_Resources#Polystyrene_Sheets]] page for vendors who are willing to do small quantity walk in purchases.\n\n=Process=\n*Heating the sheet in an oven for 10-20 min. at 100 degrees will dry it out and helps make the form. \n*A heat gun while drawing the plastic down over the mold is an enormous help. \n*There should be a book in the library on vacuum forming that might help a bit.",
+    "bytes": 703
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2010-03-31T05:14:12Z",
+  "is_redirect": false
+}

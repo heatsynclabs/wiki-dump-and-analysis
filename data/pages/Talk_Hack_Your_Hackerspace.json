@@ -1,0 +1,21 @@
+{
+  "title": "Talk:Hack Your Hackerspace",
+  "ns": 1,
+  "id": 1320,
+  "slug": "Talk_Hack_Your_Hackerspace",
+  "latest_revision": {
+    "id": 5025,
+    "timestamp": "2021-05-08T05:44:14Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "HYH not being the main place for making decisions and having discussions",
+    "text": "I changed \"make decisions\" to \"get things done\"\n\nMaking decisions is a process that also requires discussion. Historically Hack Your Hackerspace has tried to reduce the amount of time discussing things and maximize the amount of time physically working on improving things. 3 reasons; discussions can be done remotely and actually improving the space cannot. HSL google group discussions are better for hashing out details because they are there for everyone to see and chime in on even if they can't make it to the meeting. Anything said the day of a proposal is too late for any changes to the proposal.",
+    "bytes": 605
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2021-05-08T05:44:14Z",
+  "is_redirect": false
+}

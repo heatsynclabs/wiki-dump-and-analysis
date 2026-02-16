@@ -1,0 +1,21 @@
+{
+  "title": "Station Heads",
+  "ns": 0,
+  "id": 1128,
+  "slug": "Station_Heads",
+  "latest_revision": {
+    "id": 5878,
+    "timestamp": "2024-01-28T06:20:06Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "{{subst:Proposed deletion|concern=Duplicate of information in Operations Page}}\n\nSee [[Operations team]]",
+    "bytes": 104
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2013-12-01T21:36:35Z",
+  "is_redirect": false
+}

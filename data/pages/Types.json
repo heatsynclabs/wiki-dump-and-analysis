@@ -1,0 +1,21 @@
+{
+  "title": "Types",
+  "ns": 0,
+  "id": 31,
+  "slug": "Types",
+  "latest_revision": {
+    "id": 551,
+    "timestamp": "2010-01-27T03:15:27Z",
+    "contributor": {
+      "username": "Drea",
+      "ip": null,
+      "id": 15
+    },
+    "comment": "/* Info On */",
+    "text": "==Memberships==\n\nNeed a number of members we need and how much to charge each.  Collect fees regularly. Make no exceptions, ever. Choose an appropriate amount. Have discounts for students. Have at least three months of rent on your account, all the time, no exceptions.\n\n===Types===\n\n*Basic - Only allowed during certain hours, pay per access, can be escorted by board member\n*Temp VIP - For certain projects\n*Esteemed/VIP - Higher membership - 24x7 access trusted people\n*Platinum - Temporary high level/VIP membership; Attained by renting private workspace or private workbench.\n\nAnd amount of time for membership:\n\n*Monthly\n*Quarterly\n*Yearly\n*Lifetime?\n\n===Waivers===\n\n*Safety Waiver\n*Waiver saying they are responsible for Tools...must be replaced if they break it.\n\n===Dues===\n\n*Set Up Paypal Account and integrate into website for easy payments\n*Need Bank Account for HeatSync Labs\n\n===Rules===\n\n*Room is for doing projects -- be courteous with the space. \n*Rules for area that is rented out.  What are the restrictions: Noise, led signs, fire access stuff, rents restrictions, neighbors, time restrictions\n*Guest are fine, but don’t let anyone live there. Kick them out if necessary.\n\n===Info On===\n\n* http://www.interlockroc.org/wiki/images/e/e1/Interlock_application.pdf --- application from Rochester hackerspace.\n* http://www.gumbolabs.org/membership/ --- membership guidelines for Louisana hackerspace (secretary contacted 1/9/10)\n* http://www.alphaonelabs.com/wiki/index.php/Membership_Application\n* http://crashspace.pbworks.com/Member-Agreement -- this is a more complete agreement than some of the others. It states the requirements for applying for membership and maintaining the status.\n* http://www.houstonhackerspace.com/wiki/index.php/Membership - more expensive membership. Also, asks that payments be made to individual. haha\n* http://thetransistor.com/about-us/ -- another one that requires a referral by a current member (contacted via thread 1/26/10)\n* http://blog.cowtowncomputercongress.org/membership/ -- sister org to HacDc and PS:1 \n* https://www.noisebridge.net/wiki/Donate_or_Pay_Dues -- this is from Noisebridge, the current non-profit hackspace",
+    "bytes": 2182
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2009-09-13T04:04:04Z",
+  "is_redirect": false
+}

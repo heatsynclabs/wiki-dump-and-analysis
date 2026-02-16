@@ -1,0 +1,21 @@
+{
+  "title": "Member Welcome Letter",
+  "ns": 0,
+  "id": 396,
+  "slug": "Member_Welcome_Letter",
+  "latest_revision": {
+    "id": 6782,
+    "timestamp": "2025-11-29T08:50:23Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "Update open hours",
+    "text": "Greetings [Name]!\n\nAs the board member contact for operations, I'd like to welcome you to HeatSync Labs and thank you for supporting us.\n\nWe're open Monday-Wednesday 7pm-10pm, Saturday 12pm-5pm, and sometimes outside these hours as well. Check the calendar on https://www.heatsynclabs.org/ !\n\nYou may find the discussion board at http://groups.google.com/group/heatsynclabs helpful when getting involved with our community and staying in touch with lab activity.\n\nHeatSync Labs has no paid staff, so those resources are also where you will best be able to interact with your fellow community members.\n\nAs a member, you should review the bylaws, especially the section governing membership and code of conduct: http://wiki.heatsynclabs.org/wiki/Bylaws\n\nAlso, you should know the rules\nhttp://wiki.heatsynclabs.org/wiki/Rules \nand operational policies\nhttp://wiki.heatsynclabs.org/wiki/Operational_Policies .\n\nWhen is a good time to tour you through the lab, give you some training, and sign liability forms?",
+    "bytes": 1006
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2011-07-04T06:02:20Z",
+  "is_redirect": false
+}

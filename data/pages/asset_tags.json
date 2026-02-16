@@ -1,0 +1,21 @@
+{
+  "title": "asset tags",
+  "ns": 0,
+  "id": 1323,
+  "slug": "asset_tags",
+  "latest_revision": {
+    "id": 5042,
+    "timestamp": "2021-08-27T22:58:24Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "",
+    "text": "== Overview ==\n\n''Note:  Approved by vote at the 2021-08-26 Hack Your Hackerspace''\n\nThere needs to be a way to track HSL assets.  This is helpful for a number of reasons:\n* Helps with managing [[Inventory]]\n* Allows us to document donations and any restrictions on usage/disposal\n* Potentially document the life-cycle of items\n\nThe tag design requirements are:\n\n* Reasonable size \n** Small enough to fit on most equipment\n** Large enough to be readable/findable\n* Serialized (i.e. unique numbers) \n* Ability to store data about the asset\n* Durable\n\n== What Gets an Asset Tag ==\nThings that need them.  Seriously, let's try to be reasonable.  Here are some guidelines:\n\n* Significant equipment\n* Physically large donations\n* Equipment on long-term loan to HSL\n\n== What Wouldn't Get a Tag ==\n* Consumables\n* Hand tools\n* Members\n\n== Proposed Tag ==\n\n[[File:asset-tag-prototype.png|250px]]\n\nQR code and link point to a page for details.\n\nThis tag would be printed out on a durable material and then put on the asset.  \n\n=== Location ===\nThe tag should be placed as close to the serial number as is reasonable.  \n\n===Additional Thoughts===\nAlthough we briefly considered doing RFID tags or something similar, for the purposes of what we're trying to do, KISS is probably a better place to start.\n\n== Data storage ==\n\nEach of the assets will be stored in a spreadsheet (Google sheet) to allow for tracking and management.\n\n=== Proposed Data Fields ===\n* Asset tag number\n* Description\n* Date acquired\n* Station it belongs to\n* Owner (HSL or other)\n* Is it a long term loan?\n* Disposal requirements (e.g. for donated items)\n* Requires training\n* Whatever else\n\n=== Example ===\n* [https://docs.google.com/spreadsheets/d/1gctZysF9LWCdm0eKXy08uFr6eEs-peLb-nx2_6lBaAA/edit?usp=sharing Google sheet]",
+    "bytes": 1789
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2021-05-28T01:35:29Z",
+  "is_redirect": false
+}

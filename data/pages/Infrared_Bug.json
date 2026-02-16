@@ -1,0 +1,21 @@
+{
+  "title": "Infrared Bug",
+  "ns": 0,
+  "id": 205,
+  "slug": "Infrared_Bug",
+  "latest_revision": {
+    "id": 1180,
+    "timestamp": "2010-06-15T21:54:49Z",
+    "contributor": {
+      "username": "64.38.194.13",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with '==What Is It?== An infrared bug takes sound input from a microphone and transmits it using an infrared light. An IR bug has an advantage over RF bugs because they can not be dete…'",
+    "text": "==What Is It?==\nAn infrared bug takes sound input from a microphone and transmits it using an infrared light. An IR bug has an advantage over RF bugs because they can not be detected with traditional RF bug detectors.  They do have drawbacks in that you must have direct line of sight to the bug in order to receive the audio.  They can also be detected using a digital camera with no IR filter.\n\n==Random Thoughts==\n*http://www.youtube.com/watch?v=RR5tPfYWnls\n**This guy uses a carier frequency which supposedly causes less inference from other light sources.",
+    "bytes": 560
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-06-15T21:54:49Z",
+  "is_redirect": false
+}

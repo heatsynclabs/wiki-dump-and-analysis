@@ -1,0 +1,21 @@
+{
+  "title": "LightBurn",
+  "ns": 0,
+  "id": 1204,
+  "slug": "LightBurn",
+  "latest_revision": {
+    "id": 6736,
+    "timestamp": "2025-08-31T03:35:35Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "/* Details */",
+    "text": "= Overview =\n\nThis page needs a lot of work, so right now it's just a dumping ground for my notes.  I'll work to improve it, or you can too.\n\nThere is a lot of good documentation on [https://lightburnsoftware.com/ lightburnsoftware.com].\n\nThe computer at the vinyl cutter station also has LightBurn. If the computer at the laser is busy you can prep your files from that machine. The LightBurn isn't for controlling the vinyl cutters.\n\nOne note of caution. On our version 1.2.01 you want to use the start button, not the send button. Sending your project has resulted in glitches in engravings.\n\n= Details =\n\nCheck the official Lightburn documentation for info on the user interface.\n\nSome important portions to focus on:\n\nThe edit window: the displayed grid. This is the pattern that the laser will cut/engrave.\n\n* You can import SVG files, or even just drag and drop them onto the edit window.\n\nLayers: at the right.\n\n* Different layers can be set to use different modes, with different power and speed settings.\n** Fill mode: used for engraving (breaking up the surface of the material for things like drawing images, without cutting through it).\n** Line mode: attempts to actually cut through the material. Success depends on whether you are using appropriate power and speed settings for your chosen material.\n** There are other modes, but Fill and Line are most important for starters.\n* You can rearrange the order of layers; this is the order the laser will act on them in. Generally you want the Fill layers first, followed by any Line layers.\n* Each layer has a corresponding Power and Speed setting; consult the binder for some tips on how to set these for the material you're cutting. Engraving can use a higher speed and lower power than cutting.\n\nLaser window: at the right below Layers.\n\n* Frame: ''without'' turning the laser on, causes the laser head to follow a rectangular or oval path around the area it will cut/engrave inside. Use this first to check that your material is positioned correctly!\n* Cut selected graphics: causes the laser to cut/engrave just your selection, rather than everything in the edit window.\n* Start: Start cutting/engraving!\n* Pause: Pause cutting. As long as you don't move your material, you will not lose your job progress by using this.\n* Stop: Stops the cut job. You will likely have to start over from the beginning with fresh material, but sometimes this is necessary.\n\nOther notes:\n\n* Middle button scroll\n* adjusted laser position on the panel\n* Upload\n* Start -says \"Send the current design to the laser\" in the tool tip, but it really means, start the laser.\n* Can choose \"output\" to only cut certain portions\n* Upload failed - run \"frame\" to get reinitiate\n* If you can get it to \"frame\" but you click start and it just beeps at you, make sure you have some output chosen.  (Image below)\n* If you get \"no object selected\" or some other item, there is a different check mark (image below)\n\n[[File:lightburn-screen.jpg|500px]]\n\n[[Category:Laser]]",
+    "bytes": 3003
+  },
+  "revision_count": 12,
+  "first_revision_timestamp": "2020-06-20T19:17:26Z",
+  "is_redirect": false
+}

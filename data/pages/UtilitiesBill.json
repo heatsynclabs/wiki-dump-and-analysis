@@ -1,0 +1,21 @@
+{
+  "title": "UtilitiesBill",
+  "ns": 0,
+  "id": 16,
+  "slug": "UtilitiesBill",
+  "latest_revision": {
+    "id": 4240,
+    "timestamp": "2014-01-21T07:43:05Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "Mech422 moved page [[Utilities]] to [[UtilitiesBill]]: Renamed from 'Utilities' so that can be used as a category page",
+    "text": "==Utilities==\n\nI heard talk at the last meeting about utilities maybe coming to 300-400 and that seems incredibly low to me for commercial power tools running as often as 24 hours.  My home ac this past month was 200 dollars for a 2bdr so I am worried about this.  I would definitely like to see some real quotes put in here.",
+    "bytes": 325
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2009-09-09T18:15:12Z",
+  "is_redirect": false
+}

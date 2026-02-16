@@ -1,0 +1,21 @@
+{
+  "title": "Links",
+  "ns": 0,
+  "id": 28,
+  "slug": "Links",
+  "latest_revision": {
+    "id": 346,
+    "timestamp": "2009-12-02T16:05:37Z",
+    "contributor": {
+      "username": "X-Istence",
+      "ip": null,
+      "id": 4
+    },
+    "comment": "Added in some more links to various resources",
+    "text": "=Making All Sorts of Stuff=\n* http://www.instructables.com/\n* http://www.ehow.com/\n* http://blog.makezine.com/\n* http://hackaday.com/\n\n=HackerSpace Inspiration=\n* http://www.securitytube.net/Building-Hackerspaces-Everywhere-(Brucon-2009)-video.aspx\n\n==HackerSpace Feeds==\n* http://hackerspaces.soup.io/ Hackerspaces soup - A feed of most of the worlds hackerspace websites. Find out whats hot.\n\n=Hardware=\n== Electronics ==\n* http://stackoverflow.com/ - Programming questions and answers\n* http://chiphacker.com/ - Embedded systems and microcontroller question and answers\n\n== OpenSource hardware designers ==\n* http://dangerousprototypes.com/ - Every month a new open source project from the creator of the Bus Pirate\n* http://ladyada.net/ - Great resource for information on various projects and ideas to getting started on creating and selling\n\n=Crafts=\n\n==Craft Stuff==\n* http://www.craftzine.com/\n* http://www.craftster.org/\n\n==Sell Your Stuff==\n* http://www.etsy.com/\n\n==Local==\n* http://domesticbliss-domesticbliss.blogspot.com/\n* http://blissfulliving-domesticbliss.blogspot.com/\n* http://www.downtownmesa.com/downtown_events.htm",
+    "bytes": 1137
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2009-09-10T09:02:50Z",
+  "is_redirect": false
+}

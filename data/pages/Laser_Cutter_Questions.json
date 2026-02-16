@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutter Questions",
+  "ns": 0,
+  "id": 1414,
+  "slug": "Laser_Cutter_Questions",
+  "latest_revision": {
+    "id": 5612,
+    "timestamp": "2023-08-25T15:41:59Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "Eric Ose moved page [[Laser Cutter Questions]] to [[Laser FAQ]]: People are expecting and searching for FAQ",
+    "text": "#REDIRECT [[Laser FAQ]]",
+    "bytes": 23
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2023-08-25T15:41:59Z",
+  "is_redirect": true
+}

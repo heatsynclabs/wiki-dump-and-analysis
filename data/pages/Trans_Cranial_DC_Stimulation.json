@@ -1,0 +1,21 @@
+{
+  "title": "Trans Cranial DC Stimulation",
+  "ns": 0,
+  "id": 253,
+  "slug": "Trans_Cranial_DC_Stimulation",
+  "latest_revision": {
+    "id": 1568,
+    "timestamp": "2010-12-18T21:44:12Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "/* To Do */",
+    "text": "== Concept ==\nAfter a [http://www.cell.com/current-biology/abstract/S0960-9822(10)01281-9 Nov 2010] article in the journal Current Biology (no pun intended I'm sure) brought to our attention the technique of running a small amount of DC current across the surface of the head to induce positive (or negative) effects. It's our intention to build a device similar to the [http://www.neuroconn.de/en/solutions/dc-stimulator_en/ one used in the study], and attempt to reproduce the findings.\n\n== To Do ==\n1. Design a current delivery circuit.\n**Must be variable from 0-2mA minimum over a variable human head load.\n**Random samples of head resistance across Parietal lobes seems to be 300K-3M Ohms. Need better understanding of this variability.\n2. Design/program a delivery controller.\n**Should obfuscate the R-L, L-R, and sham groups in digital programming.\n**Need the ability to vary the current circuit over time by ramping up the current from 0-1mA over 20-30seconds and ramp back down down similarly. \n**Need the ability to time the delivery for 30sec-1hr.\n3. Produce BoM order parts and build devices. \n**At least 3 devices for the 3 groups.\n4. Design Study\n**Is there a test that mimics the numerical Stroop paradigm for abstract numerical symbol learning?\n**Can the study be performed in groups, or does it need to be one at a time?\n**What other factors need to be ruled out?\n**How do we make it double blind? 3rd party to program controllers and number them?\n**[http://www.xtranormal.com/watch/6871831/ Can I use 3 subjects?]\n5. Find study participants\n**Jacob\n**Jeremy\n**Randy\n**Self?\n6. Conduct study\n**Schedule\n7. Analysis\n\n8. Publish?",
+    "bytes": 1644
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2010-12-18T21:42:38Z",
+  "is_redirect": false
+}

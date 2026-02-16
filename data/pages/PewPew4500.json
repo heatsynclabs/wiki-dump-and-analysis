@@ -1,0 +1,21 @@
+{
+  "title": "PewPew4500",
+  "ns": 0,
+  "id": 1326,
+  "slug": "PewPew4500",
+  "latest_revision": {
+    "id": 5065,
+    "timestamp": "2022-04-29T19:20:48Z",
+    "contributor": {
+      "username": "Nate Caine",
+      "ip": null,
+      "id": 687
+    },
+    "comment": "Nate Caine moved page [[PewPew4500]] to [[Mini 60W Laser]]: consistent naming",
+    "text": "#REDIRECT [[Mini 60W Laser]]",
+    "bytes": 28
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2022-04-29T19:20:48Z",
+  "is_redirect": true
+}

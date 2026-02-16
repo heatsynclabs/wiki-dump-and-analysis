@@ -1,0 +1,21 @@
+{
+  "title": "Location",
+  "ns": 0,
+  "id": 1347,
+  "slug": "Location",
+  "latest_revision": {
+    "id": 5286,
+    "timestamp": "2022-09-15T22:17:14Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "RobertBushman moved page [[Location]] to [[2010 Location Search]]: Moving to allow creation of a Location category page.",
+    "text": "#REDIRECT [[2010 Location Search]]",
+    "bytes": 34
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2022-09-15T22:17:14Z",
+  "is_redirect": true
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Nonprofit Annual Filings",
+  "ns": 0,
+  "id": 1052,
+  "slug": "Nonprofit_Annual_Filings",
+  "latest_revision": {
+    "id": 3931,
+    "timestamp": "2012-11-30T04:16:53Z",
+    "contributor": {
+      "username": "Paulhickey",
+      "ip": null,
+      "id": 667
+    },
+    "comment": "/* Annual Filings for Arizona Nonprofit Organizations */",
+    "text": "=Annual Filings for Arizona Nonprofit Organizations=\n\n'''Arizona Corporation Commission'''\n\n\nForm: Annual Report\nDue Date: Anniversary date of the date of incorporation\n\nArizona Corporation Commission\n\nc/o Annual Reports, Corporations Div.\n\n1300 West Washington\n\nPhoenix, AZ 85007-2929\n\n\nInformation: (602) 542-3285\n\nForms: (602) 542-0082\n\n\nWeb Site: www.azcc.gov\n\n\nFiling Fee: $10\n\nNote: Nonprofit organizations must include a financial disclosure statement which may be any one of the following:\na. Most recent copy of Page 2, Form 99 filed with the Arizona Dept. of Revenue\nb. A copy of the organization's Charitable Organization Financial Statement as filed with the Arizona Secretary of State\nc. A copy of the organization's Treasurer's Report/Financial Statement for the current fiscal year.\nd. A copy of the financial statement prepared for the organization's members.\ne. A statement that the organization conducted no business in Arizona in the past year.\n\n\n'''Internal Revenue Service'''\n\nForm: Annual Return Form 990\nDue Date: 4 ½ months after end of fiscal year\n\nInternal Revenue Service\nOgden, UT 84201-0027\nInformation: (800) 829-1040\n\n\nForms: (800) 829-3676\n\nWeb Site: www.irs.gov/charities\n\nFiling Fee: $0\n\nPublic Charities:  Please note that, along with the new Form 990, the IRS has instituted a \"phase-in\" period to allow organizations time to adjust to the new form. For a detailed \"phase-in\" chart, please refer to the IRS website to determine which form to file (Form 990, Form 990-EZ or Form 990-N).\n\nPrivate Foundations:\t Submit Form 990PF, regardless of revenues.\n\n\n\n'''Arizona Secretary of State'''\n\nForm: Charitable Organization Registration Form \nDue Date: Annually between September 1-30\n\nSecretary of State\nCharities Division\n1700 W. Washington, 7th Floor \nPhoenix, AZ 85007\n\nInformation: (602) 542-6187\n\nFax: (602) 542-7386 \nWeb Site: www.azsos.gov\n\nFiling Fee: $0",
+    "bytes": 1895
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2012-11-16T00:46:37Z",
+  "is_redirect": false
+}

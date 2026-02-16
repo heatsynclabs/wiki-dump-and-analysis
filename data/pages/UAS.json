@@ -1,0 +1,21 @@
+{
+  "title": "UAS",
+  "ns": 0,
+  "id": 425,
+  "slug": "UAS",
+  "latest_revision": {
+    "id": 2707,
+    "timestamp": "2011-08-23T15:48:09Z",
+    "contributor": {
+      "username": "Jmussemann",
+      "ip": null,
+      "id": 83
+    },
+    "comment": "",
+    "text": "<div style=\"float: right\">__TOC__</div>\nUAS is either '''Unmanned Aerial Sensor''' or '''Unmanned Aircraft System'''\n\n== What ==\nThe goal of this project is to create an Automatic Flight System for use, initially, on inexpensive R/C aircraft.  We intend to do this using low cost Arduino (or Arduino-like) development boards, an [http://en.wikipedia.org/wiki/Inertial_navigation_system IMU], and GPS.  As our confidence in the system grows, we intend to grow the project to control larger drones capable of greater range and payload.\n\n=== Demonstration Goals ===\n* Command surfaces.\n* Command throttle.\n* Demonstrate RTS/preflight.\n* Unpowered straight line flight coupled with \"safe\" landing.\n* Powered, short straight line flight coupled with \"safe\" landing.\n* Fly an oval retaining a static altitude\n* Circle up to altitude, then circle back down and land.\n* Circle up to altitude, then dive down and land.\n* Perform multiple \"Go Around\" test landing passes. \n* Fly a longer flight plan.\n* Test failure modes.\n* Bonus: attempt to fly thermals!\n* Bonus: aerobatics!\n\n== Why ==\nBecause it interests us.\n\nOf course, this is nothing new.  It's all been done before, but not by us.\n\n=== Practical Uses ===\nThis are some interesting, potentially practical uses:\n* RF data repeater\n* Search drone (e.g. missing hikers)\n* Wildfire spotter\n\n== Who ==\n* Scott B.\n* Jeremy M.\n* Mike M.\n\n== Design ==\nSee [[UAS/Design]]\n\n== Implementation ==\n* Hardware [[UAS/Initial_BOM ]]\n*Software [[UAS/Software ]] \n====Assumptions====\n\n== Developers Notes ==\n*[[UAS/Notes]]\n\n= See Also =\n* [http://en.wikipedia.org/wiki/Inertial_navigation_system INS] @ Wikipedia\n* [https://www.modelaircraft.org American Model Aircraft]\n* [http://diydrones.com/profiles/blog/show?id=705844%3ABlogPost%3A28583 DIYDrones Regulator page]",
+    "bytes": 1798
+  },
+  "revision_count": 42,
+  "first_revision_timestamp": "2011-08-15T23:25:23Z",
+  "is_redirect": false
+}

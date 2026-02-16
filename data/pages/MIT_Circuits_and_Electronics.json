@@ -1,0 +1,21 @@
+{
+  "title": "MIT Circuits and Electronics",
+  "ns": 0,
+  "id": 1142,
+  "slug": "MIT_Circuits_and_Electronics",
+  "latest_revision": {
+    "id": 4262,
+    "timestamp": "2014-01-21T08:42:36Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "",
+    "text": "\nThe course introduces engineering in the context of the lumped circuit abstraction. Topics covered include: resistive elements and networks; independent and dependent sources; switches and MOS transistors; digital abstraction; amplifiers; energy storage elements; dynamics of first- and second-order networks; design in the time and frequency domains; and analog and digital circuits and applications. Design and lab exercises are also significant components of the course. You should expect to spend approximately 10 hours per week on the course.\n\nNOTE: The course is not currently running, however, you can still take the course and access most materials.  No registration is required.\n\n[https://6002x.mitx.mit.edu MIT 6002.x Course]\n\n[[Category:Electronics Tutorials]]",
+    "bytes": 772
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2014-01-21T08:41:44Z",
+  "is_redirect": false
+}

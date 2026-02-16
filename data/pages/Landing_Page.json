@@ -1,0 +1,21 @@
+{
+  "title": "Landing Page",
+  "ns": 0,
+  "id": 1181,
+  "slug": "Landing_Page",
+  "latest_revision": {
+    "id": 5700,
+    "timestamp": "2023-10-28T07:17:01Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "Updated for Halloween Event",
+    "text": "Welcome to HeatSync Labs and Happy Halloween!\n\n=Latest and Greatest Events=\n*10/30 Monday 6pm Jewelry meetup (Free) / [https://guestlist.co/events/760737 Halloween Earrings] ($10)\n*11/05 Sunday 2pm - 5:30pm Pokémon Go Community Day (Free)\n*11/07 Tuesday 6pm - [https://guestlist.co/events/759468 Zombie Bot] ($20)\n*11/11 Saturday 2pm - [https://guestlist.co/events/760764 LEGO Day]: Crazy Cars (Free)\n*11/08 Wednesday 6pm - [https://guestlist.co/events/760773 Build-A-Bot] ($15-$30)\n\n=Recurring Events=\n*11/01 Wednesday 10am - 2pm • Coffee and Code 10am - 2pm (Weekly)\n*11/01 Wednesday 7pm - 10pm • Arduino Night (Monthly)\n*11/04 Saturday noon - 5pm • 3d Printer Day (Monthly)\n*11/03 Friday 7pm -10pm • Young Makers (Monthly 1st and 3rd Friday)\n*11/05 Sunday 10am - 2pm • Monthly Laser Meetup\n*11/14 Tuesday 7pm - 10pm • Sewing Night (Monthly)\n*11/16 Thursday 7pm - 9pm • Phoenix Google Developer Group\n\n=Open Hours=\n*Mon 7pm – 10pm\n*Tue 7pm – 10pm\n*Wed 7pm – 10pm\n*Sat Noon - 5pm",
+    "bytes": 1002
+  },
+  "revision_count": 12,
+  "first_revision_timestamp": "2017-10-31T20:59:08Z",
+  "is_redirect": false
+}

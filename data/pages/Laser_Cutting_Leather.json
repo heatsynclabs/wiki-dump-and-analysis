@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutting Leather",
+  "ns": 0,
+  "id": 1164,
+  "slug": "Laser_Cutting_Leather",
+  "latest_revision": {
+    "id": 4598,
+    "timestamp": "2020-06-15T00:37:02Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "+category",
+    "text": "Patterns/ideas/techniques for making a laser-cut leather laptop bag:\n\n== Pattern 1 ==\n\n[[File:laser-cut-laptop-bag-willbradley.jpg|200px]]\n[http://zyphlar.github.io/parametric-bag/ Will Bradley's parametric bag generator]\n\n== Pattern 2 ==\n\n[https://github.com/alexchally Alex Chally]'s laser-cut bag:\n\n[[File:laser-cut-bag-meatspace.jpg|200px]]\n[[File:laser-cut-leather-bag-pattern.png|200px]]\n\n[[Category:Laser]]",
+    "bytes": 413
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2014-06-05T22:07:13Z",
+  "is_redirect": false
+}

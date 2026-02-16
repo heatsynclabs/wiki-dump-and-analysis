@@ -1,0 +1,21 @@
+{
+  "title": "Intranet",
+  "ns": 0,
+  "id": 399,
+  "slug": "Intranet",
+  "latest_revision": {
+    "id": 4221,
+    "timestamp": "2013-12-02T09:31:40Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Locally-hosted website for access control, webcams, toolshare, and other resources.\n\nAccessible at http://members.heatsynclabs.org\n\nFuture:\n* Media player\n* Lab wishlist\n* Clock with \"last call for food,\" \"open/close\" and \"midnight\" bells\n* Who's working on what (like a public todo list to help focus and direct)\n\nSee:\n* https://github.com/heatsynclabs/Open-Source-Access-Control-Web-Interface\n* https://github.com/heatsynclabs/Open_Access_Control_Ethernet",
+    "bytes": 457
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2011-07-04T07:12:14Z",
+  "is_redirect": false
+}

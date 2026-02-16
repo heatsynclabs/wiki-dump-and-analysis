@@ -1,0 +1,21 @@
+{
+  "title": "Build-A-Bot",
+  "ns": 0,
+  "id": 1409,
+  "slug": "Build-A-Bot",
+  "latest_revision": {
+    "id": 6824,
+    "timestamp": "2026-02-07T15:09:23Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Intro to Designing Laser Cut Projects / Design A Bot */",
+    "text": "==Status==\nWe will be hosting this as a class for March 2026. See the calendar dates below. This is also available as a class year round if you have a group of at least 6 people who want to attend this class.\n\n==Overview==\n\nBuild-A-Bot is a workshop where you design, laser cut, and solder your own robot that lights up and changes color when you touch it's heart. This originally was a 3 hours class that rushed through all the steps with 4 people teaching the workshop. Current iteration will be 2 events where you can do either event or both.\n\nIf you are only doing the first event you can make your own non-electronic robot that works as a figure. Doing them both you can create a custom electronic version.\n\n'''Intro to Designing Laser Cut Projects''' [https://guestlist.co/events/814621 03/15/2026] Go from having never designed anything to making your own unique laser cut projects. This portion is for adults and kids 10+.\n\n'''Solder A Robot!''' [https://guestlist.co/events/814612 03/22/2026] Anyone age 7 and up can solder a robot. We will have several robots to choose from if you don't have a custom design already.\n\n==Intro to Designing Laser Cut Projects / Design A Bot==\n\nGo from having never designed anything to making your own unique laser cut projects.\n\nThis class works as a solo class or as part of the Build-A-Bot series. See this link for more details. It is also best for adults and kids age 10 and up, but parents can work with their younger kids if they want. [https://guestlist.co/events/814612 The Solder A Robot! class is on Sunday 03/22/2025] tickets are separate.\n\nYou will learn how to use sketches, clip-art, photos, and shapes to combine and create your own unique designs for laser cut projects. While covering the basics of the Inkscape design software.\n\nInkscape is a free and open source vector editor. Vector graphics are based on points lines and curves which can then be used as the paths to cut with a laser cutter.\n\nMany of the methods and techniques we will discuss will work regardless of the specific software you use but we will cover it Inkscape.\n\n==Solder a Robot==\n\nJoin us for a hands-on make and take soldering project. You will make your own fun robot figure that lights up when you touch it's heart. This robot is a great demonstration of how transistors work to boost the signals from a sensor. No experience necessary. Adults and kids age 7 and up welcome. Don't miss the fun!\n\nThis class works as a solo class or as part of the Build-A-Bot series of classes. See this link for more details. If you aren't designing a robot you'll be able to pick from a list of ahead of the event.\n\n[[Category:Events]]",
+    "bytes": 2658
+  },
+  "revision_count": 24,
+  "first_revision_timestamp": "2023-08-07T05:16:13Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "docircuits",
+  "ns": 0,
+  "id": 1135,
+  "slug": "docircuits",
+  "latest_revision": {
+    "id": 4247,
+    "timestamp": "2014-01-21T08:16:05Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "Correct category name",
+    "text": "\nDoCircuits - Create circuit online, test and measure with real lab equipments and share your design with community. Browse over 20,000 circuit simulations.\n[http://www.docircuits.com DoCircuits]\n\n[[Category:Electronics Utilities]]",
+    "bytes": 231
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2014-01-21T08:06:47Z",
+  "is_redirect": false
+}

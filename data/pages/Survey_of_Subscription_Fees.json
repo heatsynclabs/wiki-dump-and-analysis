@@ -1,0 +1,21 @@
+{
+  "title": "Survey of Subscription Fees",
+  "ns": 0,
+  "id": 17,
+  "slug": "Survey_of_Subscription_Fees",
+  "latest_revision": {
+    "id": 359,
+    "timestamp": "2009-12-23T00:08:12Z",
+    "contributor": {
+      "username": "64.38.194.13",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Results From Community Survey */",
+    "text": "==Results From Community Survey==\n\nThe average local hacker wants to pay around $30 for access to a facility that offers workspaces, industry level tools, classes and workshops, and storage space to work on projects.  Currently this alone will not sustain a space for the amount of people interested.\n\n==Other Hacker Spaces==\n\n===NYC Resistor===\n* 25 dollars per hour classes\n* private invite only membership\n* friends of NYCR 13.37 /month\n* first 9 each put in 1000 each to start\n* went to 75 recently? to always kept that 3 months rent in bank\n* large purchase funded by those who wanted it\n\n===Noisebridge===\n* 80/month standard\n* 40/month starving hacker?\n* 20/month affiliate (non member?)\n\n===hackdc===\n* 50/month\n\n===TechShop(Commerialized Hacker Space)===\n* http://tv.boingboing.net/2008/04/27-week/\n* http://www.forbes.com/2008/08/13/diy-innovation-newton-tech-egang08-cz_vb_0813newton.html\n* 125 a month\n* 9-midnight",
+    "bytes": 926
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2009-09-09T18:15:26Z",
+  "is_redirect": false
+}

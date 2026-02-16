@@ -1,0 +1,21 @@
+{
+  "title": "UAS/Design",
+  "ns": 0,
+  "id": 429,
+  "slug": "UAS_-_Design",
+  "latest_revision": {
+    "id": 2690,
+    "timestamp": "2011-08-20T17:45:30Z",
+    "contributor": {
+      "username": "98.177.238.92",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Software Design */",
+    "text": "<div style=\"float: right\">__TOC__</div>\nReturn to [[UAS]]\n== Architecture ==\nMaybe the following subsystems exist:?\n\n=== Navigation (NAV) ===\nThis subsystem calculates location, orientation, and--maybe--HAGL.\n\n=== Return to Service (RTS) and Preflight ===\nThis subsystem should perform RTS (return to service) and preflight testing of the craft.\n\nRTS is only available via USB and should include instructions for the operator (e.g. invert the aircraft, visually confirm the elevator moves to maximum down position).\n\nRTS should not pass if Maintenance has stored a fault.  Until formally cleared.  Also, the aircraft should not take off with an active RTS fault.\n\nPreflight should be a standard, on ground operation of all control surfaces.  It is activated via push button and cycles the test (with a few second timeout) until the operator pushes the button again, but only after a full preflight cycle.\n\n=== Maintenance (MAINT) and Logger ===\nThis subsystem should capture and store faults (e.g. failure of a sensor).\n\n=== Flight Plan (FP) ===\nThis subsystem should feed the flight plan to the Pilot.\n\nThis should interface w/ COMS to enable flight plan updating.\n\n=== Pilot (AP)  ===\nThis is the thing that takes inputs from NAV and FP and commands servos and throttles.  This flys the craft.\n\n=== Auto Land (AL) ===\nThe auto land subsystem takes over (when directed) to provide inputs to the Pilot to create a safe, clean landing.\nIn all likely hood, AL is a mode inside AP, NOT a full subsystem...\n\n=== Communications (COMS) ===\nThis is a 2 part subsystem: USB and RF.  behavior shall be different in USB vs RF mode.  Also will be different if we are on ground.\n\nCOMS should generally provide a way for the base station to talk to the various subsystems of the drone.  This should allow for things like:\n* querying the DATALOG.\n* querying the FP.\n* Changing the FP\n* subscribing to data (e.g. telemetry information, %to next waypoint)\n* return to base\n* Take Off\n* Go Around\n\n== Random Thoughts ==\nWhat do our emergency modes look like and where do they go?\n\nHow do we monitor the battery?  (Shut the engine off and glide in for a landing?)\n\n==Software Design ==\nHow they system is layout in software.\n[[UAS/Design/Software]]\n\n= See Also =\n* [http://code.google.com/p/ardupilot-mega/downloads/list Ardupilot Mega]  -- Can we reuse any libraries?",
+    "bytes": 2350
+  },
+  "revision_count": 12,
+  "first_revision_timestamp": "2011-08-17T21:06:20Z",
+  "is_redirect": false
+}

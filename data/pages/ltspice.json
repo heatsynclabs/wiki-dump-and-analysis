@@ -1,0 +1,21 @@
+{
+  "title": "ltspice",
+  "ns": 0,
+  "id": 1148,
+  "slug": "ltspice",
+  "latest_revision": {
+    "id": 4274,
+    "timestamp": "2014-01-22T18:12:55Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "",
+    "text": "\nSPICE (Simulation Program with Integrated Circuit Emphasis) is a general-purpose, open source analog electronic circuit simulator. It is a powerful program that is used in integrated circuit and board-level design to check the integrity of circuit designs and to predict circuit behavior.\n\nLTSpice is a nicely maintained version of Spice for Windows and Mac.\nReported to run under Wine on linux\n\n[http://www.linear.com/designtools/software/ LTSpice]\n\n[[Category:Electronics Utilities]]",
+    "bytes": 486
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2014-01-22T18:12:30Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Station Screensavers",
+  "ns": 0,
+  "id": 1425,
+  "slug": "Station_Screensavers",
+  "latest_revision": {
+    "id": 5879,
+    "timestamp": "2024-01-28T22:14:12Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Over Complicating Things */",
+    "text": "==Overview==\nThe idea is to have a screensaver at the stations with a computer that shows projects people have made using the tools at that station. This was the easy part.\n\n*Made folders C:\\Photo Screensaver _StationName_\n*Added photos from our Flickr or google photos collections\n*Set the screensaver to photo and that folder\n*Set the screensaver to 10 minutes thinking that was short enough to be annoying.\n\n==Over Complicating Things==\nThat was pretty much it and it worked good. I wanted the screensavers to be running when open hours starts, but the monitors turn off (which is good).\nTo solve this I wrote a simple AutoHotkey script that checks if the computer has been idle for 5 minutes and will start the screensaver if it has. I use Windows taks scheduler to run this script when the open hours begins. This doesn't seem to work 100% of the time. If anyone knows how to solve this let me know.\n\nI've added shortcuts on some of the desktops that can start the screensaver manually. Still not sure why it won't wake up monitors.\n\nWe could also add digital photo frames to the stations that don't have computers (Sewing, Electronics, Woodworking etc).\n\n[[Category:Project]]",
+    "bytes": 1181
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2023-11-11T19:50:07Z",
+  "is_redirect": false
+}

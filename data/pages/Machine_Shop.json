@@ -1,0 +1,21 @@
+{
+  "title": "Machine Shop",
+  "ns": 0,
+  "id": 1429,
+  "slug": "Machine_Shop",
+  "latest_revision": {
+    "id": 6079,
+    "timestamp": "2024-09-10T01:39:27Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "station template added",
+    "text": "*'''Station Champions:''' Darrell Wertz\n*'''Communication:''' Slack #metal channel\n*'''Certification:''' Lathe, Mill, CNC Mill, All other tools require a checkout\n*'''Events:''' None\n\n=Overview=\nHeatSync Labs has a range of metal working tools. You will need to get a check out or certification for anything in this area so always ask before using.\n\nDarrell Wertz is the current station champion. Post on the Slack Metal channel if you have questions or if there are any problems in this area.\n\nHeatSync Labs also has licenses for the full version of Fusion 360 which you can check out and use for your project or learning. Post on Slack asking Darrell for help setting it up.\n\n=Tools=\n*[[Mini Mill]]\n**[https://drive.google.com/drive/folders/1CGHt1VYwuXsn87sUDjLvvVM7yX74rRln Mini Mill Central Machinery]\n*[https://drive.google.com/drive/folders/1rQvzQoBe5gYBewk1EDHVS26EffbWSkcz The Blue Mill]. Parts of a Sheldon and Rosnok (not 100% sure)\n*[[CNC Mill]]\n**[[CNC Mill Notes]]\n**[[CNC Mill Certification Class]]\n**[https://drive.google.com/drive/folders/1PlVlGvG7gO5_BHSXrYuvUXZfxU7Ucfy5 CNC Mill]. Someone's DIY conversion from a manual mill to a CNC\n*[https://drive.google.com/drive/folders/1465_BNyzSojuNdEP8eI4q3MkK8QjBU4k Mini Lathe, Central Machinery 7” X 12”]\n*[https://drive.google.com/drive/folders/1YMXmLKHHkvugjgMKRKH9hlVdW5lJUYFM Lathe, Central Machinery 12\" x 36\"]\n*[https://drive.google.com/drive/folders/1008czzKdP4ZpoQL8Nc21ghQkobBGQqEB Drill Press, Grizzly 12-Speed]\n*[https://drive.google.com/drive/folders/1mOlWz9JTGioumXTUX3SQUFlfwdEGceAp Grinder, Delta Variable Speed]\n*[https://drive.google.com/drive/folders/1xnn9PdZldG-rbkMNEW4hxKlplpbrrPzw Rigid 14\" Abrasive Cutoff]\n*[https://drive.google.com/drive/folders/1owEcsCUxaZflb6KWMPtzg3ZUte_5Jmml Jet Horizontal-Vertical Band Saw Models]\n*[https://drive.google.com/drive/folders/1CnGh_xXbp4oSJoBID5Nyyl4o4nQ4JV2r 3-IN-1 Combination Shear, Brake, Roll]\n*[https://drive.google.com/drive/folders/13m1QV_Xsz7iT6HP0b1xq1DMbUbTyqV-_ Central Pneumatic Vertical Air Compressor]\n\n[[Category:Machine Shop]]",
+    "bytes": 2071
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2024-01-08T01:52:35Z",
+  "is_redirect": false
+}

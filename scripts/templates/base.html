@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} - HeatSync Labs Governance</title>
+  <link rel="stylesheet" href="{{ css_path }}css/style.css">
+</head>
+<body>
+  <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <h1>HeatSync Labs</h1>
+      <p>Governance Documentation</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="{{ root_path }}index.html">Home</a></li>
+      </ul>
+
+      <h2>Governance</h2>
+      <ul>
+        {% for page in nav_governance %}
+        <li><a href="{{ root_path }}pages/{{ page.slug }}.html">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h2>Guides &amp; Reference</h2>
+      <ul>
+        {% for page in nav_guides %}
+        <li><a href="{{ root_path }}pages/{{ page.slug }}.html">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h2>Board</h2>
+      <ul>
+        {% for page in nav_board %}
+        <li><a href="{{ root_path }}pages/{{ page.slug }}.html">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      {% if nav_legal %}
+      <h2>Legal / Nonprofit</h2>
+      <ul>
+        {% for page in nav_legal %}
+        <li><a href="{{ root_path }}pages/{{ page.slug }}.html">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if nav_meetings %}
+      <h2>Meetings</h2>
+      <ul>
+        {% for page in nav_meetings %}
+        <li><a href="{{ root_path }}pages/{{ page.slug }}.html">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <h2>History</h2>
+      <ul>
+        <li><a href="{{ root_path }}pages/history_space.html">History of the Space</a></li>
+        <li><a href="{{ root_path }}pages/history_governance.html">History of Governance</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <main class="main-content">
+    <div class="content-wrapper">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+
+  <script src="{{ js_path }}js/app.js"></script>
+</body>
+</html>

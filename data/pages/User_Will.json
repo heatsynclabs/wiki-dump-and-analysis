@@ -1,0 +1,21 @@
+{
+  "title": "User:Will",
+  "ns": 2,
+  "id": 44,
+  "slug": "User_Will",
+  "latest_revision": {
+    "id": 172,
+    "timestamp": "2009-10-16T22:03:24Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "Created page with '== Will == '''NOW BACK FROM THE DEAD, AND BETTER THAN EVER!'''  An egotistical IT Manager from Federation Planet 294. He was assimilated by the MacBorg and renamed l33tH4x0r Of B…'",
+    "text": "== Will ==\n'''NOW BACK FROM THE DEAD, AND BETTER THAN EVER!'''\n\nAn egotistical IT Manager from Federation Planet 294. He was assimilated by the MacBorg and renamed l33tH4x0r Of Borg. Now free of machine control, he commands his minions with an iron fist. [[Main Page|Would you like to know more?]]",
+    "bytes": 297
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2009-10-16T22:03:24Z",
+  "is_redirect": false
+}

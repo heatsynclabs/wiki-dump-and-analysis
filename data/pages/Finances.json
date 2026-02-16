@@ -1,0 +1,21 @@
+{
+  "title": "Finances",
+  "ns": 0,
+  "id": 18,
+  "slug": "Finances",
+  "latest_revision": {
+    "id": 5050,
+    "timestamp": "2021-11-12T02:46:56Z",
+    "contributor": {
+      "username": "Smpn",
+      "ip": null,
+      "id": 707
+    },
+    "comment": "Yet another grammatical error",
+    "text": "\nFinances are the domain of the Treasurer. HeatSync attempts to be as open book to our members as possible, and nearly that open to the public in general. You may contact the treasurer at any time to talk about our financial status.\n\n=Purchasing and Reimbursement Policy=\n\nThe following are the currently recognized ways for Heatsync Labs to spend its money:\n*Individual members granted spending responsibilities through a Hack Your Hackerspace vote, or board election.\n*A proposal to Hack Your Hackerspace, specifying what equipment to buy, and passed by a majority vote.\n*A station head, spending within the limits of their station budget, on equipment for their station.\n*A board member, at their discretion, for purchases under $50 in value.\n*A board member, with the approval of a majority of the board, for purchases over $50.\n\nIndividual members are expected to spend their own money to purchase equipment for the lab. Members donating to the lab are appreciated, but will NOT be reimbursed for their donations.\n\nPlease save all receipts and give them to the treasurer or secretary.",
+    "bytes": 1089
+  },
+  "revision_count": 20,
+  "first_revision_timestamp": "2009-09-09T18:15:40Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutter Software",
+  "ns": 0,
+  "id": 1221,
+  "slug": "Laser_Cutter_Software",
+  "latest_revision": {
+    "id": 4662,
+    "timestamp": "2020-06-24T03:16:56Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "fix redirect I broke",
+    "text": "#REDIRECT [[LaserCut 5.3]]",
+    "bytes": 26
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2020-06-24T03:11:07Z",
+  "is_redirect": true
+}

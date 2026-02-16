@@ -1,0 +1,21 @@
+{
+  "title": "Tool Manuals Index",
+  "ns": 0,
+  "id": 1127,
+  "slug": "Tool_Manuals_Index",
+  "latest_revision": {
+    "id": 4167,
+    "timestamp": "2013-09-14T16:50:07Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "This is a tab-separated spreadsheet; save as a text file and open in Excel (TSV) to edit.\n\n<pre>\nHeatSync Labs\nTool Manuals (by tool name)\n\nTool\tManufacturer\nBandsaw (wood)\tProfessional Woodworker\nBandsaw (metal)\tJet\nJigsaw\tRyobi\nMiter Saw\tDeWalt\nTable Saw\tBosch\nTable Saw Stand\tBosch\nWelding Helmet\t3M\n\n\nTo update, please add the manual alphabetically, add its name to this list, and update the “Last Updated” below.\nStored at: http://wiki.heatsynclabs.org/wiki/Tool_Manuals_Index\n\nLAST UPDATED:\n</pre>",
+    "bytes": 507
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-09-14T16:49:27Z",
+  "is_redirect": false
+}

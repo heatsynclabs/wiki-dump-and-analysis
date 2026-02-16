@@ -1,0 +1,21 @@
+{
+  "title": "Autonomous Hexapod Robot",
+  "ns": 0,
+  "id": 1064,
+  "slug": "Autonomous_Hexapod_Robot",
+  "latest_revision": {
+    "id": 3961,
+    "timestamp": "2012-12-23T16:24:37Z",
+    "contributor": {
+      "username": "Sandworm",
+      "ip": null,
+      "id": 673
+    },
+    "comment": "",
+    "text": "[[File:kodama.jpg]]\n\nI started this project on a whim as I've always had a keen interest in robotics, but relatively little knowledge about mechanics, electrical engineering or the like. By trade I'm a video game developer, and I've got some experience programming AI, so bringing some of this stuff into the real world is very appealing. \n\nEnter Kodama, my robot concept that has become a full blown (and full budget) project. \n\nVideo here: http://www.youtube.com/watch?v=JR86ldMgmLQ\n\nBuild log here: [http://www.lynxmotion.net/viewtopic.php?f=8&t=8409&start=75&sid=cc9b2ea1467484f48096b3ab6a76592e Lynxmotion robotics]\n\nFeel free to contact me about this project at sandworm at gmail dot com. \n\nDuane",
+    "bytes": 702
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2012-11-27T20:52:22Z",
+  "is_redirect": false
+}

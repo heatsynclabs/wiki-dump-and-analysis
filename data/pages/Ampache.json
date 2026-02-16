@@ -1,0 +1,21 @@
+{
+  "title": "Ampache",
+  "ns": 0,
+  "id": 418,
+  "slug": "Ampache",
+  "latest_revision": {
+    "id": 2562,
+    "timestamp": "2011-08-10T00:55:19Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "add details on how to get more music on the system",
+    "text": "HeatSync Labs now has an Ampache server for background music. It is accessible from [[dn42]] at http://pipsqueek.zrg.dn42 . The server is administrated by [[User:Rrix]] and any and all support questions should go to him, unless the internet at HSL is dying.\n\n== Setting up the Client ==\nWhatever box that is hooked up to the HeatSync [[sound system]] has to be able to stream using m3u's. VLC will work on every major platform but if all else fails, Windows Media Player will play the streams.\n\n=== Using the Lenovo at the Sound System ===\nIf your're using the Lenvo, find the Ampache Playlist.m3u, and open it. Make sure the player is set to repeat, and let it roll.\n\n=== Using Another System ===\nIf you're not using the Lenovo that is at the sound station, or you cannot find the stream file, you need to download the stream playlist:\n# Log in to the Ampache server, log in details are near the sound system. If not ask [[User:Rrix]]\n# On the left side, under Playlist, click Democratic.\n# Click Play Democratic Playlist in the main view\n## An m3u will be downloaded\n# Open that downloaded file\n# Make sure that the player is set to repeat\n\n== Controlling the Playlist ==\nAnyone at the space can connect to the Ampache instance and log in (either using the HSL credentials, or a login on request) and add music to the democratic playlist, or vote on tracks in the existing playlist. \n\nTo add music, either search, or browse for the tracks you want, add it to your local playlist.\n\nWhen you're done with the local playlist, hit the play button (looks like a radio antenna), and it will be added to the democratic playlist\n\n== Adding Music ==\nAny legally acquired music can be added to the Ampache instance. Ask Ryan for details on how to set this up.",
+    "bytes": 1751
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2011-08-10T00:42:35Z",
+  "is_redirect": false
+}

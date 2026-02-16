@@ -1,0 +1,21 @@
+{
+  "title": "Loldialer HeatSyncLabs Config",
+  "ns": 0,
+  "id": 1076,
+  "slug": "Loldialer_HeatSyncLabs_Config",
+  "latest_revision": {
+    "id": 4052,
+    "timestamp": "2013-03-21T01:48:29Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "",
+    "text": "Welcome traveler!\n\nYou're attempting to troubleshoot your Loldialer (tm) brand trolling device. If you have another brand trolling device or suspect your device might be counterfeit, please contact your manufacturer for support.\n\nNote 1: When in doubt reboot it, duh.\nNote 2: I've seen the loldialer not be able to run the ethernet (ie ping, etc) while also powering the lcd and or backlight. You'll want to be plugged into a dc adapter for this.\n\nThe loldialer with current code from [Jacob's Repo https://github.com/jacobrosenthal/loldialer] will get DHCP and will report if it can't get an IP. \n*Is internet up at hsl?\n*Is the network cable still in good? Easiest things first, right? Swap it!\n\nDoes it say contact manufacturer?\n*Is the loldialer server up and responding? Heatsync labs server is up at rs1.zyphon.com. You can actually initiate a loldial from your computer. Insert your 10 digit phonenumber below to troll yourself and guarantee the server is up http://50.56.124.136/~huertanix/cgi-bin/invoke_lulz.cgi?phone=XXXXXXXXXX&clip=rickroll\n\nOther than that\n*Maybe it was dropped and wires are loose? I've labeled everything inside\n*Is the LCD functioning? This hardware version (1?) uses the sparkfun lcd https://www.sparkfun.com/tutorials/246\n*Does the button pad work? You need its library from in here, and theres test code in here. From the schematic you'll notice we use the default pins so the test sketch should just run http://playground.arduino.cc/code/Keypad\n*Can you reflash/update the code? You should already have the libraries (mainly the keypad) from above The v1 software is the master branch over at github https://github.com/huertanix/loldialer",
+    "bytes": 1675
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-02-08T11:52:00Z",
+  "is_redirect": false
+}

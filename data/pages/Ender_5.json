@@ -1,0 +1,21 @@
+{
+  "title": "Ender 5",
+  "ns": 0,
+  "id": 1359,
+  "slug": "Ender_5",
+  "latest_revision": {
+    "id": 5440,
+    "timestamp": "2022-12-15T03:03:43Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "added log link",
+    "text": "Both Ender 5's can be used with via Octoprint at the following locations;\n\n[http://172.22.110.160/ Ender 5 #1]\n\n[http://172.22.110.161/ Ender 5 #2]\n\nBe sure to log your work [https://docs.google.com/forms/d/e/1FAIpQLSfP4GS4lzFiKg1nG6O_yjVCarCjyGqMVxv6eRoVPrExEhymzQ/viewform Ender Log]",
+    "bytes": 285
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2022-09-23T02:29:47Z",
+  "is_redirect": false
+}

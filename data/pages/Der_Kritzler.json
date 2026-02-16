@@ -1,0 +1,21 @@
+{
+  "title": "Der Kritzler",
+  "ns": 0,
+  "id": 584,
+  "slug": "Der_Kritzler",
+  "latest_revision": {
+    "id": 2955,
+    "timestamp": "2011-10-14T17:01:57Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "moved [[Der Kritzler]] to [[Draw Bot]]",
+    "text": "#REDIRECT [[Draw Bot]]",
+    "bytes": 22
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-10-14T17:01:57Z",
+  "is_redirect": true
+}

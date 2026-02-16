@@ -1,0 +1,21 @@
+{
+  "title": "LEGO",
+  "ns": 0,
+  "id": 1371,
+  "slug": "LEGO",
+  "latest_revision": {
+    "id": 5569,
+    "timestamp": "2023-08-03T02:01:55Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Overview */",
+    "text": "== Overview ==\n\nThe HeatSync Labs LEGO Station has over 12,000 LEGO and 60 Mini figures thanks to a large donation from Hayward Family. Feel free to use the LEGO during any Open Hours as long as it is not disruptive of other events. Use Parking Permits on your project if you wish to display it or continue to work on it later. There is a hole punch in the Big Yellow container to make attaching parking permits to LEGO a snap.\n\n\n== Some Past Events ==\n[https://guestlist.co/events/733899 LEGO Tower Build - Saturday 01/14/23]\n\n[https://guestlist.co/events/750567 LEGO Day: Marble Run Collaboration - Saturday 06/24/23]\n\n[https://guestlist.co/events/752259 LEGO Day: Group Garden Build - Saturday 07/29/23]",
+    "bytes": 706
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2022-11-29T21:30:19Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Laser Example Book",
+  "ns": 0,
+  "id": 1418,
+  "slug": "Laser_Example_Book",
+  "latest_revision": {
+    "id": 5758,
+    "timestamp": "2023-12-06T05:24:27Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "There is a binder with examples on laser engraving that sits on the 60 Watt Laser computer stand. Feel free to add things to this binder.\n\n==Material Samples==\nFeel free to leave material to make test samples from Indicate where you bought it and what it's called or link to the material. Better if people can get the material. The size we are using int he book is 81 mm x 56 mm to make sure it will fit inside the baseball card binder sleeves. The test pattern is a work in progress. The 60 Watt files work, but the 80 Watt laser files are still pending.\n\n[https://www.grainger.com/product/1NLL1 Acetal Copolymer]. This releases formaldehyde and cutting shouldn't be excessive. Delrin is a brand name of this material. It is also a messy material to clean up after\n\n[https://www.hobbylobby.com/p/142072 Natural Leather Tooling Belly]\n\n==Photo Engrave==\nThese examples show the LightBurn photo engrave options; dithering algorithm, power setting, and line interval (scan gap).\nFor those curious the people in the photos are just from random public domain images.\n\n[[Category:Project]]\n\n[[Category:Laser]]",
+    "bytes": 1104
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2023-10-26T23:47:47Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Parking Permit",
+  "ns": 0,
+  "id": 1156,
+  "slug": "Parking_Permit",
+  "latest_revision": {
+    "id": 4294,
+    "timestamp": "2014-04-02T18:35:58Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Download here: [[File:parkingpermit.pdf]]\n\nUsed for marking property within the lab so everyone knows whose it is and what will be done with it (otherwise it may be considered trash/abandoned.)\n\nUsually printed on lime green paper at Kinkos/Fedex, 4 permits per page, pre-cut.",
+    "bytes": 276
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2014-04-02T18:33:11Z",
+  "is_redirect": false
+}

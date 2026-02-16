@@ -1,0 +1,21 @@
+{
+  "title": "Wiki Management",
+  "ns": 0,
+  "id": 4,
+  "slug": "Wiki_Management",
+  "latest_revision": {
+    "id": 57,
+    "timestamp": "2009-09-11T19:45:37Z",
+    "contributor": {
+      "username": "Friedpope",
+      "ip": null,
+      "id": 2
+    },
+    "comment": "",
+    "text": "This page overviews the administrative status of the wiki.  If you have a request or suggestion please use the discussion page to present your topic.  The admins will respond as soon as possible and research your issue.\n\n==Features and Extensions==\n*Currently we are using the following extensions:\n**[http://www.mediawiki.org/wiki/Extension:RSS#Source '''RSS'''] to display RSS feeds\n**[http://www.mediawiki.org/wiki/Extension:ReCAPTCHA ReCAPTCHA] for spam and editing control\n**[http://www.mediawiki.org/wiki/Extension:User_Merge_and_Delete User Merge and Delete] for administration\n**[http://www.mediawiki.org/wiki/Extension:SyntaxHighlight_GeSHi GeSHi Syntax Highlighting] for source code highlighting\n**[http://www.mediawiki.org/wiki/Extension:Google_Analytics_Integration Google Analytics] for usage tracking\n**[http://www.mediawiki.org/wiki/Extension:Google_Maps Google Maps] adds ability to embed Google maps in an article\n**[http://www.mediawiki.org/wiki/Extension:Ajax_Show_Editors Ajax_Show_Editors] for UI enhancement\n\n*And the following hacks/tweaks:\n**[http://www.mediawiki.org/wiki/Manual:Short_URL '''Short URLs'''] for clean URLs\n**CSS removal of the [[Main Page]] title [http://www.mediawiki.org/wiki/Manual:Configuration_tips_and_tricks#Removing_Main_Page_Title]\n\n==Revoked Modifications and Extensions==\n*[http://ciarang.com/wiki/page/WPMW '''AuthWP'''] for WordPress-MediaWiki single sign on\n**(Issues with account update code prevented mediawiki from changing passwords and creating accounts in the WP database.)\n\n==Requested Modifications==\n*Forum\n**[http://www.mediawiki.org/wiki/Extension:AWC%27s_Forum AWC Forum]\n*[http://www.mediawiki.org/wiki/Extension:AjaxRatingScript Ajax Rating Script] for UI enhancement and feedback\n*[http://www.mediawiki.org/wiki/Extension:Flickr Flickr] for bandwidth savings and user experience\n*[http://www.mediawiki.org/wiki/Extension:CategoryTree CategoryTree] for UI enhancement\n*[http://www.mediawiki.org/wiki/Extension:IM_Status IM Status] for user experience\n*[http://www.mediawiki.org/wiki/Extension:JQuery_Tab_Container Tabs] for UI enhancement\n*[http://www.mediawiki.org/wiki/Extension:IRC_Chat IRC Chat] for user experience\n*[http://www.mediawiki.org/wiki/Extension:GroupPortal Group Portal] for user experience and management\n*[http://www.mediawiki.org/wiki/Extension:SidebarEx SidebarEx] for user experience and management\n*[http://www.mediawiki.org/wiki/Extension:Calendar_%28Kenyu73%29 Calendar] for UI enhancement\n*[http://www.mediawiki.org/wiki/Extension:MobileSkin Mobile Skin] for UI enhancement",
+    "bytes": 2568
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2009-09-05T00:16:45Z",
+  "is_redirect": false
+}

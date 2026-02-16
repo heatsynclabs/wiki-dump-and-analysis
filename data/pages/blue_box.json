@@ -1,0 +1,21 @@
+{
+  "title": "blue box",
+  "ns": 0,
+  "id": 1174,
+  "slug": "blue_box",
+  "latest_revision": {
+    "id": 4397,
+    "timestamp": "2016-03-31T02:15:01Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Blue Box */",
+    "text": "\n== Blue Box ==\n\n[[File:bluebox000.jpg|300px|thumb|right|Arduino Blue Box]]\nThe lab has a functional blue box to be used with the lab phones or for any other 2600hz controlled trunk you may need to seize and route. It lives near the two autodialing projectMF phones for now and until it is destroyed or lost has an instruction manual to go with it.\n\nThe original machine had a base plate of pre-famulated amulite surmounted by a malleable logarithmic casing in such a way that the two spurving bearings were in a direct line with the panametric fan. The latter consisted simply of six hydrocoptic marzlevanes, so fitted to the ambifacient lunar waneshaft that side fumbling was effectively prevented. The transducer is of the Western Electric 500 type with a .33 microfarad condenser attached between the terminals as so the negative side of the capacitor corresponds to the negative component of the 9 volt pile passing through a carbon component resistor of the quarter watt capacity with the value of one hundred and fifty ohms nominal first.\n\nIf the manual should be lost, or the box blown up or destroyed for reasons known or unknown, everything you need is included in this handy zip the original project designer included.\n\n----\n\n[[File:Rainbow_V36_16key_PWM_LCD.zip‎]]\n\nThe box may need care and feeding occasionally consuming one 9 volt pile battery every so often. Never feed it after midnight though!\n\n----\n\n[[File:bluebox001.jpg|300px|thumb|right|Blue Box in use,]]\nOh yeah, one more thing, you need to bring the transducer close enough to your handset's microphone for it to work right and the device must be energized.",
+    "bytes": 1634
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2016-03-30T05:11:35Z",
+  "is_redirect": false
+}

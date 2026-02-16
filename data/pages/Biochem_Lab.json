@@ -1,0 +1,21 @@
+{
+  "title": "Biochem Lab",
+  "ns": 0,
+  "id": 1370,
+  "slug": "Biochem_Lab",
+  "latest_revision": {
+    "id": 6083,
+    "timestamp": "2024-09-10T01:56:25Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "station template added",
+    "text": "*'''Station Champions:''' Shaundra Newstead\n*'''Communication:''' Slack #biochem channel\n*'''Certification:''' Ask before using any equipment for a checkout\n*'''Events:''' None\n\n==Overview==\nBefore using equipment ask via Slack to get help learning the basics of the tools in the lab.\n\n==Tools==\n*research microscope\n*Mettler Toledo AE160 Analytical Balance\n*microbiology microscope with camera\n*incubator\n*VWR Galaxy 16DH Microcentrifuge\n*consumables (test tubes, stains, etc)\n*laminar flowhood (soon)\n*chemical fumehood (soon)\n*ring stands\n*glassware\n*distillation equipment\n*Scilogex MS-H-S Analog Circular Magnetic Hotplate Stirrer\n*MJ Research PTC-100 PCR Programmable Thermal Controller\n\n==Supplies==\nList needed\n\n==Other==\n* There is a [https://americanlaboratorytrading.com/lab-equipment-products/branson-b3200r-1-ultrasonic-cleaner_8951 Branson B3200 Ultrasonic Cleaner] in the Jewelry Station which can be used and put back there. [https://www.proequip.com/wp-content/uploads/2019/10/Bransonic_manual_1200-2200-3200-5200-8200.pdf manual]\n\n[[Category:Biochem Lab]]",
+    "bytes": 1075
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2022-11-28T20:43:55Z",
+  "is_redirect": false
+}

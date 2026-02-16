@@ -1,0 +1,21 @@
+{
+  "title": "MSDS Binder",
+  "ns": 0,
+  "id": 1126,
+  "slug": "MSDS_Binder",
+  "latest_revision": {
+    "id": 4164,
+    "timestamp": "2013-09-14T15:22:28Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "See also: [[MSDS Index]]\n\n==HeatSync Labs MSDS Binder==\nWhen bringing a chemical or potentially-hazardous material into the lab, please search the Internet for and print out an MSDS. \n* Add it to this binder in alphabetical order by product name. \n* Add the item to the Chemical Name Index and Company Name Index pages (in pen, or by printing a new copy.)\n* Update the “last updated” date below (in pen is fine.)\n* Extra sheet protectors should be stored nearby, possibly in another binder. \n* Insert two sheets per protector to save space.\n* This document stored at: http://wiki.heatsynclabs.org/wiki/MSDS_Binder\n\nLAST UPDATED:",
+    "bytes": 632
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-09-14T15:21:36Z",
+  "is_redirect": false
+}

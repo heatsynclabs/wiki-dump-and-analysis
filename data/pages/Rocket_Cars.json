@@ -1,0 +1,21 @@
+{
+  "title": "Rocket Cars",
+  "ns": 0,
+  "id": 173,
+  "slug": "Rocket_Cars",
+  "latest_revision": {
+    "id": 956,
+    "timestamp": "2010-04-19T15:46:03Z",
+    "contributor": {
+      "username": "Nphillips",
+      "ip": null,
+      "id": 30
+    },
+    "comment": "/* Track */",
+    "text": "==Synopsis==\nThis project will involve creating a set of rules and guidelines for HSL-sponsored Rocket Car races (fiascos?).\n\n==Examples From the World Around Us==\n*http://blog.makezine.com/archive/2010/04/rocket_powered_car_races.html  (where the idea was sparked)\n*http://www.rocketcarday.com/ (better videos from the same event Make picked up on)\n*http://www.instructables.com/tag/?q=rocket%20car&sort=none  (slew of 'ibles surrounding rocket cars)\n*http://www.maximum-velocity.com/rocket_cars.htm (simple design, and available for purchase. Specifically, note how the car has eyehooks *on the bottom* for the string-track.)\n\n==Parts==\n===Car===\n#A model rocket engine\n##Typically, a C6 engine is used.\n##Whether or not to use an engine with an ejection charge is up for debate. On one hand, not having a small explosion at the end is safer, but we could have a lot of fun watching cars inadvertently explode :)\n#A car or some other wheeled vehicle\n##In the cheapest and jerry-rigged fashion, a Hot Wheels car and a zip-tie were used.\n##In a more elegant and creative fashion, custom vehicles are designed.\n##Pinewood Derby cars might be a good place to start.\n\n===Track===\n#Guides\n##Single Guide-wire\n###This allows the cars to stay on a straight line.\n###If the car is imbalanced or too small, it can spiral around the wire.\n##Double Guide-wire\n###Prevents spiraling while the car is in motion\n###Adds extra friction and ability for the car to jam, if a car's connectors aren't aligned properly\n##Guide Positioning\n###Side(s)\n####Works for both single and double guides\n####Probably the best layout for double guides. A single on the side encourages barrel rolls\n####Potentially limits the width of the car (lane size notwithstanding)\n###Top\n####Usable with single/double guides\n####Limits the height of the car\n###Bottom\n####Certainly a more \"traditional\" track feeling.\n####Requires minimum ground-clearance\n####Helps eliminate the chance of rolling/spinning when using a single-guide, if the wire is taut.\n##Material\n###Wire. Durable, fairly rigid, and won't burn up from the exhausts\n###String. Cheap, easily replaced. Flammable.\n#Mounting\n##2x4 start and finish lines\n###dirt cheap, and easy to work with\n##L-Brackets for suspending the guides\n###metal, sturdy, easily attached to 2x4s\n###Doubles as a blast plate at the starting line\n##Eyehooks\n###Small, cheap, easy to tie things to. \n###Does nothing to contain exhaust at launch time.\n#Eye-Candy/Extras\n##Photogates\n###tied to a computer, can provide data regarding velocity, acceleration, accurate time trials\n##Finish Line Sensor\n###Simple set of switches to indicate 1st, 2nd, 3rd places. Arduino, small tactile pushbuttons, and some LEDs would easily accomplish this.\n\n===Launch Mechanism===\n#Requirements\n##Need a way to fire off multiple rockets simultaneously.\n###Make Volume 20 had a \"Mega Launcher\" from a boyscout troop. Pops 10 at a time (or individually) Schematics: http://makezine.com/20/megalauncher/  (Nate has all the parts to make this. consider 'em donated!)\n\n#Extras\n##A digital countdown timer would be sweet\n###The Mega Launcher has a countdown buzzer, I believe. A digital clock could easily be inserted\n\n==Rules==\n#Use Common Sense\n##If it looks unstable and unsafe, it probably is. Participants should decide as a group if a questionable car should race or not.\n##Test your car, first. A simple track can be built at home pretty easily.\n#3 Wheels\n##In order to qualify, a minimum of three wheels must be on the ground a majority of the time. Bumpy asphalt can cause cars to jump and bounce, but it should be pretty obvious if a car is out of control\n#One Engine\n##No tandem or multi-stage engines, period.\n#Car Size/Weight\n##This is up for debate. The prior rules pretty well dictate how cars should be built. (Nate's opinion is \"anything goes.\")",
+    "bytes": 3834
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2010-04-16T18:01:11Z",
+  "is_redirect": false
+}

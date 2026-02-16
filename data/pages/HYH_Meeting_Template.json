@@ -1,0 +1,21 @@
+{
+  "title": "HYH Meeting Template",
+  "ns": 0,
+  "id": 1036,
+  "slug": "HYH_Meeting_Template",
+  "latest_revision": {
+    "id": 3919,
+    "timestamp": "2012-11-17T00:23:56Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "Update template with instructions for changed proposals",
+    "text": "This page was automatically copied from [[HYH Meeting Template]] by [[User:Phong]]. If you would like to change the structure of how future meetings perform, please make any modifications to [[HYH Meeting Template]]. If you would like to propose something at the next meeting, bring it up on the mailing list with \"PROPOSAL:\" in the subject line and Phong will add it to the next meeting's agenda.\n\n= Instructions =\n* Read the instructions out loud for all to comprehend.\n* '''Delete these instructions prior to posting completed minutes'''\n* Pick a moderator and note-taker\n* Review [[$LAST_MEETING$|the last meeting's minutes]]\n* If proposals have been amended or withdrawn, update this document accordingly before the meeting.\n\n== Note-taker ==\n* Open a text editor to take down some '''detailed''' minutes.\n** Detail is important. If it isn't written down, it never happened.\n** Make sure you record vote counts and not only the final results\n* Project the minutes and notes throughout the meeting on the projector in the centre of the room. \n** This is done in lieu of whiteboarding because screw whiteboarding.\n* Follow the instructions in the End of Meeting section at the appropriate time.\n\n== Moderator ==\n* Start by taking count of present voting members for quorom\n** Note Taker should note this count in the Agenda section\n* Make sure everyone gets a chance to speak\n* Speak minimally yourself\n* Keep the meeting moving\n* Handle the membership voting process\n* Be sure to thoroughly follow the procedure outlined in this document, as the template may occasionally change without warning.\n\n== Participants ==\n* Remain on-topic\n* Remain respectful of other participants\n\n= Agenda =\n\n* '''Note Taker:''' FIXME\n* '''Moderator:''' FIXME\n* '''Number of Members Present:''' FIXME\n\n== Announcements ==\n\n* Any cool new projects? Something you want everyone to know?\n* Any happenings that people should be aware of?\n\n== Financial Report ==\n* Funds in bank: ##FIXME## (Can be seen at [[Financial Report]].)\n\n== Proposals ==\n\n$PROPOSALS$\n\n== Discussion Items ==\n\nIf an item of discussion drags on too long, further discussion may be postponed until after the meeting ends.\n\nDuring discussion, it is not necessary to write down exactly what each person says. Record the topics of discussion, and any items of consensus or controversy here. Detailed descriptions of the conversation should go on the discuss page for this meeting.\n\n= End of Meeting =\n* Delete the \"Instructions\" section at the top of this page.\n* Delete this section.\n* Post the notes to the wiki\n* Discuss any items for which there was not enough time during the meeting\n\n[[Category:HYH]] [[Category:Meetings]]",
+    "bytes": 2676
+  },
+  "revision_count": 11,
+  "first_revision_timestamp": "2012-11-02T09:13:40Z",
+  "is_redirect": false
+}

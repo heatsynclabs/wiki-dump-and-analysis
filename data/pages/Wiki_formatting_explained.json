@@ -1,0 +1,21 @@
+{
+  "title": "Wiki formatting explained",
+  "ns": 0,
+  "id": 475,
+  "slug": "Wiki_formatting_explained",
+  "latest_revision": {
+    "id": 2756,
+    "timestamp": "2011-09-07T16:45:27Z",
+    "contributor": {
+      "username": "Umeto",
+      "ip": null,
+      "id": 104
+    },
+    "comment": "Created page with 'Guide for writing using wiki code will be posted here  [http://www.mediawiki.com Official Mediawiki Site]'",
+    "text": "Guide for writing using wiki code will be posted here\n\n[http://www.mediawiki.com Official Mediawiki Site]",
+    "bytes": 105
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-09-07T16:45:27Z",
+  "is_redirect": false
+}

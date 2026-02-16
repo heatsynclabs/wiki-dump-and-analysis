@@ -1,0 +1,21 @@
+{
+  "title": "Contact",
+  "ns": 0,
+  "id": 13,
+  "slug": "Contact",
+  "latest_revision": {
+    "id": 571,
+    "timestamp": "2010-01-30T00:32:04Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "Undo revision 570 by [[Special:Contributions/Nicko80|Nicko80]] ([[User talk:Nicko80|Talk]])",
+    "text": "==Contact us!==\n\n* Email: info@heatsynclabs.org\n* Facebook: Join our group at: http://www.facebook.com/group.php?gid=108358112346\n* IRC:  #heatsynclabs at irc.freenode.net\n* Twitter:  Follow us using @heatsynclabs\n\n== Feed from Twitter ==\n<rss>http://twitter.com/statuses/user_timeline/60975836.rss|charset=UTF-8|short|date|max=5</rss>",
+    "bytes": 335
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2009-09-09T18:13:37Z",
+  "is_redirect": false
+}

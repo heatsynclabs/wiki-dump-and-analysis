@@ -1,0 +1,21 @@
+{
+  "title": "Hacker Curriculum",
+  "ns": 0,
+  "id": 1167,
+  "slug": "Hacker_Curriculum",
+  "latest_revision": {
+    "id": 4344,
+    "timestamp": "2014-07-09T11:07:05Z",
+    "contributor": {
+      "username": "Eric Hubert",
+      "ip": null,
+      "id": 695
+    },
+    "comment": "",
+    "text": "The purpose is to create a list of skills and knowledge you can gain from being part of a hackerspace. The initial goal of this is to support library partners interested demonstrating the value of having a hackerspace or hackerspace activities in Arizona libraries. Further development of this list may explore the resources, and specific group workshops that can be run to facilitate learning these topics.\n\nCore to the purpose in sharing hacker culture is to share the values.\n\nHacker Values and Culture\n*Learning\n*Making\n*Openness\n*Sharing\n*Community\n*Collaboration\n\n== Core skills for making things ==\n\nProgramming\n*Variables\n*If Statements\n*Loops\n*Functions\n*Using a library\n\nElectronics\n*Ohm's Law\n*Breadboard Layout\n*Using a Multi-Meter\n*Debugging a circuit\n*Micro-Controllers\n*PCB creation\n \nComputer Aided Design\n*3d design\n*3d scanning\n*Organic design\n*Parametric design\n\nFabrication / Prototyping\n*3d printer\n*laser cutter\n*CNC\n*vinyl cutter\n\nFabric/Sewing\n*Sewing machine\n*Knitting/Crochet\n*Hand stitching\n*Embroidery\n\n\n== More stuff ==\nHere are more things that can be included or organized better.\n\nMath\n*It may be useful to link the sub-topics above to specific math concepts.\n\nSecurity\n*Lock Picking\n*Encryption\n*Web Security\n\nScience\n*The Scientific Method (different types)\n*Microscopes\n*Chemistry\n*Biology\n \nRobotics\n*Refer to the topics under electronics, fabrication, and programming.\n\nArt\n*Painting\n*Sculpture\n*Photography\n\nOpen Source\n*GPL\n*Creative Commons\n*Linux history (brief)",
+    "bytes": 1503
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2014-06-24T02:31:08Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MediaWiki:Loginprompt",
+  "ns": 8,
+  "id": 10,
+  "slug": "MediaWiki_Loginprompt",
+  "latest_revision": {
+    "id": 51,
+    "timestamp": "2009-09-11T07:05:07Z",
+    "contributor": {
+      "username": "Friedpope",
+      "ip": null,
+      "id": 2
+    },
+    "comment": "",
+    "text": "You must have cookies enabled to log in to {{SITENAME}}.",
+    "bytes": 56
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2009-09-09T00:01:31Z",
+  "is_redirect": false
+}

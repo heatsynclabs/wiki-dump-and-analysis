@@ -1,0 +1,21 @@
+{
+  "title": "SyncStarter",
+  "ns": 0,
+  "id": 979,
+  "slug": "SyncStarter",
+  "latest_revision": {
+    "id": 3692,
+    "timestamp": "2012-07-19T05:04:13Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "The current status of all outstanding proposals can be viewed here: http://bit.ly/SyncStarter This should be publicly viewable by anyone. Editable by Prescott Ogden. Proposals will be sorted by percent funded.\n\n* To propose a particular tool/item/grant, simply post to the mailing list with SyncStarter somewhere in the title. \n\n* Your post should include:\n** The name of the item\n** A description\n** A supplier\n** A quote\n** Why you think we should should spend donations and membership dues on this item. \n\n* This thread is where we talk about if this is a good idea, do we have the power, the space, who will be responsible for maintaining the machine, viable alternatives, and other details.\n\n* To pledge money, announce this in the thread and/or email Prescott off-list. If you wish to donate anonymously toward the general SyncStarter matching fund or pledge toward a particular proposal, contact Prescott privately. Prescott reserves the right to make anonymous backers pay up front.\n\n* Named backers can withdraw pledges at any time, anonymous backers should  work out the details with Prescott in advance (recommended course of action is to place a deadline on a pledge).\n\n* It still needs to be decided how much money we would like to throw at this per month. That is a separate discussion.",
+    "bytes": 1300
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2012-07-19T05:00:52Z",
+  "is_redirect": false
+}

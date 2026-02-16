@@ -1,0 +1,21 @@
+{
+  "title": "Main Page",
+  "ns": 0,
+  "id": 1,
+  "slug": "Main_Page",
+  "latest_revision": {
+    "id": 6758,
+    "timestamp": "2025-10-10T20:49:11Z",
+    "contributor": {
+      "username": "Brettneese",
+      "ip": null,
+      "id": 732
+    },
+    "comment": "/* Welcome to the HeatSync Labs Wiki! */",
+    "text": "__NOTOC__\n\n== Welcome to the HeatSync Labs Wiki! ==\n\n[[HeatSync_Labs|HeatSync Labs]] is a nonprofit [[How_To_Hackerspace | hackerspace]] in Arizona. Our objective is to empower engineers, artists, and inventors to push the limits of technology beyond its intended use.  This wiki is intended as a collaborative area to record the decisions and policies made by the organization, share ideas and plans, and serve as a virtual workspace for member [[Projects| projects]].\n\n{| width=\"100%\" style=\"background: transparent;\"\n|class=\"MainPageLeft\" width=\"50%\" rowspan=\"2\" valign=\"top\" style=\"border: 1px solid #80e080; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0fff0;\"|\n<div style=\"margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;\">Community Information</div>\n* [[New to HeatSync Labs?]]\n* [[Faq|FAQ]]\n* [[Events]]\n** [[Hack Your Hackerspace]]\n* [[Rules|Rules and Guidelines]]\n** [[Operational Policies]]\n* [https://groups.google.com/g/heatsynclabs/ Google Discussion group] for official proposals and formal announcements.\n* [http://bit.ly/hslslack Slack invite link] to post on specific channels for stations where appropriate.\n* [[Open Hours]]\n\n<div style=\"margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;\">Lab Resources</div>\nIf there are not specifics on how to get started on a tool post on Slack in the relevant channel (or general) expressing interest and asking for help.\n*[[3D_Printers | 3D-Printing]]\n*[[Arts_and_Crafts | Arts and Crafts]]\n*[[AudioVisual | A/V Station]]\n*[[Bicycle Repair Station]]\n*[[Biochem_Lab | Biochem Lab]]\n*[[Electronics]]\n*[[Jewelry]]\n*[[Laser_Cutters | Laser Cutters]] ([[Laser_FAQ |FAQ]])\n*[[Leather_Working | Leather Working]]\n*[[Library]]\n*[[Machine_Shop | Machine Shop]]\n*[[Screen_Printing | Screen Printing]]\n*[[Sewing]]\n*[[Vinyl Cutter]]\n*[[Welding]]\n*[[WoodShop | Wood Shop]]\n*[[Other Resources]]\n\n<div style=\"margin:0;background-color:#e0ffe0;font-size:120%;font-weight:bold;border:1px solid #80e080;text-align:left;color:#000;padding:0.2em 0.4em;\">Outside Resources</div>\n*[[Local Resources]]\n*[[Podcasts]]\n*[[:Category:Tutorials | Tutorials ]]\n\n|width=\"50%\" valign=\"top\" style=\"border: 1px solid #a0a0ff; border-right-width: 3px; border-bottom-width: 3px; padding: .5em 1em; margin: 1em; background-color: #f0f0ff;\"|\n<div style=\"margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;\">Administration</div>\n*[[How to Run HeatSync Labs]]\n* [[Operations team]]\n\n*Money\n**[[Finances]]\n**[[Donations]]\n**[[Fundraising]]\n**[[Grants]]\n**[[Hackerspace Discounts]]\n\n* [[Bylaws]] (aka constitution, charter)\n* [[Meeting Minutes]]\n* [[Forms]]\n* [[Procedures]]\n* [[Document Retention and Destruction Policy]]\n*Board \n**[[Board Members]]\n**[[Board Elections]] \n\n<div style=\"margin:0;background-color:#e0e0ff;font-size:120%;font-weight:bold;border:1px solid #a0a0ff;text-align:left;color:#000;padding:0.2em 0.4em;\">Public Info</div>\n\n*[[Press Kit|Press Kit aka Logos & Flyers]]\n*[[Press]]\n\n|}\n\n\n<small>Newly... [[Special:Recentchanges|edited articles]], [[Special:Newpages|created articles]],  [[Special:Newimages|uploaded images]]</small>",
+    "bytes": 3391
+  },
+  "revision_count": 180,
+  "first_revision_timestamp": "2009-09-04T18:46:01Z",
+  "is_redirect": false
+}

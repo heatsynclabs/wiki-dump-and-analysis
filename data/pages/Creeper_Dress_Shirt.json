@@ -1,0 +1,21 @@
+{
+  "title": "Creeper Dress Shirt",
+  "ns": 0,
+  "id": 607,
+  "slug": "Creeper_Dress_Shirt",
+  "latest_revision": {
+    "id": 3086,
+    "timestamp": "2011-12-20T03:42:17Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "change image size",
+    "text": "Dress shirt, laser-cut, hand-sewn, with custom printed fabric.\n\nFabric based on Creeper texture straight from the Minecraft videogame, printed at [http://www.spoonflower.com/fabric/892733 SpoonFlower.com (click for texture)]\n\nShirt design based on existing shirt I had, tore apart, scanned using a large copier, traced in Inkscape, laser cut the fabric, and uploaded the shirt design to [http://www.thingiverse.com/thing:13434 Thingiverse (click for DXF design files & instructions)].\n\nSewed using normal sewing machine techniques (see Thingiverse for sewing instructions.)\n\n[[File:Classy Creepers.jpg|800px]]",
+    "bytes": 609
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2011-12-13T07:37:37Z",
+  "is_redirect": false
+}

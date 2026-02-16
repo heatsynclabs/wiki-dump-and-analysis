@@ -1,0 +1,21 @@
+{
+  "title": "RFID Access",
+  "ns": 0,
+  "id": 319,
+  "slug": "RFID_Access",
+  "latest_revision": {
+    "id": 1789,
+    "timestamp": "2011-02-02T08:33:34Z",
+    "contributor": {
+      "username": "70.166.112.51",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "Attempt at creating an RFID access control shield for Arduino, both for doors and for pieces of equipment.\n\nVideo of current state: http://www.twitvid.com/O548T\n\nTodo: \n* piezo/led feedback\n* relays for door strike or possible 120v on/off control\n* signin/signout with timer for tracking hourly usage\n* ethernet/wifi connection to HTTP server\n** authentication using server\n** feedback to HTTP server (signins/signouts, hourly usage?)\n\n<pre>\n// RFID Access Control\n// By Will Bradley\n// Work in progress. Currently only reads an RFID card and outputs authorized/unauthorized messages.\n// Uses Parallax RFID unit on pins 2,3,4 and Adafruit 2x16 LCD on pins 7-12.\n\n// Modified by Worapoht K.\n#include <SoftwareSerial.h>\n// include LCD library code:\n#include <LiquidCrystal.h>\n\nint  val = 0; \nString code = \"\"; \nint bytesread = 0; \nString allowed = \"0F03039364\";\nString allowedName = \"Gordon Freeman\";\nString strTag = \"TAG \";\nString strAuth = \"Authorized \";\nString strUnauth = \"Unauthorized \";\n\n// initialized RFID reader\n#define rxPin 4  // RFID reader SOUT pin connected to Serial RX pin at 2400bps \n#define txPin 3\n#define enablePin 2\n\n// initialize LCD library with the numbers of the interface pins\nLiquidCrystal lcd(7, 8, 9, 10, 11, 12);\n\nvoid setup()\n{ \n  Serial.begin(2400);  // Hardware serial for Monitor 2400bps\n\n  pinMode(2,OUTPUT);       // Set digital pin 2 as OUTPUT to connect it to the RFID /ENABLE pin \n  digitalWrite(2, LOW);    // Activate the RFID reader \n  \n  // set up the LCD's number of columns and rows: \n  lcd.begin(16, 2);\n  // Print a blank message to the LCD.\n  lcd.print(\"\");\n}\n\n\nvoid loop()\n{ \n  SoftwareSerial RFID = SoftwareSerial(rxPin,txPin); \n  RFID.begin(2400);\n\n  char tempCode[10];\n  \n  if((val = RFID.read()) == 10)\n  {   // check for header \n    bytesread = 0; \n    while(bytesread<10)\n    {  // read 10 digit code \n      val = RFID.read(); \n      if((val == 10)||(val == 13))\n      {  // if header or stop bytes before the 10 digit reading \n        break;                       // stop reading \n      } \n      tempCode[bytesread]\n      = val;      // add the digit    \n\n      bytesread++;                   // ready to read next digit  \n    } \n    \n    code.concat(tempCode);\n\n    if(bytesread == 10)\n    {  // if 10 digit read is complete \n      Serial.print(strTag.concat(code));   // possibly a good TAG \n      \n      if(code.substring(0,10) == allowed) {\n        lcdPrintln(strAuth, 0);\n        lcdPrintln(allowedName, 1);\n        Serial.println(code);\n        delay(1000);\n        lcdClear();\n      } else {\n        lcdPrintln(strUnauth, 0);\n        Serial.println(code);\n        delay(1000);\n        lcdClear();\n      }\n          \n    }\n    \n    code = \"\";\n    bytesread = 0; \n    delay(500);                       // wait for a second\n  } \n} \n\nvoid lcdPrintln(String message, int line) {\n      Serial.println(message);\n        \n      // set the cursor to column 0, line 1\n      // (note: line 1 is the second row, since counting begins with 0):\n      lcd.setCursor(0, line);\n      // print the number of seconds since reset:\n      lcd.print(message);\n} \n\nvoid lcdClear() {\n     lcd.clear(); \n}\n</pre>",
+    "bytes": 3147
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-02-02T08:20:19Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Wishlist",
+  "ns": 0,
+  "id": 19,
+  "slug": "Wishlist",
+  "latest_revision": {
+    "id": 5958,
+    "timestamp": "2024-02-07T01:19:25Z",
+    "contributor": {
+      "username": "Robert Andrews",
+      "ip": null,
+      "id": 724
+    },
+    "comment": "",
+    "text": "The Wishlist is an area to add specific tool and material requests.\n\n==General Lab Needs==\n* \n* \n\n===Building Needs===\n<div style=\"text-decoration: line-through\">\n* New vinyl for front sign 12' x 14\"\n* New projector</div>\n\n==Equipment==\n* Waterjet Cutter - Omax?  \n* Circular Saw - We're eyeing a [http://www.google.com/products/catalog?q=sliding+compound+miter+saw&um=1&hl=en&bav=on.2,or.r_gc.r_pw.&biw=770&bih=588&ie=UTF-8&cid=7814405329451054227&sa=X&ei=x_bITZquCKn20gHd34jcCA&ved=0CJYBEPMCMAI Hitachi C8FSHE 8-1/2]\n* 3D Scanner - Nextgen? or [http://hci.rwth-aachen.de/FabScan Fabscan?]\n* Pick and Place - APS? or http://code.google.com/p/openpnp/\n\n=Software=\nWhen purchasing we, as a rule, do not want versions of software that restrict commercial use, as we are prototyping and creating.\n*Matlab - 1 license $2k at mathworks\n*Eagle standard (4x6) $750, pro $1500\n**Or Alibre? Altium would be nice (5k)..\n*VCarve - CAD/CAM system for making signs and art\n*Autocad 2012 w subscription $4425, w/o $3995 download only on autodesk - 2011 mac $? on techsoup\n*Autocad inventor only in packages now.. (windows) $? on techsoup\n*SolidWorks - $4k standard should be sufficient - education version is for non-commercial use only.\n**According to rep, 4k is lowest price.\n*MasterCam -10k-15? - in contact for lowest price for us \n**OR Cam bam? $150 - $300\n*Mach CNC control software - $175 + $50 - Generously offered to us free by developer, ArtSoft\n*flickr pro accounts $6 on techsoup\n\n==Research facts==\n*Corel - Educator version is for non-commercial use only.\n*Adobe - Educator version is only available to accredited schools.\n*Adobe - ESD means download-only.\n*Eagle - Nonprofit version is for non-commercial use only.",
+    "bytes": 1715
+  },
+  "revision_count": 53,
+  "first_revision_timestamp": "2009-09-09T18:15:54Z",
+  "is_redirect": false
+}

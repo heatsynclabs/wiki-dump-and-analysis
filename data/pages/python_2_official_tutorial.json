@@ -1,0 +1,21 @@
+{
+  "title": "python 2 official tutorial",
+  "ns": 0,
+  "id": 1147,
+  "slug": "python_2_official_tutorial",
+  "latest_revision": {
+    "id": 4272,
+    "timestamp": "2014-01-22T18:05:57Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "",
+    "text": "\nThe official python.org tutorial\n\n[http://docs.python.org/2/tutorial/ Python 2 Tutorial]\n\n[[Category:Python Tutorials]]",
+    "bytes": 120
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2014-01-22T18:03:42Z",
+  "is_redirect": false
+}

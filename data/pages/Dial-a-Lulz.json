@@ -1,0 +1,21 @@
+{
+  "title": "Dial-a-Lulz",
+  "ns": 0,
+  "id": 234,
+  "slug": "Dial-a-Lulz",
+  "latest_revision": {
+    "id": 1494,
+    "timestamp": "2010-12-01T07:19:42Z",
+    "contributor": {
+      "username": "Huertanix",
+      "ip": null,
+      "id": 20
+    },
+    "comment": "moved [[Dial-a-Lulz]] to [[Loldialer]]:&#32;loldialer sounds like WARDIALER!",
+    "text": "#REDIRECT [[Loldialer]]",
+    "bytes": 23
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-12-01T07:19:42Z",
+  "is_redirect": true
+}

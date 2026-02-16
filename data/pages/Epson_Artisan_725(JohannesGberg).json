@@ -1,0 +1,21 @@
+{
+  "title": "Epson Artisan 725(JohannesGberg)",
+  "ns": 0,
+  "id": 1207,
+  "slug": "Epson_Artisan_725(JohannesGberg)",
+  "latest_revision": {
+    "id": 4625,
+    "timestamp": "2020-06-20T23:18:58Z",
+    "contributor": {
+      "username": "Cprossu",
+      "ip": null,
+      "id": 698
+    },
+    "comment": "",
+    "text": "JohannesGberg is a modified 6 color Epson Artisan 725 inkjet printer. It is attached to a CISS (Continuous Ink Supply System) in order to make inkjet printing economical.\n\n== Reasons for existing ==\nThe purposes of the project were initially to:\n*Supply a printer that could print ink on archival paper for use with making and binding homemade books.\n*Learn about the installation of a CISS on an Epson printer in preparation to make and modify a similar printer for what is called DTG (Direct To Garment) printing.\n*To be a test study to see if switching a printer to a CISS will cause any damage to the printhead system, and if it can survive long periods of time between use before clogging.\n*First operational 12/03/2019\n\n== How can I use it? ==\nIt is of this time connected to HeatSync Labs Wi-Fi network and should be accessible using any laptop. The IP address is set to dymanic because of laziness, and will at some point be corrected. You may find out the IP by going into the printer's network menu, if you find automatic searches for the printer do not work. You may also print to it locally using memory cards or USB Thumb drive, or use the copier function.\n\n== Drivers ==\nDrivers can be found on Epson's website if the link below does not work, however Windows should be able to detect the printer and download the correct drivers.\n\nhttps://epson.com/Support/Printers/All-In-Ones/Artisan-Series/Epson-Artisan-725/s/SPT_C11CA74201\n\n\nIf you are using Linux, the drivers you will want to specify are for use with the Epson Artisan 720 printer.\n\n== Documentation ==\n\nNever ever install a firmware update if asked! This could disable the chips the CISS uses to fool the printer into thinking it won't run out of ink.\n\nThere is a hackaday.io project page for the printer where you can see the build of it.\n\nhttps://hackaday.io/project/168736-cheap-inkjet-printing-for-hackerspace\n\n\nThe Google Groups announcement to this printer's existence is as follows:\n\nhttps://groups.google.com/d/msg/heatsynclabs/MaHwMQbe_Ds/Ub-Nym7OAwAJ\n\n\nThe manual for the printer can be found here until it moves or gets deleted:\n\nhttps://files.support.epson.com/htmldocs/art725/art725ug/index.html\n\n\nFull specifications of the printer are here until it moves or gets deleted:\n\nhttps://files.support.epson.com/pdf/art725/art725sl.pdf\n\n\n== Supplies, care, feeding, etc ==\n\nBottles of ink are set beside the CISS ink tanks and can be topped off should they start becoming low. Never let the tanks go under 1/4 capacity. Wear gloves and be very careful with the inks if you want to avoid your fingertips, skin, or clothing looking like a pollock painting afterwards. If we somehow run out, we'll have to buy more off of ebay. I do not think we'll run out of ink before killing the printer, but I could be wrong!\n\nThe printer is set up to print on media such as letter paper, photo paper and special printable CD's/DVD's/Bluray media with it's optical disc tray. Make sure if you print on optical media that it is made especially for inkjet printers. If you want to print on something exotic or weird shaped, check the specifications page to make sure it's possible. This machine is outfitted with a duplexor, so 2 sided printing is possible.",
+    "bytes": 3221
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2020-06-20T23:02:37Z",
+  "is_redirect": false
+}

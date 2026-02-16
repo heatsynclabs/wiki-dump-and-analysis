@@ -1,0 +1,21 @@
+{
+  "title": "Location Regulations",
+  "ns": 0,
+  "id": 1349,
+  "slug": "Location_Regulations",
+  "latest_revision": {
+    "id": 5300,
+    "timestamp": "2022-09-15T22:47:46Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "/* 2022-09-15 */",
+    "text": "[[Category:Location]]\n\n= Mesa Regulations =\n\n== 2022-09-15 ==\n\nI spoke with a city planning person today. She was very helpful. I came armed with information from a lot of folks at the lab, and confirmed what they had been saying.\n\nTo wit:\n* Change of occupancy triggers a new building code assessment.\n** \"Change of occupancy\" was the specific wording she used.\n** She referenced that the existing occupancy was \"B\" for business, though, so I think \"change of occupancy\" means \"change of occupancy type.\"\n* We will need sprinklers to do welding indoors.\n** If we have firewalls, we would only need to cover the firewalled space(s) where fire hazards exist.\n** The person who was helping me called the Mesa expert on sprinkler regulations to confirm. She let me listen in and I was very convinced that the answer was complete and final.\n* Our use according to City of Mesa is \"Industrial Trade School.\"\n** \"Handicraft / Custom Manufacturing\" is also close, but since Industrial Trade School is equally or more accurate and is more strictly regulated, we are required to use it.\n* Industrial Trade School requirements:\n** Must be confined to completely enclosed, sound-attenuated facilities.\n** Air Space Regulations near Airports (we aren't looking near any)\n** One parking space per 200 square feet.\n*** Can be adjusted with a parking study and public hearing with the board of adjustment.\n* See [https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR_ART2BAZO_CH6COMIEDI Title 11, Article 2, Chapter 6] for allowed uses in commercial and mixed use zones.\n* See [https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR_ART8LAUSCLDE_CH86USTY Title 11, Article 8, Chapter 86] for definition of uses.\n* The whole process took maybe 20 minutes from when I walked in the door. I was impressed with the speed and professionalism.",
+    "bytes": 1881
+  },
+  "revision_count": 9,
+  "first_revision_timestamp": "2022-09-15T22:31:17Z",
+  "is_redirect": false
+}

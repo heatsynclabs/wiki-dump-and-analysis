@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>HeatSync Labs Governance</h1>
+
+<p>
+  Comprehensive governance documentation for
+  <a href="https://heatsynclabs.org">HeatSync Labs</a>,
+  a community hackerspace in Phoenix/Tempe, Arizona. Built from a complete
+  MediaWiki dump spanning 2009&ndash;2026.
+</p>
+
+<div class="stat-grid">
+  <div class="stat-box">
+    <span class="number">{{ stats.total_pages }}</span>
+    <span class="label">Wiki Pages</span>
+  </div>
+  <div class="stat-box">
+    <span class="number">{{ stats.total_revisions }}</span>
+    <span class="label">Revisions</span>
+  </div>
+  <div class="stat-box">
+    <span class="number">{{ stats.unique_contributors }}</span>
+    <span class="label">Contributors</span>
+  </div>
+  <div class="stat-box">
+    <span class="number">{{ governance_count }}</span>
+    <span class="label">Governance Docs</span>
+  </div>
+</div>
+
+<h2>Core Governance Documents</h2>
+<p>Each document has three views: the <strong>Current</strong> wiki version,
+an <strong>Improved</strong> draft with best-practice enhancements, and a
+<strong>Diff</strong> showing what changed.</p>
+
+<div class="card-grid">
+  {% for page in core_pages %}
+  <div class="card">
+    <h3><a href="pages/{{ page.slug }}.html">{{ page.title }}</a></h3>
+    <div class="meta">
+      {{ page.revision_count }} revisions &middot;
+      {{ (page.bytes / 1024)|round(1) }}KB &middot;
+      Last updated {{ page.latest_timestamp[:10] }}
+      {% if page.has_improved %}<br><strong>Improved version available</strong>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h2>Board &amp; Elections</h2>
+<div class="card-grid">
+  {% for page in board_pages %}
+  <div class="card">
+    <h3><a href="pages/{{ page.slug }}.html">{{ page.title }}</a></h3>
+    <div class="meta">
+      {{ page.revision_count }} revisions &middot;
+      Last updated {{ page.latest_timestamp[:10] }}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h2>History</h2>
+<div class="card-grid">
+  <div class="card">
+    <h3><a href="pages/history_space.html">History of the Space</a></h3>
+    <div class="meta">Narrative history from founding (2009) to present</div>
+  </div>
+  <div class="card">
+    <h3><a href="pages/history_governance.html">History of Governance</a></h3>
+    <div class="meta">How governance evolved across 63 Bylaws and 116 Rules revisions</div>
+  </div>
+</div>
+
+<hr>
+<p style="font-size: 0.85rem; color: var(--text-muted);">
+  Generated from MediaWiki XML dump ({{ stats.xml_size_bytes | filesizeformat }}).
+  {{ stats.total_pages }} pages, {{ stats.total_revisions }} revisions,
+  {{ stats.unique_contributors }} contributors.
+</p>
+{% endblock %}

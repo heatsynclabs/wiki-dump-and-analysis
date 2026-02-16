@@ -1,0 +1,21 @@
+{
+  "title": "Wiki formatting description",
+  "ns": 0,
+  "id": 484,
+  "slug": "Wiki_formatting_description",
+  "latest_revision": {
+    "id": 2765,
+    "timestamp": "2011-09-08T19:09:07Z",
+    "contributor": {
+      "username": "Anire",
+      "ip": null,
+      "id": 113
+    },
+    "comment": "Created page with 'Guide for adding pages by using wiki syntax will be created on this page  [http://www.mediawiki.com Official Mediawiki Site]'",
+    "text": "Guide for adding pages by using wiki syntax will be created on this page\n\n[http://www.mediawiki.com Official Mediawiki Site]",
+    "bytes": 124
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-09-08T19:09:07Z",
+  "is_redirect": false
+}

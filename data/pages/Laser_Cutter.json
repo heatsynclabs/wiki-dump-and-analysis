@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutter",
+  "ns": 0,
+  "id": 178,
+  "slug": "Laser_Cutter",
+  "latest_revision": {
+    "id": 5616,
+    "timestamp": "2023-08-25T21:29:05Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "fully deprecate this",
+    "text": "",
+    "bytes": 0
+  },
+  "revision_count": 27,
+  "first_revision_timestamp": "2010-04-22T08:35:11Z",
+  "is_redirect": false
+}

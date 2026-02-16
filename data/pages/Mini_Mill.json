@@ -1,0 +1,21 @@
+{
+  "title": "Mini Mill",
+  "ns": 0,
+  "id": 1096,
+  "slug": "Mini_Mill",
+  "latest_revision": {
+    "id": 4963,
+    "timestamp": "2020-10-10T20:04:38Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "+manual",
+    "text": "=== Tutorial ===\n==== Vice Clamping ====\n[[File:Vice_Clamping.jpg|500px]]\n==== Piece Clamping ====\n[[File:Piece_Clamping.jpg|500px]]\n==== Mini Mill ====\n[[File:Mini_Mill.jpg|500px]]\n==== Cleaning ====\n# Light Machine Oil\n[[File:Cleaning_Light_Oil.jpg|500px]]\n# by Hand\n[[File:Cleaning_Mill_by_Hand.jpg|500px]]\n==== Light Oil Examples ====\n[[File:Light_Oil_Examples.jpg|500px]]\n==== Clamping Vice Overview ====\n[[File:Clamping_Vice_Overview.jpg|500px]]\n==== Closeup Clamp Angle ====\n[[File:Closeup_Clamp_Angle.jpg|500px]]\n(Use Washers if needed)\n==== Parallels ====\n[[File:Mill_Parallels.jpg|500px]]\n==== Putting in a Piece ====\n[[File:Putting_in_a_Piece.jpg|500px]]\n==== Chucking against not-square ====\n[[File:Chucking_against_non-square.jpg|500px]]\n==== R8 Endmills and Collets ====\n[[File:R8_Endmills_and_Collets.jpg|500px]]\n# TiN vs HSS (Aluminum vs Steel)\n# 2flute/4flute\n===== Center-cutting vs Non-center-cutting =====\n[[File:Center-cutting_Non-center-cutting.jpg|500px]]\n===== Damaged vs New =====\n[[File:Damaged_vs_New_Endmills.jpg|500px]]\n==== Putting in endmill ====\n[[File:Putting_in_Endmill.jpg|500px]]\n===== Proper length of endmill =====\n[[File:Length_of_Endmill.jpg|500px]]\n==== Z-axis lock and gear ====\n[[File:Z-Axis_Lock.jpg|500px]]\n==== E-stop, speed ====\n[[File:E-stop_speed.jpg|500px]]\n==== Pulleys (currently low speed) ====\n[[File:Pulleys.jpg|500px]]\n==== Squaring ====\n[[File:Squaring_Mill_Piece.jpg|500px]]\n==== Clamping in Screwless Vice ====\n[[File:Screwless_Vice.jpg|500px]]\n==== Edge finding / center finding ====\n[[File:Center_Finding.jpg|500px]]\n[[File:Edge_Finding.jpg|500px]]\n==== Layout ====\n[[File:Layout.jpg|500px]]\n==== Types of Cutting ====\n[[File:Plunge_Cutting.jpg|500px]]\n[[File:Climb_Cutting.jpg|500px]]\n[[File:Conventional_Cutting.jpg|500px]]\n==== Speeds and Feeds ====\n#blue/gold chips\n\n=Manuals=\n*[[:File:mini-mill-manual.pdf|Harbor Freight Model 4491 Mini-mill]]\n\n[[Category:Machine Shop]]\n[[Category:Mill]]",
+    "bytes": 1954
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2013-09-03T07:18:55Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "UAS/Notes/IMU",
+  "ns": 0,
+  "id": 499,
+  "slug": "UAS_-_Notes_-_IMU",
+  "latest_revision": {
+    "id": 2808,
+    "timestamp": "2011-09-14T19:42:21Z",
+    "contributor": {
+      "username": "67.91.85.142",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "= Inertial Measurement Unit (IMU) =\n\nThe IMU was are going to create will consist of an 3 axis acceleration, a 3axis gyroscope, a 3 axis magnetometer, and a barometer. These combined will give us 10 degrees of freedom.  \n\n\n\n'''6 dof algorithm'''<BR>\nHere is what our algorithm will do:<BR>\n- accelerometer tells us: \"You are now at position Racc\"<BR>\n- we say \"Thank you, but let me check\",<BR>\n- then correct this information with gyroscope data as well as with past Rest data and we output a new estimated vector Rest. <BR>\n- we consider Rest to be our \"best bet\" as to the current position of the device.<BR>\n\n\nsome algorithum i found\n*Read the 3 axis magnetometer data\n\n* Calculate the \"tilt compensated\" x and y magnetic component (standard formulation):\n** CMx = mag_x*cos(pitch) + mag_y*sin(roll)sin(pitch) + mag_z*cos(roll)sin(pitch) CMy = mag_y*cos(roll) - mag_z*sin(roll)\n\n* Calculate the magnetic heading with this compensated components:\n** MAG_Heading = Atan(CMy/CMx)\n\n\nhttp://code.google.com/p/sf9domahrs/ might have the code we are looking for.",
+    "bytes": 1059
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-09-12T23:35:40Z",
+  "is_redirect": false
+}

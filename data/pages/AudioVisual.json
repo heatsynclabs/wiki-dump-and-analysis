@@ -1,0 +1,21 @@
+{
+  "title": "AudioVisual",
+  "ns": 0,
+  "id": 1361,
+  "slug": "AudioVisual",
+  "latest_revision": {
+    "id": 6090,
+    "timestamp": "2024-09-10T02:58:27Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "*'''Station Champions:''' Rick Blake\n*'''Communication:''' Slack #general channel and maybe include Rickb928\n*'''Certification:''' None. Ask for help if you aren't familiar\n*'''Events:''' None, but event hosts do use this station\n\n==Overview==\nThis is station to set up to present for events or meetups. Along with a projector with various adapters for video we have a wireless microphone. Or just connect to Bluetooth to play music from the speakers.\n\n==Equipment==\n\n*[https://mackie.com/en/products/mixers/profxv3-series/ProFX10v3plus.html Mackie ProFX10v3+ 10-Channel Analog Mixer]. [https://mackie.com/img/file_resources/PROFXV3+_MIXER_SERIES_OM.pdf Manual] [https://mackie.com/img/file_resources/PROFXV3+_SERIES_SS.pdf Spec Sheet] [https://mackie.com/img/file_resources/ProFXv3+_QSG.pdf Quick Start Guide]\n**Sennheiser wireless microphone (over ear). Should already be connected to the mixer. Takes 9 Volt battery, plan to have one in case it dies\n**Logitech Bluetooth input. Push the connect button to sync and play audio over the speakers\n* [https://epson.com/For-Home/Projectors/Home-Cinema/PowerLite-Home-Cinema-740HD-720p-3LCD-Projector/p/V11H764020 PowerLite Home Cinema 740HD Projector]. [https://files.support.epson.com/docid/cpd4/cpd42907.pdf Manual]\n**HDMI or ChromeCast  among other connection options\n* Webcam Logitech Carl Zeiss Tessar Hd 1080p\n*ADS Tech RDX-150-EF Instant Music\n*Oculus Rift",
+    "bytes": 1410
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2022-09-23T03:59:35Z",
+  "is_redirect": false
+}

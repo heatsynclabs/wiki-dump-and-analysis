@@ -1,0 +1,21 @@
+{
+  "title": "Certification Class",
+  "ns": 0,
+  "id": 1301,
+  "slug": "Certification_Class",
+  "latest_revision": {
+    "id": 4955,
+    "timestamp": "2020-10-10T19:53:07Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "Gamebofh moved page [[Certification Class]] to [[CNC Mill Certification Class]]: make name more specific since there are other certification classes",
+    "text": "#REDIRECT [[CNC Mill Certification Class]]",
+    "bytes": 42
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-10-10T19:53:07Z",
+  "is_redirect": true
+}

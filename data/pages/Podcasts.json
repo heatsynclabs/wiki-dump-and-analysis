@@ -1,0 +1,21 @@
+{
+  "title": "Podcasts",
+  "ns": 0,
+  "id": 342,
+  "slug": "Podcasts",
+  "latest_revision": {
+    "id": 2344,
+    "timestamp": "2011-05-20T17:07:47Z",
+    "contributor": {
+      "username": "201.143.217.50",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "Have a favorite hacker/techie podcast? Share it here!\n\n{| border=\"1\" cellpadding=\"2\"\n|-\n!|Title\n!|Topic\n!|Location\n!|Format\n!|Frequency\n|-\n||Hackerspace Signal\n||hackerspaces, hackers\n||http://signal.hackerspaces.org/\n||ogg mp3\n||weekly\n|-\n||Retrobits\n||retro computing\n||http://retrobits.libsyn.com/\n||mp3\n||about monthly\n|-\n||Security Now\n||network security\n||http://www.grc.com/securitynow.htm\n||mp3\n||weekly\n|-\n||Off the hook\n||hackers\n||http://www.2600.com/offthehook/\n||mp3\n||weekly\n|}",
+    "bytes": 491
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-02-24T17:38:51Z",
+  "is_redirect": false
+}

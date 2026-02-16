@@ -1,0 +1,177 @@
+{
+  "title": "Operational Policies",
+  "slug": "Operational_Policies",
+  "ns": 0,
+  "revision_count": 13,
+  "revisions": [
+    {
+      "id": 5595,
+      "parent_id": 4219,
+      "timestamp": "2023-08-12T20:29:31Z",
+      "contributor": {
+        "username": "Eric Ose",
+        "ip": null,
+        "id": 681
+      },
+      "comment": "/* Card Access */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n*Do not take equipment out of the lab without consulting the general community. Avoid doing so in general\n*Do not hack apart stuff that isn't yours or a consumable.\n\n==== Tools ====\n* Dangerous tools require certification before you can use them in the lab, even if you have prior experience from outside of Heatsync.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Sleeping in the lab ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Basic Members can receive cards when approved by a majority vote of members who already have card access[https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI] at [[Hack_Your_Hackerspace | Hack your Hackerspace night]]. You may request someone else propose you get a card, or simply wait until someone proposes that you get a card. Proposing yourself for card access is not permitted.",
+      "bytes": 1426
+    },
+    {
+      "id": 4219,
+      "parent_id": 4181,
+      "timestamp": "2013-12-01T22:34:09Z",
+      "contributor": {
+        "username": "Chad",
+        "ip": null,
+        "id": 682
+      },
+      "comment": "",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n*Do not take equipment out of the lab without consulting the general community. Avoid doing so in general\n*Do not hack apart stuff that isn't yours or a consumable.\n\n==== Tools ====\n* Dangerous tools require certification before you can use them in the lab, even if you have prior experience from outside of Heatsync.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Sleeping in the lab ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Basic Members can receive cards when approved by a majority vote of members who already have card access[https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI] at an operations meeting (\"Hack your Hackerspace\" night.) You may request someone else propose you get a card, or simply wait until someone proposes that you get a card. Proposing yourself for card access is illegal.",
+      "bytes": 1418
+    },
+    {
+      "id": 4181,
+      "parent_id": 3963,
+      "timestamp": "2013-09-30T08:51:29Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "/* Card Access */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Basic Members can receive cards when approved by a majority vote of members who already have card access[https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI] at an operations meeting (\"Hack your Hackerspace\" night.) You may request someone else propose you get a card, or simply wait until someone proposes that you get a card, though proposing yourself is considered bad form.\n\n==== Rules ====\n* Don't do anything that would make us make more rules.",
+      "bytes": 1870
+    },
+    {
+      "id": 3963,
+      "parent_id": 3962,
+      "timestamp": "2012-12-28T01:32:37Z",
+      "contributor": {
+        "username": "Shorttie",
+        "ip": null,
+        "id": 203
+      },
+      "comment": "Added link to proposal passage for rule change",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members who already have card access[https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI] at an operations meeting (\"Hack your Hackerspace\" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n\n==== Rules ====\n* Don't do anything that would make us make more rules.",
+      "bytes": 1865
+    },
+    {
+      "id": 3962,
+      "parent_id": 3067,
+      "timestamp": "2012-12-28T01:20:44Z",
+      "contributor": {
+        "username": "Shorttie",
+        "ip": null,
+        "id": 203
+      },
+      "comment": "/* Card Access */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members who already have card access at an operations meeting (\"Hack your Hackerspace\" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n\n==== Rules ====\n* Don't do anything that would make us make more rules.",
+      "bytes": 1787
+    },
+    {
+      "id": 3067,
+      "parent_id": 2592,
+      "timestamp": "2011-12-14T03:30:55Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n\n==== Rules ====\n* Don't do anything that would make us make more rules.",
+      "bytes": 1758
+    },
+    {
+      "id": 2592,
+      "parent_id": 2591,
+      "timestamp": "2011-08-16T09:34:11Z",
+      "contributor": {
+        "username": "68.225.192.16",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* Card Access */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) An operations team member should ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.",
+      "bytes": 1685
+    },
+    {
+      "id": 2591,
+      "parent_id": 2573,
+      "timestamp": "2011-08-16T09:33:40Z",
+      "contributor": {
+        "username": "68.225.192.16",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* Tools */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require certification before you can use them. \n** Even if you've used a tool elsewhere before, certification is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) Ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.",
+      "bytes": 1652
+    },
+    {
+      "id": 2573,
+      "parent_id": 2570,
+      "timestamp": "2011-08-12T05:40:13Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require approval before you can use them. \n** Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) Ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.",
+      "bytes": 1642
+    },
+    {
+      "id": 2570,
+      "parent_id": 2560,
+      "timestamp": "2011-08-12T05:27:49Z",
+      "contributor": {
+        "username": "72.44.240.228",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* Behavior */",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require approval before you can use them. \n** Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.",
+      "bytes": 1359
+    },
+    {
+      "id": 2560,
+      "parent_id": 2524,
+      "timestamp": "2011-08-02T04:15:11Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require approval before you can use them. \n** Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Behavior ====\n* Sleeping in the lab is only acceptable for 2 consecutive nights. Three nights in a row is not acceptable.",
+      "bytes": 1395
+    },
+    {
+      "id": 2524,
+      "parent_id": 2505,
+      "timestamp": "2011-07-22T09:15:06Z",
+      "contributor": {
+        "username": "184.191.139.11",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "",
+      "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require approval before you can use them. \n** Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.",
+      "bytes": 1267
+    },
+    {
+      "id": 2505,
+      "parent_id": null,
+      "timestamp": "2011-07-17T21:13:03Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "Created page with ' ==== Public Space ==== * Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used. ** Clean up after yourself as you wor…'",
+      "text": "\n==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it.\n* Do not take anything out of the lab, or hack apart stuff that isn't yours or a consumable.\n** Example: taking home a screwdriver, or cutting the DC jack off of a power adapter, is not generally cool. Using stock wood or resistors in your project, however, is fine especially if you buy replacements if you use more than a tiny bit. In other words, don't deprive anyone else of a working lab.\n\n==== Tools ====\n* Most tools require approval before you can use them. \n** Even if you've used a tool elsewhere before, approval is needed because HeatSync frequently operates differently than a normal garage, shop or lab.\n* Ask an operations team member before using a tool you haven't used before.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.",
+      "bytes": 1155
+    }
+  ]
+}

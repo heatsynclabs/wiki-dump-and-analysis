@@ -1,0 +1,112 @@
+{
+  "title": "How To Hackerspace",
+  "slug": "How_To_Hackerspace",
+  "ns": 0,
+  "revision_count": 8,
+  "revisions": [
+    {
+      "id": 894,
+      "parent_id": 883,
+      "timestamp": "2010-04-13T22:42:25Z",
+      "contributor": {
+        "username": "149.169.244.106",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "Paragraph summary on concerns",
+      "text": "==Hackerspace Survey==\nThere has been a lot of discussion concerning the term Hackerspace. The following links are ones we have found helpful in defining what a hackerspace is, the role of a hackerspace within a community, and what is done at a hackerspace. The issues discussed in the following definitions and articles are considered as we continue to define who we are. \n\n=== Links ===\nNY Times article describing Techshops and Hackerspaces\n* http://www.nytimes.com/2010/04/11/business/11ping.html?ref=business\nHackerspace Lessons Learned\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\nBuilding Hackerspaces Everywhere\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\nSuccessful Hackerspaces in Kansas City\n* Includes a video of the place, some decent numbers, and about the same amount of area we're looking at.\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC]\nBuilding a Hackerspace File\n* [[File:1003_Building_a_Hacker_Space.pdf]]",
+      "bytes": 1011
+    },
+    {
+      "id": 883,
+      "parent_id": 882,
+      "timestamp": "2010-04-13T05:28:11Z",
+      "contributor": {
+        "username": "70.190.148.95",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* Hackerspace Survey */",
+      "text": "==Hackerspace Survey==\nPlease submit links from the web here that we have found helpful in defining ourselves.\n\nNY Times article describing Techshops and Hackerspaces\n* http://www.nytimes.com/2010/04/11/business/11ping.html?ref=business\nHackerspaces Lessons Learned\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\nBuilding Hackerspaces Everywhere\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\nSuccessful Hackerspaces in Kansas City\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC]\n* Includes a video of the place, some decent numbers, and about the same amount of area we're looking at.\nBuilding a Hackerspace File\n* [[File:1003_Building_a_Hacker_Space.pdf]]",
+      "bytes": 735
+    },
+    {
+      "id": 882,
+      "parent_id": 576,
+      "timestamp": "2010-04-13T05:27:39Z",
+      "contributor": {
+        "username": "70.190.148.95",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* Hackerspace Survey */",
+      "text": "==Hackerspace Survey==\nPlease submit links from the web here that we have found helpful in defining ourselves.\n\nNY Times article describing Techshops and Hackerspaces\n* http://www.nytimes.com/2010/04/11/business/11ping.html?ref=business\nHackerspaces Lessons Learned\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\nBuilding Hackerspaces Everywhere\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\nSuccessful Hackerspaces in Kansas\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. \n* Includes a video of the place, some decent numbers, and about the same amount of area we're looking at.\nBuilding a Hackerspace File\n* [[File:1003_Building_a_Hacker_Space.pdf]]",
+      "bytes": 773
+    },
+    {
+      "id": 576,
+      "parent_id": 291,
+      "timestamp": "2010-02-01T13:40:24Z",
+      "contributor": {
+        "username": "Jjrosent",
+        "ip": null,
+        "id": 14
+      },
+      "comment": "",
+      "text": "==Hackerspace Survey==\nPlease submit links from the web here that we have found helpful in defining ourselves.\n\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.\n* [[File:1003_Building_a_Hacker_Space.pdf]]",
+      "bytes": 522
+    },
+    {
+      "id": 291,
+      "parent_id": 94,
+      "timestamp": "2009-11-02T03:19:08Z",
+      "contributor": {
+        "username": "Uberschnitzel",
+        "ip": null,
+        "id": 9
+      },
+      "comment": "",
+      "text": "==How To Create a Hackerspace==\nHow we did [are doing] it. Please submit links from the web here that we have found helpful in defining ourselves.\n\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.\n* [[File:1003_Building_a_Hacker_Space.pdf]]",
+      "bytes": 558
+    },
+    {
+      "id": 94,
+      "parent_id": 92,
+      "timestamp": "2009-09-13T22:56:06Z",
+      "contributor": {
+        "username": "Jjrosent",
+        "ip": null,
+        "id": 14
+      },
+      "comment": "moved [[HowTo]] to [[How To Hackerspace]]:&#32;clarification away from How Tos",
+      "text": "==How To Create a Hackerspace==\nHow we did [are doing] it. Please submit links from the web here that we have found helpful in defining ourselves.\n\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.",
+      "bytes": 514
+    },
+    {
+      "id": 92,
+      "parent_id": 39,
+      "timestamp": "2009-09-13T22:54:31Z",
+      "contributor": {
+        "username": "Jjrosent",
+        "ip": null,
+        "id": 14
+      },
+      "comment": "",
+      "text": "==How To Create a Hackerspace==\nHow we did [are doing] it. Please submit links from the web here that we have found helpful in defining ourselves.\n\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.",
+      "bytes": 514
+    },
+    {
+      "id": 39,
+      "parent_id": null,
+      "timestamp": "2009-09-09T18:16:40Z",
+      "contributor": {
+        "username": "Friedpope",
+        "ip": null,
+        "id": 2
+      },
+      "comment": "Created page with '==How To Create a Hackerspace== Please submit links from the web here that we have found helpful in defining ourselves.  * http://hackerspaces.org/wiki/Metalab/Lessons_learned * …'",
+      "text": "==How To Create a Hackerspace==\nPlease submit links from the web here that we have found helpful in defining ourselves.\n\n* http://hackerspaces.org/wiki/Metalab/Lessons_learned\n* http://odeo.com/episodes/24337669-Building-hacker-spaces-everywhere-Your-excuses-are-invalid\n* [http://wiki.cowtowncomputercongress.org/index.php/Main_Page CCCKC] -- Successful HackerSpace in Kansas City. They have a video of the place, some decent numbers, and about the same amount of area we're looking at.",
+      "bytes": 487
+    }
+  ]
+}

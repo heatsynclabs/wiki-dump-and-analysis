@@ -1,0 +1,21 @@
+{
+  "title": "Printer",
+  "ns": 0,
+  "id": 1339,
+  "slug": "Printer",
+  "latest_revision": {
+    "id": 5116,
+    "timestamp": "2022-06-23T21:41:45Z",
+    "contributor": {
+      "username": "Nate Caine",
+      "ip": null,
+      "id": 687
+    },
+    "comment": "Created page with \"Printers  [[Hewlett Packard CP5525DN(BobRoss)]]\"",
+    "text": "Printers\n\n[[Hewlett Packard CP5525DN(BobRoss)]]",
+    "bytes": 47
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2022-06-23T21:41:45Z",
+  "is_redirect": false
+}

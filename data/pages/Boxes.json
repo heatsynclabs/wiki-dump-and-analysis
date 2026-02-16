@@ -1,0 +1,21 @@
+{
+  "title": "Boxes",
+  "ns": 0,
+  "id": 1249,
+  "slug": "Boxes",
+  "latest_revision": {
+    "id": 4756,
+    "timestamp": "2020-07-14T02:01:57Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "add some more links",
+    "text": "One of the most common uses for the lasers is to create boxes.  Now, you could design these all yourself in [[Inkscape]] or you could be efficient and lazy.  I recommend the latter.  You can also make parameterized boxes in Fusion360, as a tool to help learn fusion.  To do that you'll want to use one of the online box generators.  \n\n= On-line box generator sites =\n* [https://www.instructables.com/id/The-Ultimate-Guide-to-Laser-cut-Box-Generators/ Ultimate Guide Instructable]\n* [https://en.makercase.com/#/ Simple box generator]\n* [https://www.festi.info/boxes.py/ Online site that uses python to generate a bunch of interesting boxes]\n* [https://www.templatemaker.nl/en/ Patterns for paper/cardboard boxes]\n\n= Videos =\n* [https://www.youtube.com/watch?v=n0mxwChyHGc Fusion 360 Tutorial – Parametric Laser Cut Boxes]\n\n[[Category:Laser]]",
+    "bytes": 842
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2020-06-26T01:13:22Z",
+  "is_redirect": false
+}

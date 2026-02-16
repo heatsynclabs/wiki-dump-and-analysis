@@ -1,0 +1,21 @@
+{
+  "title": "Bicycle Repair Station",
+  "ns": 0,
+  "id": 1374,
+  "slug": "Bicycle_Repair_Station",
+  "latest_revision": {
+    "id": 6082,
+    "timestamp": "2024-09-10T01:55:09Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "station template added",
+    "text": "*'''Station Champions:''' Needed\n*'''Communication:''' Slack #bikes channel\n*'''Certification:''' None, ask if you need help\n*'''Events:''' None\n\n== Overview ==\nHeatSync Labs has tools for fixing and maintaining bicycles thanks to the Made on Main Street Grant we received in 2018. This station is currently between the laser station and the member storage in the black filing cabinet.\n\n== Tools ==\n*Bicycle stand\n*Lots of wrenches 8mm-17mm, 19mm, 21m, 22mm, 25mm\n*SAE Hex Key Set\n*Metric Hex Key Set\n*Star Hex Key Set\n*Flathead Screwdriver\n*Phillips Screwdriver\n*Cable Cutters\n*Multipurpose Scissors\n*Needlenose pliers\n*Crescent Wrench\n*Tire Levers\n*Presta Valve Adapters\n*Spoke Wrench\n*Chain tool\n*Freewheel remover",
+    "bytes": 717
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2022-12-15T03:41:57Z",
+  "is_redirect": false
+}

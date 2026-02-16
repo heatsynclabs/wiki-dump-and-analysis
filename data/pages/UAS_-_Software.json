@@ -1,0 +1,21 @@
+{
+  "title": "UAS/Software",
+  "ns": 0,
+  "id": 447,
+  "slug": "UAS_-_Software",
+  "latest_revision": {
+    "id": 2793,
+    "timestamp": "2011-09-12T23:25:11Z",
+    "contributor": {
+      "username": "67.91.85.142",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "",
+    "text": "see [[UAS/Design/Software]]\n\nthis is all we have so far\n*[[UAS/Notes/L3G4200D]]\n*[[UAS/Notes/IMU]]\n\nthis page will probably be more software manual and software implementation",
+    "bytes": 175
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2011-08-21T22:26:48Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "123d",
+  "ns": 0,
+  "id": 1140,
+  "slug": "123d",
+  "latest_revision": {
+    "id": 4258,
+    "timestamp": "2014-01-21T08:34:28Z",
+    "contributor": {
+      "username": "Mech422",
+      "ip": null,
+      "id": 690
+    },
+    "comment": "Mech422 moved page [[123d]] to [[123D]]",
+    "text": "#REDIRECT [[123D]]",
+    "bytes": 18
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2014-01-21T08:34:28Z",
+  "is_redirect": true
+}

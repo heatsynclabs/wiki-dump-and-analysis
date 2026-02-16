@@ -1,0 +1,21 @@
+{
+  "title": "Corp:Corporate Main",
+  "slug": "Corp_Corporate_Main",
+  "ns": 100,
+  "revision_count": 1,
+  "revisions": [
+    {
+      "id": 14,
+      "parent_id": null,
+      "timestamp": "2009-09-05T02:07:03Z",
+      "contributor": {
+        "username": "WikiSysop",
+        "ip": null,
+        "id": 1
+      },
+      "comment": "Created page with 'This should be the main page for all corporate information.'",
+      "text": "This should be the main page for all corporate information.",
+      "bytes": 59
+    }
+  ]
+}

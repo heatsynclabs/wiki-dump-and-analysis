@@ -1,0 +1,21 @@
+{
+  "title": "Equipment Documentation",
+  "ns": 0,
+  "id": 1045,
+  "slug": "Equipment_Documentation",
+  "latest_revision": {
+    "id": 5970,
+    "timestamp": "2024-02-07T06:18:05Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "This page should be deleted. All resources are linked from the front page now in their respective pages or other resources.",
+    "bytes": 123
+  },
+  "revision_count": 8,
+  "first_revision_timestamp": "2012-11-05T21:54:20Z",
+  "is_redirect": false
+}

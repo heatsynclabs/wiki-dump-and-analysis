@@ -1,0 +1,86 @@
+{
+  "title": "Access Card Procedure",
+  "slug": "Access_Card_Procedure",
+  "ns": 0,
+  "revision_count": 6,
+  "revisions": [
+    {
+      "id": 4333,
+      "parent_id": 4053,
+      "timestamp": "2014-06-24T02:15:03Z",
+      "contributor": {
+        "username": "Cgprincess",
+        "ip": null,
+        "id": 694
+      },
+      "comment": "/* Member Nonpayment/Cancellation */",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) Ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n**An [https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ example of a proposal] may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* It's a good idea for the member to have a Basic ($50/mo) membership.\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 2440
+    },
+    {
+      "id": 4053,
+      "parent_id": 2572,
+      "timestamp": "2013-03-23T22:52:40Z",
+      "contributor": {
+        "username": "Jjrosent",
+        "ip": null,
+        "id": 14
+      },
+      "comment": "/* New Member */",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) Ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n**An [https://groups.google.com/forum/?fromgroups=#!searchin/heatsynclabs/proposal$20brooks/heatsynclabs/Is9dKu2nL10/bpruN_vqsWUJ example of a proposal] may be found in the archives, but in general should stress how the person fits in the community, what projects they work on, what service they've done, and how they hold our values.\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 2369
+    },
+    {
+      "id": 2572,
+      "parent_id": 2571,
+      "timestamp": "2011-08-12T05:36:41Z",
+      "contributor": {
+        "username": "72.44.240.228",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* New Member */",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.) Ensure their card access proposal is posted publicly via email (subject prefix \"Proposal:\") at least 1 week prior to the meeting.\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 2034
+    },
+    {
+      "id": 2571,
+      "parent_id": 2466,
+      "timestamp": "2011-08-12T05:35:22Z",
+      "contributor": {
+        "username": "72.44.240.228",
+        "ip": null,
+        "id": 0
+      },
+      "comment": "/* New Member */",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of members at an operations meeting (\"Hack your Hackerspace\" night.)\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 1904
+    },
+    {
+      "id": 2466,
+      "parent_id": 2458,
+      "timestamp": "2011-07-04T07:04:16Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of the [[operations team]] (which is a private vote.)\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 1889
+    },
+    {
+      "id": 2458,
+      "parent_id": null,
+      "timestamp": "2011-07-04T05:04:05Z",
+      "contributor": {
+        "username": "Will",
+        "ip": null,
+        "id": 22
+      },
+      "comment": "Created page with '== Access Cards ==  === New Member === * Members can receive cards when approved by a majority vote of the [[operations team]] (which is a private vote.) * Login to [[hsl-access]…'",
+      "text": "== Access Cards ==\n\n=== New Member ===\n* Members can receive cards when approved by a majority vote of the [[operations team]] (which is a private vote.)\n* Login to [[hsl-access]] via SSH (172.16.2.15)\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type a for a list of all users. \n* Find the first entry with a usermask of 255 after user #10 (users 0-9 are for testing.) \n* Check the Access Control System Card Database.txt file in Dropbox.\n** Log which user# you're going to use, in this format:\n*** UserNumber UserMask TagNumber FirstName LastName\n*** I.e.: 9 1 a1b2c3d4 John Smith\n*** Usermask 1 is \"full access\", 255 is \"no access.\"\n* Type m followed by the user#, usermask, and tagnumber. \n** Make sure you're not overwriting an existing user# and copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 1 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.\n\n=== Member Nonpayment/Cancellation ===\n\n* Members cards are deactivated / reactivated upon notice of nonpayment or other issues from the Treasurer.\n* Check the Access Control System Card Database.txt file in Dropbox.\n** Find the user's entry in the list, and update their UserMask to be 255 (\"no access\") instead of 1 (\"full access\") or vice versa.\n*** I.e.: 9 255 a1b2c3d4 John Smith\n* Login to [[hsl-access]] via SSH (172.16.2.15)\n* Run minicom\n** If you haven't set your settings yet, it must be /dev/ttyUSB0 57600 8N1.\n* Type e #### where # is the enable password.\n* Type m followed by the user#, usermask, and tagnumber. \n** Copy-paste to avoid typos because a typo can easily overwrite an unexpected user#.\n** I.e. m 9 255 a1b2c3d4\n* Exit minicom by typing ctrl+a,x and double-check the status of the doors as they may have re-locked themselves.",
+      "bytes": 1917
+    }
+  ]
+}

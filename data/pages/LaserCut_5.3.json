@@ -1,0 +1,21 @@
+{
+  "title": "LaserCut 5.3",
+  "ns": 0,
+  "id": 408,
+  "slug": "LaserCut_5.3",
+  "latest_revision": {
+    "id": 6744,
+    "timestamp": "2025-09-17T20:45:40Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "Add warning about pausing via software then opening lid.",
+    "text": "The software for the laser cutter is usable, but certainly not a best case scenario.  The software is tied to the motherboard of the machine which is OEM'ed from another company. Our machine has the [[:File:MPC6515_Manual-2.pdf|MPC6515 Motion Controller]] from Leetro, as do most of the laser machines out of China apparently.  This board is tied to the LaserCut software (and Corel and Autocad drivers which utilize it)  This is btw why all laser cutters out of China use this LaserCut software.  Another popular machine using this combo is [http://www.rabbitlaserusa.com/ Rabbit USA] who attempt to do support and documentation in english making them a good resource.\n\n=== LaserCut Software ===\n* Top right menu with layers (colors): Each layer can cut or engrave, with its own speed, power, output/hidden, and number of times to run.\n* In the cut options menu (when you double click on speed or power) the blower options are not applicable.\n* The Up/Down buttons let you sequence layers (and the cuts/engraves they do) in the order you want. (It is generally advisable to only start cuts after all engraves are complete.)\n* The Compute button allows you to then use the Simulate or Estimate Work Time buttons. Make sure nothing is selected beforehand in order to be accurate.\n* X, Y, and Z control buttons operate as expected. Datum and Z Datum also work.\n* Never push the Laser button on the computer. Once you push it, the laser will fire until you push the stop button on the physical machine. The computer can't stop the laser from firing.\n* Run Box and Clip Box outline the outer rectangle of your project. Run is with the laser off, Clip is with the laser on.\n* The Pause button pauses cutting. _Note:_ if it is already paused via LaserCut, opening the lid on the 80w cutter will UNPAUSE cutting (activate the laser with the lid OPEN)!\n* The Start button starts cutting the file that has been downloaded to the laser. (This may differ from what is displayed in the editor!)\n* The Stop button aborts the current cut. When you start again, it will repeat the cut pattern from the beginning.\n* The DownLoad button opens the file manager.\n** Don't press the Download CFG. It will replace the laser's config and possibly mess it up.\n** The Download File takes the current config on the laser and saves it to your computer.\n** The Download Current takes the project currently open and transfers it to the laser, ready for cutting.\n** The Export File button gives you a .MOL file which can be read directly by the laser via a USB storage device.\n** The Export CFG button allows you to save the computer's config file elsewhere.\n** The Export file button lets you save a project file from the laser elsewhere.\n** The Del and Del All buttons delete files from the laser.\n\n=Manuals=\n* [[:File:MPC6515_Manual-2.pdf|MPC6515 Motion Controller]]\n\n[[Category:Laser]]",
+    "bytes": 2860
+  },
+  "revision_count": 17,
+  "first_revision_timestamp": "2011-07-19T22:59:02Z",
+  "is_redirect": false
+}

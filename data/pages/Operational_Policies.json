@@ -1,0 +1,21 @@
+{
+  "title": "Operational Policies",
+  "ns": 0,
+  "id": 407,
+  "slug": "Operational_Policies",
+  "latest_revision": {
+    "id": 5595,
+    "timestamp": "2023-08-12T20:29:31Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Card Access */",
+    "text": "==== Public Space ====\n* Public spaces, such as desks, workbenches, floorspace, and tools, must be kept clean when not actively being used.\n** Clean up after yourself as you work in different areas of the space, and don't hog everything! Do a once over before leaving, we don't have a janitor. \n** Leave it cleaner and working better than you found it. Properly maintain any equipment you use, and do not leave equipment in a state where it is likely to be damaged.\n*Do not take equipment out of the lab without consulting the general community. Avoid doing so in general\n*Do not hack apart stuff that isn't yours or a consumable.\n\n==== Tools ====\n* Dangerous tools require certification before you can use them in the lab, even if you have prior experience from outside of Heatsync.\n* Everything in the lab should have a home. Put everything back in it's home so everyone else can find it.\n\n==== Sleeping in the lab ====\n* Sleeping in the lab is only acceptable for 2 nights per week or less.\n\n==== Card Access ====\n* Basic Members can receive cards when approved by a majority vote of members who already have card access[https://groups.google.com/forum/?fromgroups=#!topic/heatsynclabs/g9kfaaPkFpI] at [[Hack_Your_Hackerspace | Hack your Hackerspace night]]. You may request someone else propose you get a card, or simply wait until someone proposes that you get a card. Proposing yourself for card access is not permitted.",
+    "bytes": 1426
+  },
+  "revision_count": 13,
+  "first_revision_timestamp": "2011-07-17T21:13:03Z",
+  "is_redirect": false
+}

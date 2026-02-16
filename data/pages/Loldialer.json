@@ -1,0 +1,21 @@
+{
+  "title": "Loldialer",
+  "ns": 0,
+  "id": 224,
+  "slug": "Loldialer",
+  "latest_revision": {
+    "id": 4051,
+    "timestamp": "2013-03-21T01:43:19Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "",
+    "text": "If you're at HeatSync Labs and the loldialer isnt working, try [[Loldialer_HeatSyncLabs_Config]]\n\nThis is a horrible idea, but it must be done, or else the terrorists win.\n\n=Project Synopsis=\nHhhhhhhokay, so the idea here kiddies, is to build a device that can make a call to a website or web service that can take a phone number to call and selection of what horrible audio to play for the person that recieves a call via the Twilio API, thus pranking them and invoking lulz.\n\n==Ingredients==\n\n* [http://www.heatsynclabs.org/store/electronics/ Arduino Uno]\n* [http://www.sparkfun.com/products/9026 Arduino Ethernet Shield]\n* [http://www.twilio.com/ Twilio] (or [http://www.tropo.com Tropo])\n* [http://www.sparkfun.com/products/9395 16x2 LCD Screen (Serial)]\n* [http://www.sparkfun.com/products/8653 Phone keypad]\n* [http://www.sparkfun.com/products/9386 Wires, lots of wires]\n* [http://www.sparkfun.com/products/8803 Breadboard] (for holding resistors, not required if using [https://www.adafruit.com/products/419 Adafruit membrane keypad])\n* Resistors (4 total, 5 Kohm)\n* Basic Ruby web [page|service]\n* Internets\n* Metal tin box with window from the Container Store\n* Frosted 1/4\" thick translucent acrylic bummed from Jacob\n* Obligatory LEDs\n* Letter of legal absolution from Rick Astley and the dude that uploaded Keyboard Cat\n\n==Current choices for audio trolling==\n\n* [http://www.youtube.com/watch?v=CD2LRROpph0 ITS FRIDAY ITS FRIDAY]\n* [http://www.youtube.com/watch?v=dQw4w9WgXcQ Rickroll]\n* [http://www.youtube.com/watch?v=J---aiyznGQ Keyboard cat]\n* [http://www.youtube.com/watch?v=sdyC1BrQd6g Benny Lava]\n* [http://www.youtube.com/watch?v=0SCVbv5buKw Boxxy]\n* [http://www.youtube.com/watch?v=3AzpByR3MvI PIRATE SONG]\n* [http://www.youtube.com/watch?v=Oqq6jppAYFo Bananaphone]\n* [http://www.youtube.com/watch?v=T3n0vBcW5fc&feature=related Trololololol]\n* [http://www.youtube.com/watch?v=EIyixC9NsLI Badger badger badger...]\n\nNEW NEW NEW in Adafruit branch\n* [http://nyan.cat/ Nyancat]\n\n==Use case==\nPLUG IT IN PLUG IT IN[to an ethernet port], thus jacking into the Matrix, choose a horrible audio file to play, then enter a victim's phone number, [somehow] tell that the user has picked up, giggle like a schoolboy, then end the call if the victim is still on the line.  If purchasing a phone number from Twilio/Tropo, configure the number to robo-voice rick roll them when they return their call.\n\nThe asterisk and pound keys aren't used for anything in this, so they can be ignored or programmed to display \"loldongs\" or other meme references.\n\n==Sauce==\nSource code is available at [https://github.com/huertanix/loldialer the loldialer Github repo].\nSource code that supports the Adafruit membrane keypad, Tropo, and Nyan cat is in the [https://github.com/huertanix/loldialer/tree/adafruit Adafruit branch].\n\n==BONUS==\nTwilio can do transcription, so it would be cool to record what the user says when they get trolled and display it on the LCD.  9001% of the time it will probably look like this:\n\n<blockquote>\nHello\n<br />\nWhat the frack\n<br />\nFFFFFFFFFFUUUUUUUUUUUU-\n</blockquote>\n\n...and that will never get old.\n\n==Truly Evil Mad Scientist BONUS==\nRandomly generate a phone number that isn't part of an emergency service or public utility on Friday at midnight and Fridayroll it.\n\n--[[User:Huertanix|Huertanix]] 19:59, 7 November 2010 (UTC)",
+    "bytes": 3359
+  },
+  "revision_count": 22,
+  "first_revision_timestamp": "2010-11-07T19:43:01Z",
+  "is_redirect": false
+}

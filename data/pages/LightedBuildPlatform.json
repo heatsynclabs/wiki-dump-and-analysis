@@ -1,0 +1,21 @@
+{
+  "title": "LightedBuildPlatform",
+  "ns": 0,
+  "id": 363,
+  "slug": "LightedBuildPlatform",
+  "latest_revision": {
+    "id": 2266,
+    "timestamp": "2011-04-28T16:48:21Z",
+    "contributor": {
+      "username": "70.96.30.148",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with '*using existing, or a new, board to make lights on makerbot heated build platform also provide information display on readiness of platform.  Would be interesting to know 4 state…'",
+    "text": "*using existing, or a new, board to make lights on makerbot heated build platform also provide information display on readiness of platform.\n\nWould be interesting to know 4 states\n*at room temperature\n*rising\n*at build temperature\n*falling\n\nThis could be as many as 4 leds (ughhh)\n\nAlso interesting concept, how about telling temperature with the platform lights.  IE temp of 32C is two or 3 leds on... all the way up to max temp is 3/4 to all leds on.  Only need maybe even one color for this, but much more control logic to be able to control all leds individually unless theres a better way...\n\n=Existing Design=\n5 connections on heated bed\n*12v power for platform\n*12v gnd\n*5v power to therm\n*gnd to therm\n*therm signal\n\n==Utilize extruder==\nThe extruder has a plenty powerful processor to do this small calculation.  We would have to send another signal line or something over to platform to do signaling.  Also we'd have to patch makerbot software and/or hope to one day be included.  Will be harder to 'productize' the innovation as well as people might buy our kit, but they wont continually patch the software.\n*single signal line to board\n*control a mux?\n*can i embed this signal in power somehow?\n\nif switch to thermocouple reduce 2 wires.  This only really makes sense if Im not doing something locally on heated board as Id need 5v + - for a micro anyway.  \n\n=Keep all alterations on heated board=\nThis means no code changes which is good.  I have to calc the temp, or approxamate, or even just a + or - delta at the board and control the lights.  \n\n Just pull the 5,gnd,signal and put some very small micro (tiny44 or something) and duplicate temps inside of it.\n*95 means hot\n*<95 (and rising) means yellow\n*<95 and falling means?\n*room temp (under 30c?) blue? white?\n\nOr better really just want comparator for rising, lowering, maintaining.  If were maintaining at bottom (room temp) or maintaining towards top (at temp)",
+    "bytes": 1936
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-04-28T16:48:21Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SyncSwag",
+  "ns": 0,
+  "id": 314,
+  "slug": "SyncSwag",
+  "latest_revision": {
+    "id": 1974,
+    "timestamp": "2011-02-21T21:02:14Z",
+    "contributor": {
+      "username": "Huertanix",
+      "ip": null,
+      "id": 20
+    },
+    "comment": "",
+    "text": "HeatSync Labs should be able to sell its branded swag like t-shirts, stickers, posters, and other things to members or cybersauce at large.\n\nExisting Swag:\n\n* Button pins\n* Large stickers\n* T-shirts\n\nProposed Swag:\n\n* Posters\n* Small stickers\n* Laser-cut measurement tool card thingy\n* Polo shirts\n* HSL \"boy scout\" patches\n* HSL-patched lab coats\n* Laser-etched paper (not PVC) maker notebooks\n* Scratch-proof keychain\n* Kits of our own design and branding\n** Components/bog inside shiny anti-static bag\n** Small orange HSL sticker on one side, descriptive labeling/nutrition facts on the other\n* Orange/grey circuit-patterned bandanna; Bandanas are currently en vogue among PHX kids and useful for haboobs (dust storms).\n\nWe could use a Rails app to create a ThinkGeek-esque online store.  Andrew B and David H may be able to work together on this.",
+    "bytes": 850
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2011-01-27T05:46:13Z",
+  "is_redirect": false
+}

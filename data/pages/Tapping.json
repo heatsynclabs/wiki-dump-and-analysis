@@ -1,0 +1,21 @@
+{
+  "title": "Tapping",
+  "ns": 0,
+  "id": 217,
+  "slug": "Tapping",
+  "latest_revision": {
+    "id": 1284,
+    "timestamp": "2010-09-12T10:54:25Z",
+    "contributor": {
+      "username": "98.177.240.110",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with 'When Tapping you must drill a hole smaller than the final hole, typically with a numbered, not a standard sized, drill bit.  To find this bit this you would use a [http://bobmay.…'",
+    "text": "When Tapping you must drill a hole smaller than the final hole, typically with a numbered, not a standard sized, drill bit.  To find this bit this you would use a [http://bobmay.astronomy.net/misc/drillchart.htm Size Chart].  For metric theres a nice trick: You take your final size and subtract the pitch.  Most of the time metric is standard pitched so you can use a [http://www.zerofast.com/threadm.htm Metric Thread Chart] to look that up.  Ex: M6, standard is 1.0, use an M5 to drill your hole",
+    "bytes": 498
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-09-12T10:54:25Z",
+  "is_redirect": false
+}

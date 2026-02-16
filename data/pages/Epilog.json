@@ -1,0 +1,21 @@
+{
+  "title": "Epilog",
+  "ns": 0,
+  "id": 358,
+  "slug": "Epilog",
+  "latest_revision": {
+    "id": 2201,
+    "timestamp": "2011-04-01T04:18:30Z",
+    "contributor": {
+      "username": "70.166.116.7",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "I fail at logging in, it's rrix. cerating this horrible stub so that we just have documentation",
+    "text": "So, gangplank has this epilog, right, and everyone keeps using coreldraw to print to it. That costs a lot of money, and we can do better with opensauce!\n\nTo install a linux driver you can print to, follow the directions at [http://www.as220.org/labs/wiki/index.php/Laser_Cutter_Technical_Info_Links this wiki page].  The git repo on that page isnt working, pull the cups-epilog.c from [http://aaisp.net.uk/kb-other-free.html] and use that.",
+    "bytes": 439
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-04-01T04:18:30Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "3D Printers",
+  "ns": 0,
+  "id": 1205,
+  "slug": "3D_Printers",
+  "latest_revision": {
+    "id": 6798,
+    "timestamp": "2026-01-05T20:38:42Z",
+    "contributor": {
+      "username": "Rickb928",
+      "ip": null,
+      "id": 733
+    },
+    "comment": "",
+    "text": "*'''Station Champions:''' Cprossu, Antonio Contrisciani\n*'''Communication:''' Slack [https://heatsynclabs.slack.com/archives/C9YBFJ3LJ #3d-printing]\n*'''Certifications:''' Resin Printer\n*'''Events:''' 3D Printer Day, Prusa User Group\n\nHeatSync Labs maintains a variety of 3D printers. \n\nFDM (Fused Deposition Modeling) and SLA (StereoLithography Apparatus) printing technologies are available for use on projects. \n\nThe SLA printers will require specific training prior to use.\n\nDiscuss things about 3d printing or the 3d printer station on the HeatSync Labs 3d printing Slack channel. If there are problems @ Antonio Contrisciani, so they are aware.\n\n== On Boarding ==\n[https://docs.google.com/document/d/1gkVk81iiD63BoAwKSFT5sVMU-J4CvySvtNyfM1BNktw/edit#heading=h.5x0d5h95i329 Welcome to HSL 3D Printing] Read this before using printers.\n\n[https://docs.google.com/forms/d/e/1FAIpQLSfP4GS4lzFiKg1nG6O_yjVCarCjyGqMVxv6eRoVPrExEhymzQ/viewform 3d printer log]\n\n== Events ==\n3D Printer Day is on the 1st Sunday of the month from Noon - 5pm\n\nPrusa User Group (PUG) is on the 1st Thursday of the month 7pm - 10pm\n\n== FDM Printers ==\n\nAll in service Elegoo Centauri Carbon printers use the OrcaSlicer interface to upload and print prepared gcode files. Monitoring via the built in cameras is available there.\n\nAdditionally, All in service Elegoo Centauri Carbon printers can be accessed via their individual web interfaces at the IP addresses shown below.\n\n-Ender Dragon has our Biggest Print Bed: 350mm x 350mm x 400mm, can use the OrcaSlicer interface to upload and print prepared gcode files. OrcaSlicer interfaces with the Octoprint server to print and monitor print jobs on Dragon. \n\n\n== Printer Web Addresses ==\n\n'''- You can access these on your own laptops while connected to Lab Wifi '''\n\n''' Printer Name / Model | Web Address | Location in Lab '''\n\nOuch - Elegoo Centauri Carbon http://172.22.111.197 Located within the 3D printing Station.\n\nSpidey -  Elegoo Centauri Carbon http://172.22.111.144 Located within the 3D printing Station.\n\nDr. Strange -CURRENTLY NOT IN SERVICE -Elegoo Centauri Carbon http://172.22.11.96 Located within the 3D printing Station.\n\nEnderDragon - Ender 5 Plus | http://enderdragon.local | Located within the 3D Print Station.\n\n\nThe following printers are currently not in use and will be prepared for sale or distribution.\n\nTa'Chala - NOT IN USE - Ender 3 S1 Pro | http://tachala.local | currently in storage.\n\nBruce - NOT IN USE- Ender 5 Pro | http://bruce.local | currently in storage.\n\nCho - NOT IN USE- Ender 5 Pro | http://cho.local | currently in storage.\n\nShuri - NOT IN USE- Ender 3 S1 - Mainsail OS | http://shuri.local | currently in storage.\n\nReed - NOT IN USE- FL Sun SR | http://reed.local | currently in storage.\n\nTony - NOT IN USE- FL Sun QQ | http://tony.local | currently in storage.\n\n== SLA Printers ==\n* [https://www.elegoo.com/products/elegoo-mars-lcd-3d-printer Elegoo Mars] Training is required before using this printer.\n\n== Other Tools ==\n[https://www.printdry.com/wp-content/uploads/2019/03/PrintDry_Filament-Dryer_manual_20160419.pdf PrintDry Filament Dryer]\n\n== Printer Repair Notes ==\nOn our '''#3d-printing''' Slack Channel; on the top tabs you should be able to see the most up to date notes on all our printers.\nThere are 2 tabs; '''Printer Notes''' and '''Printer Repair Notes'''\n[[Category:3D-Printing]]",
+    "bytes": 3369
+  },
+  "revision_count": 47,
+  "first_revision_timestamp": "2020-06-20T22:25:00Z",
+  "is_redirect": false
+}

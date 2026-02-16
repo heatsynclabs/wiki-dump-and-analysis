@@ -1,0 +1,21 @@
+{
+  "title": "Acrylic Bending",
+  "ns": 0,
+  "id": 576,
+  "slug": "Acrylic_Bending",
+  "latest_revision": {
+    "id": 2943,
+    "timestamp": "2011-10-12T11:11:11Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "Created page with '<pre> Some scattered research on acrylicbenders:  $300 http://www.kelvin.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=841999  They're hard to find.... apparently separately…'",
+    "text": "<pre>\nSome scattered research on acrylicbenders:\n\n$300\nhttp://www.kelvin.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=841999\n\nThey're hard to find....\napparently separately called bending fixture and heat strip?http://www.kelvin.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=841999\nhttp://www.ehow.com/how_5005776_bend-acrylic-sheets.html\n\n\nAHA angle jigs! they are separate $195\nhttp://www.kelvin.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=841998&Category_Code=\n\n\nHEATERS:\njust a bender heater element for diy ($75)\nhttp://www.tapplastics.com/shop/product.php?pid=169\n\nsame one at manufacturer $39 ( 900deg max, 24inch 100 watt)\nhttps://www.briskheat.com/p-152-rh-plastic-bending-strip-heater.aspx\n\nObviously the toaster oven trick ($5 bucks maybe?)\n\n\n\nAcrylic melting temps:\nI've found mention that the acrylic can melt at 100-170.\nhttp://www.ultimatehandyman.co.uk/forum1/bending-perspex-acrylic-t411.html\n\nacrylic working temp is 180f or 82C\n http://www.ridoutplastics.com/faq.html#Temperatures\n\nclearly we want to heat above (2-3x) the temp what we want to achieve\n\"A 1/4-inch-thick piece of acrylic can usually be completely heated at about 300 degrees F for about 8 minutes.\" \nhttp://www.ehow.com/how_5005776_bend-acrylic-sheets.html\n\n\n\nMcmaster sells a ton of heater options:\nhttp://www.mcmaster.com/#catalog/117/511/=e1l6qn\n\n\nThey have a DC heater which would be nice as we wouldn't be working with AC.. It goes to 300!\n\n1\"\t5\"\t25\t2.1\t7945T44\t27.65\n\nHowever its only 5\" long which means wed need as many as 5 of them (which would be cool because you could switch on only the zone you need--but really really expensive!)\n\nSeems like a more realistic (Wattage and temp seem right from previous research):\n\nrope heater, 24\"       120ac, 1amp, 100watt, 900deg max  3641K23  $16.71\n\nAt $16 its half the bender strip.  Is it for some reason worth it for them to put a plug on it for us? I don't see why?\n\n\n\n\n\n\ndiy angle jigs:\n\n\nneed to keep material from moving during stressful bend..\n-c clamps over metal strip down center of material?\nneed to constrain angle\n--can we use sliding t-bevel or miter layout tool?\n-http://www.rockler.com/product.cfm?page=25115\n-http://www.google.com/products/catalog?q=sliding+t+bevel&hl=en&prmd=imvns&bav=on.2,or.r_gc.r_pw.r_cp.&biw=957&bih=681&um=1&ie=UTF-8&tbm=shop&cid=9113795213693738275&sa=X&ei=KGNvTu_VIMaGrAfIx_zlBg&ved=0CIcBEPMCMAA\n-http://www.google.com/products/catalog?q=sliding+t+bevel&hl=en&prmd=imvns&bav=on.2,or.r_gc.r_pw.r_cp.&biw=957&bih=681&um=1&ie=UTF-8&tbm=shop&cid=5271874557655275974&sa=X&ei=KGNvTu_VIMaGrAfIx_zlBg&ved=0CJQBEPMCMAI\n\nif not with those, I was thinking of something similar to this\nhttp://www.diynetwork.com/how-to/how-to-make-an-angle-jig/index.html\n\n\n\n\nMy tack:  Seems pretty basic.\nI like the lamp dimmer for vreg.  Given proper heatshrinking I have no problem with ac.  Plus we have liquid electrical tape!\n\nIf the toaster elements look good could go with them, but perhaps for more saftey the mcmaster ac heater element might be better?\n\nI like the adjustment screw and spring from here\nhttp://www.mini-lathe.com/Bending_fixture/bending_fixture.htm or just tying to rope like\nhttp://www.tapplastics.com/info/video_detail.php?vid=6&format=quicktime&\n\nobvious wood with hinges for base.  create a channel of some sort for heater\n</pre>",
+    "bytes": 3329
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-10-12T11:11:11Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Screen Printing",
+  "ns": 0,
+  "id": 1373,
+  "slug": "Screen_Printing",
+  "latest_revision": {
+    "id": 6086,
+    "timestamp": "2024-09-10T01:59:54Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "station template added",
+    "text": "*'''Station Champions:''' Darrel Wertz \n*'''Communication:''' Slack #screen-printing channel\n*'''Certification:''' Yes\n*'''Events:''' None\n\n== Overview ==\nWe have a Precision Screen System by Press-A-Print. This tool requires training to use. Please post on Slack if you are interested in a class.\n\nParts for this system are stored upstairs to prevent damage to the screens.",
+    "bytes": 374
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2022-12-01T03:16:08Z",
+  "is_redirect": false
+}

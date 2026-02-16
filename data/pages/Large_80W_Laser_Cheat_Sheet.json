@@ -1,0 +1,21 @@
+{
+  "title": "Large 80W Laser Cheat Sheet",
+  "ns": 0,
+  "id": 1714,
+  "slug": "Large_80W_Laser_Cheat_Sheet",
+  "latest_revision": {
+    "id": 6781,
+    "timestamp": "2025-11-22T20:26:50Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "Air assist, overlap, \"Immediate\"",
+    "text": "Goal is a ''short'' checklist that fits on an 8.5 x 11-inch sheet of paper. Deep details should go on the main [[Large_80W_Laser]] page.\n\nIf you add new info here, please also pick what you'll delete from this page to make room!\n\n* Laser switch on\n* Open LaserCut 5.3\n* Establish connection by clicking DownLoad (can just close download window again)\n* Z- to get bed well below laser head\n* Y+/X+ to move laser head to far corner\n* If you're using honeycomb bed, place it\n* Set up layers\n** Cut/Engrave with appropriate speed/power (see the [https://docs.google.com/spreadsheets/d/1BpAYtyFIKQ4UoXv31mKC43YFxfBk34d_q-muw1SP2aU/edit?usp=sharing log])\n** Air assist (\"Always blow\")\n** Ensure layer is \"On\" so laser turns on\n** Overlap: Normally 0.08\n* Check \"Immediate\" if you want the cut positioned relative to current head position\n* Set laser origin\n* DownLoad (yes, again)\n** Del all\n** Download current\n* Run Box and make sure laser head's movement is entirely within material\n** If it beeps and won't run, are the bounds of your cut entirely within the bounds of the cutting bed?\n** What is your laser origin set to?\n* Start",
+    "bytes": 1128
+  },
+  "revision_count": 11,
+  "first_revision_timestamp": "2025-10-13T20:04:26Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Nov 11 10",
+  "ns": 0,
+  "id": 973,
+  "slug": "Nov_11_10",
+  "latest_revision": {
+    "id": 3675,
+    "timestamp": "2012-07-13T03:41:40Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "Rrix moved page [[Nov 11 10]] to [[Board:11 Nov 2010 Meeting]]",
+    "text": "#REDIRECT [[Board:11 Nov 2010 Meeting]]",
+    "bytes": 39
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2012-07-13T03:41:40Z",
+  "is_redirect": true
+}

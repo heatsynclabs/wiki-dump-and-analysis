@@ -1,0 +1,21 @@
+{
+  "title": "EPEM Schematics",
+  "ns": 0,
+  "id": 157,
+  "slug": "EPEM_Schematics",
+  "latest_revision": {
+    "id": 1137,
+    "timestamp": "2010-06-01T17:36:20Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "",
+    "text": "[[File:LilyPad-EvokedPotentialEyeMask.pdf]]<br>\n[[File:LilyPad-EvokedPotentialEyeMask-Board.pdf]]<br>\n\nThe above board and schematics are a work in progress toward an all-encapsulating board. Using a Lilipad Arduino board and the below components the above schematic can be prototyped without printing your own board.<br> \n[[File:LiPo-USB-Charger-v13.pdf]]<br>\n[[File:LilyPad-PowerSupply-Lipo.pdf]]<br>\n[[File:Mini usb schematic.pdf]]<br>",
+    "bytes": 438
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2010-03-16T06:14:59Z",
+  "is_redirect": false
+}

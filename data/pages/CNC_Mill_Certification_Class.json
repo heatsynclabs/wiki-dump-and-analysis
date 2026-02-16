@@ -1,0 +1,21 @@
+{
+  "title": "CNC Mill Certification Class",
+  "ns": 0,
+  "id": 1083,
+  "slug": "CNC_Mill_Certification_Class",
+  "latest_revision": {
+    "id": 5070,
+    "timestamp": "2022-04-30T02:35:43Z",
+    "contributor": {
+      "username": "DarrellW",
+      "ip": null,
+      "id": 716
+    },
+    "comment": "/* AFTER running a job */",
+    "text": "This page should contain everything you need to know to be allowed to touch the CNC machine:\n\n== Pre-requisites: ==\n\nBefore you can be certified on the CNC mill, you need to be certified on the big Blue Mill. Practice manual milling first.\n\n== Safety == \n\n=== The Mill Is Dangerous! ===\n\nThe CNC Mill is a rather powerful machine. It is also dumber than a heap of bricks, and needs to be babysat. It can harm, maim, or kill you in a variety of different ways:\n\n* The lead screw and motors are capable of producing up to 2356 lbs of linear force, on the X and Y axis. Combined, that is a peak force of 3331 lbs diagonally. \n\n* At 1000 RPM, with a 1/4\" diameter tool, the 2 horsepower motor can apply as much as 500 lbs of force at the point where the teeth contact the material. This can be even higher with larger gear ratios.\n\n* The end mills are hard enough and sharp enough to cut steel. Human flesh is butter in comparison.\n\n* These peak forces are enough to severely damage the machine itself, let alone any stray fingers or foreign objects.\n\n* The computer has no way of sensing what the machine is actually doing. It cannot tell whether the tool is being crashed into the table, vise, or other obstacle. It can only sense via limit switches when the table is at the extreme of its operating range.\n\n* The power supply contains very high voltages, charged capacitors full of electricity, and sensitive electronics.\n\n=== Safety Rules ===\nTo keep yourself, others, and the machine safe, please follow these safety rules:\n\n* Stay within quick reach of the E-STOP while the machine is running. \n* Always wear safety glasses while the spindle is turning.\n** Safety glasses must protect the sides of your eyes. Prescription glasses do not count.\n* Keep fingers clear of all moving parts.\n* Do not run hand-edited G-code.\n* Do not open the power supply.\n* Unplug the spindle when you are not using it.\n\n== Understand how the mill works ==\n\n=== E-STOP ===\n*Know where it is, know when to press it.\n\n=== Stepper Motors ===\n* Know how to move the axis by hand\n\n=== Spindle ===\n* Know how to power on, and off \n* Know how to adjust belt tension with\n\n=== Belts ===\n* Know what gear ratio to be using\n* Know how to change the belts\n\n=== Ways ===\n* Know how to clean and oil them\n\n=== Power Supply ===\n* How to power on, off\n* How the motors and sensors should be connected to\n* How to never open it up.\n\n=== Table ===\n* Know how to securely mount material to the table\n\n== Operating the Mill ==\n\n=== E-STOP Recovery ===\n* Recover from an E-STOP\n\n=== Home the Axis ===\n* Home the machine\n\n=== Manually Jogging the Table\n* Manually jog the table\n\n=== Touch off Tools ===\n* Touch off the tools\n* Set any necessary offsets\n\n=== Secure Materials to table ===\n\n=== Change Tools ===\n\n\n=== Power up the machine ===\n\n\n== Using Centroid CNC12 ==\n\n=== How to simulate your G-code program ===\n\n=== How to load G-code ===\n\n=== How to jog the table ===\n\n=== How to home the machine ===\n\n== Checklists! ==\n=== BEFORE running a job ===\n# Run your G-code in the simulator\n# Mount the material on the table\n# Power up the machine controller\n\n=== AFTER running a job ===\n\n# Vacuum up any debris\n# Clean, oil the ways\n# Put away all tooling and holding fixtures\n\n\n\n[[Category:Machine Shop]]\n[[Category:Mill]]",
+    "bytes": 3282
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2013-03-15T00:25:55Z",
+  "is_redirect": false
+}

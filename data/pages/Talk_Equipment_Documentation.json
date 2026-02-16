@@ -1,0 +1,21 @@
+{
+  "title": "Talk:Equipment Documentation",
+  "ns": 1,
+  "id": 1487,
+  "slug": "Talk_Equipment_Documentation",
+  "latest_revision": {
+    "id": 5969,
+    "timestamp": "2024-02-07T06:16:29Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "I think we can remove this page and just add the category Equipment or similar. - Eric Ose\n\nI suggest rather than labeling more pages rely on the resource index to lead people to the equipment information. Tagging pages Machine Shop if they are machine shop related seems to be good though the pages should also get listed on the Machine Shop page. It'll be more work perhaps, but will make navigating more natural. - Robert Andrews\n\nPerfect. Nice touch with the CNC pages in Machine Shop --[[User:Eric Ose|Eric Ose]] ([[User talk:Eric Ose|talk]]) 23:16, 6 February 2024 (MST)",
+    "bytes": 576
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2024-02-06T23:49:58Z",
+  "is_redirect": false
+}

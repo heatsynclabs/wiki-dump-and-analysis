@@ -1,0 +1,21 @@
+{
+  "title": "Drone/Design",
+  "ns": 0,
+  "id": 436,
+  "slug": "Drone_-_Design",
+  "latest_revision": {
+    "id": 2657,
+    "timestamp": "2011-08-18T18:07:20Z",
+    "contributor": {
+      "username": "ScottyB",
+      "ip": null,
+      "id": 57
+    },
+    "comment": "moved [[Drone/Design]] to [[UAS/Design]]",
+    "text": "#REDIRECT [[UAS/Design]]",
+    "bytes": 24
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2011-08-18T18:07:20Z",
+  "is_redirect": true
+}

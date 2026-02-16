@@ -1,0 +1,21 @@
+{
+  "title": "Using the vinyl cutter",
+  "ns": 0,
+  "id": 1295,
+  "slug": "Using_the_vinyl_cutter",
+  "latest_revision": {
+    "id": 5811,
+    "timestamp": "2024-01-18T21:27:37Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "",
+    "text": "= Overview =\nThis documentation is for the LaserPoint II. The red and black machine labeled Sir-Cuts-A-Lot.\n\nThis is a transcription of the hand written instructions in the binder from Nancy Gibson.  I just wanted to get them digital to then be able to update/maintain.\n\n= Design =\n# Design an image or find a black and white image on google.\n# Drag image onto the desktop or save it\n# Open [[Sure Cuts a Lot]] program and drag image over into the program or import/open file.\n# Select image.  Go to File -> Trace image, click on it.  (If you designed the image you can skip this step)\n# From Trace Image a menu will pop-up.  Click on 'Ok'\n# Drag old image (one you can't see the grid behind) away from the new image.\n# Delete the old image.\n# Your image is left.\n# This is a close up of my turtle image. (Jot's note need to add these in, but they're other pages in the binder).  See how at the highlighted points the line does not connect.  That part will not be cut.  So, when you weed it you will have to cut it.  To prevent this, when finding an image be sure all the lines you want to cut connect.\n## (From back of page) For most things set speed (SPD) to 300 and PRS to 177 and test to see if it cuts.\n## (From back of page) Press enter to show 'local' - it won't cut unless local is showing\n# Turn on vinyl cutter\n# Go to menu board on cutter and push enter\n# Push select\n# Keep pushing select until 'current' is highlighted.\n\n== Machine setup ==\n# Setting up the machine \n## Set pressure is left and right arrows.  Speed on local settings is up and down arrows.\n# This pic shows the blade is not in the machine (Jot's note: need to embed pic)\n# Shows where the blade and pen are stored\n# Putting blade in cutter\n# Close and tighten it\n# Put the vinyl in the machine\n# Be sure rollers are in line with white brackets above.  If this is not done vinyl will move and cutting will not be right.\n## A shows how bottom rollers are aligned with white bracket above.\n# Lock rollers down with the handles in back\n# With menu on 'current' push arrows until blade is where you want to start.\n\n== Cutting ==\n# Go back to computer in Sir Cuts A Lot program.  Click on icon with scissors.\n# Next menu - click on 'cut'\n# Cutting will show on computer\n# Some time it will show 'sent to machine'.  Click on 'ok'\n\n[[Category:Vinyl]]",
+    "bytes": 2322
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2020-09-26T18:50:58Z",
+  "is_redirect": false
+}

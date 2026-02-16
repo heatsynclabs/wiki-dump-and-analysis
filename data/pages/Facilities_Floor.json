@@ -1,0 +1,21 @@
+{
+  "title": "Facilities Floor",
+  "ns": 0,
+  "id": 1369,
+  "slug": "Facilities_Floor",
+  "latest_revision": {
+    "id": 5426,
+    "timestamp": "2022-11-01T21:57:31Z",
+    "contributor": {
+      "username": "RobertBushman",
+      "ip": null,
+      "id": 713
+    },
+    "comment": "/* The Answer */",
+    "text": "\n= Cleaning VCT Tile Flooring =\n\n== The Story So Far ==\n\n# We should clean the floors. The streak marks from chair legs and wheels look bad.\n# How? Would distilled white vinegar work? What about muriatic acid?\n# [testing ensues] Both seem to work, with plenty of soak time and agitation using the floor scrubber.\n# Acid might damage the tile, and would probably damage the protective sealant.\n# We should just get them professionally cleaned.\n# We asked a bunch of services. The lowest quote was $4,000.\n# Why don't we just clean them ourselves?\n# Return to step 1, above.\n\n== The Answer ==\n\nHere's a good starting point for finding the truth: https://www.youtube.com/watch?v=oH8CY_EzF_8\n\nTL;DR: There isn't a shortcut. To get these kinds of serious stains off, you have to strip. Once you strip, you have to seal and polish, or the stains will come back very quickly (already happening to the sections I stripped over the past two weeks). Then you have to clean regularly to keep the stains to a minimum until the next stripping.\n\n# Strip\n# Seal\n# Polish\n# Clean Frequently\n\nThe chemicals we have (Zep system) will work great. The mini scrubber we have would work, though we might go through a lot of pads and it won't be as fast as a swing buffer.",
+    "bytes": 1249
+  },
+  "revision_count": 10,
+  "first_revision_timestamp": "2022-11-01T21:20:24Z",
+  "is_redirect": false
+}

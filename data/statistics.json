@@ -1,0 +1,24 @@
+{
+  "total_pages": 939,
+  "total_revisions": 5419,
+  "redirect_count": 64,
+  "content_pages": 875,
+  "unique_contributors": 263,
+  "namespace_counts": {
+    "0": 385,
+    "102": 4,
+    "1": 23,
+    "2": 17,
+    "3": 2,
+    "4": 2,
+    "6": 476,
+    "8": 3,
+    "12": 3,
+    "14": 23,
+    "100": 1
+  },
+  "governance_revision_files": 63,
+  "governance_total_revisions": 623,
+  "xml_size_bytes": 33233022,
+  "parse_time_seconds": 0.88
+}

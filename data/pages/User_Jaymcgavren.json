@@ -1,0 +1,21 @@
+{
+  "title": "User:Jaymcgavren",
+  "ns": 2,
+  "id": 1718,
+  "slug": "User_Jaymcgavren",
+  "latest_revision": {
+    "id": 6814,
+    "timestamp": "2026-01-26T18:34:16Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "/* Interests */",
+    "text": "=Bio=\n\n*Author of these software development books:\n**[https://headfirstruby.com/ Head First Ruby]\n**[https://headfirstgo.com/ Head First Go]\n\n=Interests=\n\n*Laser cutters (HeatSync certified)\n*Vinyl cutters (stickers, t-shirt transfers)\n*Generative art\n*Microcontrollers\n\n=HeatSync Contributions=\n\n*[https://wiki.heatsynclabs.org/wiki/Laser_Meetup Laser Meetup] host\n*HeatSync front window maintenance\n*Raspberry Pi \"Tutorial\" screensaver in the lab",
+    "bytes": 449
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2026-01-26T18:30:49Z",
+  "is_redirect": false
+}

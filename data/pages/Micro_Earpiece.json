@@ -1,0 +1,21 @@
+{
+  "title": "Micro Earpiece",
+  "ns": 0,
+  "id": 204,
+  "slug": "Micro_Earpiece",
+  "latest_revision": {
+    "id": 1178,
+    "timestamp": "2010-06-15T21:26:31Z",
+    "contributor": {
+      "username": "64.38.194.13",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with '==Overview==  The idea is to make that impossibly small radio that fits inside your ear. Here is a breakdown of how it could work:  *Your cell phone is the transmitter/receiver. …'",
+    "text": "==Overview==\n\nThe idea is to make that impossibly small radio that fits inside your ear. Here is a breakdown of how it could work:\n\n*Your cell phone is the transmitter/receiver. This sits in your pocket connected to whomever you wish to talk to.\n*The phone connects via bluetooth or a headset wire to an induction transmitter that is worn around your neck.\n*The necklace is actually a wire loop that acts as an antenna coil.\n*In your ear is an earpiece with an induction receiver than can pick up the transmission from the transmitter.\n*The microphone you speak into is clipped to the inside of your shirt.\n\n\n==Receiver==\n*http://www.techlib.com/electronics/induction.html\n**Contains info about building an induction receiver.\n**Hearing aids contain a telecoil that works as an induction receiver.",
+    "bytes": 797
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-06-15T21:26:31Z",
+  "is_redirect": false
+}

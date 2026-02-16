@@ -1,0 +1,21 @@
+{
+  "title": "File:lasercut.gpl",
+  "ns": 6,
+  "id": 1225,
+  "slug": "File_lasercut.gpl",
+  "latest_revision": {
+    "id": 4670,
+    "timestamp": "2020-06-24T04:00:22Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "simple 8 bit palette file.  On Mac it goes in:\n\n/Users/<YourUsernameHere>/Library/Application Support/org.inkscape.Inkscape/config/inkscape/palettes",
+    "text": "simple 8 bit palette file.  On Mac it goes in:\n\n/Users/<YourUsernameHere>/Library/Application Support/org.inkscape.Inkscape/config/inkscape/palettes",
+    "bytes": 148
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2020-06-24T04:00:22Z",
+  "is_redirect": false
+}

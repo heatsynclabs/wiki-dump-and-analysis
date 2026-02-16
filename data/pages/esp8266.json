@@ -1,0 +1,21 @@
+{
+  "title": "esp8266",
+  "ns": 0,
+  "id": 1170,
+  "slug": "esp8266",
+  "latest_revision": {
+    "id": 4374,
+    "timestamp": "2015-03-08T22:39:30Z",
+    "contributor": {
+      "username": "Illiteratebeef",
+      "ip": null,
+      "id": 696
+    },
+    "comment": "formatting",
+    "text": "The ESP8266 is a wifi SOC that costs $2-$10, has anywhere from 2 to 12 GPIO pins, can communicate using a wide variety of protocols, create and connect to 802.11 b/g/n networks, a simple web or telnet server, can be used in conjunction with an arduino, can store multiple programs in memory at once, and much more.\n\n\nWe have an ESP-01 board donated by Jason Nevins, that's stored by the arduino stuff. It's been preloaded with NodeMCU firmware and programmed to create a secured wifi access point, serve a webpage, and change a status LED on the device based on the status of a button on the page. Below is all the information you need to connect to the device and reprogram it any way you want. Please set it back to this state when you're done with it using [https://github.com/illiteratebeef/ESP8266Heatsync/blame/master/README.md this code]. \n\nIt's highly recommended you watch [https://www.youtube.com/playlist?list=PLjzGSu1yGFjXMfptFXcXF2hi_ycBD2Lde these youtube videos], Especially part 3 and 4, and read the readmes for all of the NodeMCU and ESPlorer software.\n\nThe esp8266 can communicate with your computer using a USB to serial adapter and connecting it up to 3.3v power. The CH_PD pin needs to be brought high for the chip to run, a jumper wire has been soldered on the donated board so that you don't have to do this yourself. When you reprogram the firmware, the chip needs GPIO0 to be brought low. There is a pc jumper soldered to the board, so just bridge those pins if you need to burn new firmware. Otherwise, DO NOT bridge these pins as it will cause the chip to not boot.\n\n[[File:esp8266-pinout.jpg]]\n\n\n\nTo burn the nodemcu firmware on the device, https://github.com/nodemcu/nodemcu-flasher\n\nFor example programs and pinout mappings: https://github.com/nodemcu/nodemcu-firmware\n\nFor documentation on the nodemcu api: https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en\n\nTo program the board over a serial connection, use this program: http://esp8266.ru/esplorer/\n\n\n ESP8266 Access Point Credentials:  \n SSID: ESP8266 -see wiki-  \n Password: 12345678\n Default IP of ESP board: 192.168.4.1",
+    "bytes": 2121
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2015-03-04T05:07:06Z",
+  "is_redirect": false
+}

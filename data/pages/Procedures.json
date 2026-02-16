@@ -1,0 +1,21 @@
+{
+  "title": "Procedures",
+  "ns": 0,
+  "id": 393,
+  "slug": "Procedures",
+  "latest_revision": {
+    "id": 6105,
+    "timestamp": "2024-11-21T18:30:17Z",
+    "contributor": {
+      "username": "Mindblender",
+      "ip": null,
+      "id": 718
+    },
+    "comment": "Changed the \"Operations Team\"  to \"Welcoming Team\"",
+    "text": "== Procedures ==\nPut operational procedures here.\n\n=== New Member ===\n* Have them fill out the [http://members.heatsynclabs.org/users/sign_up Membership Application]\n* Either set up a PayPal recurring payment to hslfinances@gmail.com (an option is given at the end of the application form) or choose another method to send their payment. Automated, electronic, or prepaid months in advance is preferred. If prepaid cash/check utilize square, take photo, and place in admin locker.\n**Jotform is sent to board@ notifying board\n* '''Treasurer:''' Confirm form and payment, record details in membership spreadsheet, and ''notify [[operations team]] of new member.''\n* '''Welcoming Team:'''\n** Email new member with [[Member Welcome Letter]] and suggest a time to come in for a new member orientation. Create calendar appointment with the appropriate team member.\n** Greet member at space; give them the [[Walk Through Orientation]].\n\n=== Member Nonpayment/Cancellation ===\n* '''Treasurer:''' At least once every month, check member payment status. Do a complete audit quarterly. If a member hasn't paid, notify the operations team to have card access turned off. Likewise, notify the team when a member begins payment again. If there are unpaid months or portions of months during which they had access, the member must pay the difference.\n* '''Operations Team:''' When notified of nonpayment or resumption of payment, follow the [[Access Card Procedure]].\n\n=== Equipment Certification ===\nWhen someone wants to use equipment they're not certified for:\n\n* If there's a class scheduled for that equipment, hook them up with that class/teacher.\n* If there is no class scheduled, suggest that the member email the group asking for a class. Alternatively, if there is time and a certified member is onsite, they may give an impromptu class according to the [[Rules|Equipment Use Guidelines]].\n\n=== Sales, membership payments, and donations ===\nFor any sales (i.e. t-shirts, Arduino boards, etc) the sales person (a board member or trained member) needs to ideally use Square to process the payment. Please include the following in the description or as an accompanying email to the Treasurer:\n\n*Name (first and last)\n*Email address\n*Item sold\n*Amount sold for\n\nIf Square is unavailable record this information along with the payment so that the sale can be tracked and an electronic receipt can be sent to the buyer via e-mail.\n\n=== Purchase Requests ===\nTo request the Board to purchase something, follow instructions on the [[Procurement Request]] page.\n\n=== Tool Acquisition ===\nSee [[Tool Acquisition HOWTO]]",
+    "bytes": 2604
+  },
+  "revision_count": 17,
+  "first_revision_timestamp": "2011-07-04T02:58:02Z",
+  "is_redirect": false
+}

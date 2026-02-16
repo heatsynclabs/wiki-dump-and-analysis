@@ -1,0 +1,21 @@
+{
+  "title": "HSL API",
+  "ns": 0,
+  "id": 1375,
+  "slug": "HSL_API",
+  "latest_revision": {
+    "id": 5462,
+    "timestamp": "2023-01-17T00:01:27Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "Space to document the functionality of the new HSL API\n\nFeatures:\n\n==People==\n* Ability to see a list of Users (people/members)\n* Ability to add a new User\n* Ability to merge Users\n* Ability to edit User\n* Ability to view User details (lot of information here)\n\n\n==Tools & Resources==\n\n==Certifications==\n* List certification classes\n* Ability to create a class certification\n* Ability to view User certifications\n** Ability to view certifications by class\n** Ability to add a new User certification\n\n==Waivers==\n* Ability to see who has filled out a waiver\n* Ability to see when the waiver was filled out\n* Ability to view waiver\n* Ability to edit waiver\n\n==Doors==\n* Access cards\n** New Card\n** Upload all cards\n** List users with card access\n** Ability to disable card\n** Ability to replace card\n* Door Logs\n* Space API\n* Remote Door Access\n\n=== Current status of the door sub-project ===\n\n* '''Current setup:''' ACCX version 2, which is a door access shield attached to an Arduino Ethernet and customized firmware to take commands over HTTP https://www.accxproducts.com/content/category/open-source-hardware/page/3 if flashed with a standard firmware, the Arduino would repond to the same serial/usb/gpio commands as ACCX 4. Touching this system may result in messing up door access for HSL members, so should only be done with extreme care and substantial knowledge/communication. The current members.hsl Rails app talks with the Arduino Ethernet over a rudimentary and insecure HTTP protocol.\n** It should be running https://github.com/heatsynclabs/Open_Access_Control_Ethernet but could also be running the latest from upstream (zyphlar). Obviously the IPAddress and PRIVPASSWORD have been changed from what's on Git.\n\n* '''Proposed setup:''' ACCX version 4, which has an onboard Arduino Mega in addition to expanded access control hardware (check the wiki for precise details) https://www.accxproducts.com/wiki/index.php?title=Open_Access_4.0 it talks with an attached Linux computer (raspi, etc) over either GPIO or USB, but to get internet connectivity or one-click database synchronization it needs an additional component running on said Linux computer to translate the serial to http and back. Duncan has written this portion, and it's technically superior.\n\n* What cards to use: doesn't really matter as long as the reader speaks Wiegand26 to the ACCX board, but HSL historically uses EM4100 (125kHz) cards and readers. Mifare/NFC is certainly a possibility, as long as a unique ID is sent via Wiegand to the board.\n\n==Computers==\n* List of MAC addresses on the network\n* Ability to purge old records\n\n==Payments==\n* List view of payment\n* Ability to view payment details\n* Ability to edit payment\n* Ability to create a manual payment\n\n\nNote: This list was copied from the old members site menu. Please expand on each section as needed.",
+    "bytes": 2850
+  },
+  "revision_count": 5,
+  "first_revision_timestamp": "2022-12-31T05:32:23Z",
+  "is_redirect": false
+}

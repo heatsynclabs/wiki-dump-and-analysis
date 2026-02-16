@@ -1,0 +1,21 @@
+{
+  "title": "CNC Mill",
+  "ns": 0,
+  "id": 1090,
+  "slug": "CNC_Mill",
+  "latest_revision": {
+    "id": 5041,
+    "timestamp": "2021-08-26T18:20:21Z",
+    "contributor": {
+      "username": "DarrellW",
+      "ip": null,
+      "id": 716
+    },
+    "comment": "/* CAM */",
+    "text": "See [[CNC Mill Notes]] for notes made in preparation for teaching a class.\n\n== Certification ==\n\nBefore you can use the CNC machine, you must take our '''CNC Machine [[Certification Class]]''', so you can learn all the ins and outs of our specific machine.\n\nBeing certified on the blue manual mill is a prerequisite to being certified on the CNC mill.\n\n'''You will need to know the information outlined in the sections titled Safety Rules, Parts of the Mill, Maintenance Tasks, Operating the Machine, and Software Toolchain.'''\n\n== Safety Rules ==\n\nTo keep yourself, others, and the machine safe, please follow these safety rules:\n\n* Stay within quick reach of the E-STOP while the machine is running. \n* Always wear safety glasses while the spindle is turning.\n** Safety glasses must protect the sides of your eyes. Prescription glasses do not count.\n* Keep fingers clear of all moving parts.\n* Do not run hand-edited G-code.\n* Do not open the power supply.\n* Unplug the spindle when you are not using it.\n\n== Hardware Config ==\nThe CNC Mill uses Gecko G201 stepper drivers [http://www.geckodrive.com/g201-rev-16 notes here] on NEMA-34 stepper motors. These drivers give 10th step microstepping at up to 7A per phase from 24-80VDC\n\nConfig is as follows:\n*X-axis Current Set Resistor - 265kΩ -> ~5.75A\n*Y-axis Current Set Resistor - 267kΩ -> ~5.75A\n*Z-axis Current Set Resistor - 134kΩ -> ~5.25A\n\n== Software Toolchain ==\n\nTo be certified, you need to know Centroid CNC at a minimum. \n\nBut you will need to learn all the programs in the toolchain to design, code, and mill a part. \n\n=== CAD ===\nYou need to use a CAD program to create the actual design of the part you wish to mill. This can be done in either SolidWorks, AutoCad or Fusion 360. Basic CAD functionality is also available in CamBam. For basic projects, that will mean one less program to have to use.\n\n=== CAM ===\nCAM software takes the part you created with your CAD software, and generates the necessary G-code to actually mill the part. The G-code is then executed by the machine, creating the part.\n\nThere are several CAM programs available:\n* [[Fusion360]] is an integrated CAD-CAM which has a free version at the time of this edit. Autodesk has been reducing features in the free version over time trying to force people onto the paid version.  \n\n* [[HSMXpress]] is a SolidWorks plugin for doing g-code generation from within Solidworks directly on a part. The express version only comes with the documentation that is in its help file, accessed in the plugin itself.\n** Please make sure you're copy of Solidworks is properly licensed as Dassault tracks licenses by IP Address online and prosecutes for piracy.\n\n*[[CamBam]] is the CAM program that can handle most everything, and the manual can be found at http://www.cambam.info/doc/\n** A printed CamBam manual is also kept at the CNC workstation.\n\nHeatSync does not currently have a CAD Workstation. Hopefully we will get one in the future\n\nFreeCad Getting Started Wiki: \n[https://wiki.freecadweb.org/Getting_started]\n\n=== CENTROID CNC12 ===\n\nCENTROID is the 2021 upgrade which replaces MACH3 control. CENTROID runs on Windows10 and eliminates the need for the computer to have a parallel port. It reads G-code and executes it on the machine, controlling the stepper motors and spindle in according to the instructions in the G-code\n\nThe manual for CENTROID CNC12 can be downloaded here: https://www.centroidcnc.com/centroid_diy/centroid_manuals.html\n\nThere is also a printed copy in a binder at the CNC workstation.\n\n== Miscellaneous Information ==\n\nLinuxCNC is also installed on the computer, which is setup as a dual-boot. These are the config files:\n\nLinuxCNC Config Files\n\n[[LinuxCNC Inches ini file]]\n\n[[LinuxCNC Pinout]]\n\n[[File:RF-31.pdf]]\n\n\n\n[[Category:Machine Shop]]\n[[Category:Mill]]",
+    "bytes": 3820
+  },
+  "revision_count": 8,
+  "first_revision_timestamp": "2013-05-16T04:19:46Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Tools",
+  "ns": 0,
+  "id": 942,
+  "slug": "Tools",
+  "latest_revision": {
+    "id": 5458,
+    "timestamp": "2023-01-13T21:06:46Z",
+    "contributor": {
+      "username": "Mindblender",
+      "ip": null,
+      "id": 718
+    },
+    "comment": "",
+    "text": "Wood/plastic:\n\n*100-watt laser cutter (CO2, 4x3 bed, DXF or B&W BMP format)\n*Ultimaker 3D printer\n*Drill press\n*Various Hand and power tools\n*Miter SawPlaner\n*Miter Saw\n*Scroll Saw\n*Table Saw\n*Band Saw\n*Disc Sander\n*Belt Sander\n\n\nMetal:\n*Mini-lathe, full Lathe\n*Mini-mill, Manual Mill\n*CNC Mill\n*Metal-cutting bandsaw\n*Bench grinders\n*MIG/TIG Welder with ventilation\n*Metal Bandsaw \n*Baileigh 3-IN-1 COMBINATION SHEAR, BRAKE, ROLL, MODEL: SBR-3020 ([https://drive.google.com/file/d/1n_LCEsiJEPVAqdnuPsVulPAjYXe4veoF/view manual])\n* Shop Fox Model M1040 & M1041 Plate Shear ([https://drive.google.com/file/d/1tyNzDp1d4PL0ICgZluujFoU5zJbdLD3i/view manual])\n\n\nElectronics, communication, telecom & security:\n*PCB Etching\n*Arduino and TONS of shields and sensors\n*Soldering, hot air, and desoldering station\n*Test equipment including waveform generators, AC and DC supplies, oscilloscopes, etc.\n\n\nMISC\n*Laptops, testing network/servers, wifi, Internet access\n*HAM radio station\n*Drum, guitars, amps, synths, keyboards\n\n\n=== [https://drive.google.com/drive/folders/1Q9tLZfRkpWcy8201h225RNJsmACjsP41 HSL manuals repository] ===",
+    "bytes": 1121
+  },
+  "revision_count": 6,
+  "first_revision_timestamp": "2012-07-03T14:33:20Z",
+  "is_redirect": false
+}

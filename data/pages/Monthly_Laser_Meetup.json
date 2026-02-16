@@ -1,0 +1,21 @@
+{
+  "title": "Monthly Laser Meetup",
+  "ns": 0,
+  "id": 1717,
+  "slug": "Monthly_Laser_Meetup",
+  "latest_revision": {
+    "id": 6807,
+    "timestamp": "2026-01-26T17:17:02Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "Jaymcgavren moved page [[Monthly Laser Meetup]] to [[Laser Meetup]]: Renaming in case we someday want to adopt a frequency other than monthly.",
+    "text": "#REDIRECT [[Laser Meetup]]",
+    "bytes": 26
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2026-01-26T17:17:02Z",
+  "is_redirect": true
+}

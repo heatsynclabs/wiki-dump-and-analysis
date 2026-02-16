@@ -1,0 +1,21 @@
+{
+  "title": "SurveyOfPrices",
+  "ns": 0,
+  "id": 60,
+  "slug": "SurveyOfPrices",
+  "latest_revision": {
+    "id": 304,
+    "timestamp": "2009-11-10T08:18:58Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "moved [[SurveyOfPrices]] to [[Survey of Subscription Fees]]",
+    "text": "#REDIRECT [[Survey of Subscription Fees]]",
+    "bytes": 41
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2009-11-10T08:18:58Z",
+  "is_redirect": true
+}

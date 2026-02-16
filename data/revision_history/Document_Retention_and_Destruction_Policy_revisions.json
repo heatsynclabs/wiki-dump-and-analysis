@@ -1,0 +1,47 @@
+{
+  "title": "Document Retention and Destruction Policy",
+  "slug": "Document_Retention_and_Destruction_Policy",
+  "ns": 0,
+  "revision_count": 3,
+  "revisions": [
+    {
+      "id": 3053,
+      "parent_id": 3052,
+      "timestamp": "2011-11-21T07:56:43Z",
+      "contributor": {
+        "username": "Rrix",
+        "ip": null,
+        "id": 43
+      },
+      "comment": "Finish editing per Jadiaz",
+      "text": "This '''Document Retention and Destruction Policy''' of HeatSync Labs identifies the record retention responsibilities of staff, voluteers, members of the Board of Directors, and outsiders for maintaining and documenting the storage and destruction of the Organization's documents and records.\n\n# '''Rules'''.  The Organization' staff, volunteers, members of the Board of Directors and outsiders (i.e., independent contractors via agreements with the) are required to honor these rules: (a) paper or electronic documents indicated under the terms for retention below will be transferred and maintained by the Human Resources, Legal or Administrative staffs/departments or their equivalents; (b) all other paper documents will be destroyed after three years; (c) all other electronic documents will be deleted from all individual computers, databases, networks, and backup storage after one year; and (d) no paper or electronic documents will be destroyed or deleted if pertinent to any ongoing or anticipated government investigation or proceeding or private litigation.\n# '''Terms for retention''' .\n## '''Retain Permanently''':\n###* Governance Records -- Charter and amendments, Bylaws, other organizational documents, governing board and board committee minutes.\n### Tax Records -- Filed state and federal tac returns/reports and supporting records, tax emption determination letter and related correspondence, files related to tax audits.\n### Intellectual property records -- Copyright and trademark registations and samples of protected works\n## '''Retain for ten years''':\n### Pension and benefit records -- Pension (ERISA) plan particpant/beneficiary records, actuarial reports, related correspondence with government agencies and supporting records\n### Government relation records -- State and federal lobbying and political contributions and supporting records\n## '''Retain for three years''':\n### Employee/employment records – Employee names, addresses, social security numbers, dates of birth, INS Form I-9, resume/application materials, job descriptions, dates of hire and termination/separation, evaluations, compensation information, promotions, transfers, disciplinary matters, time/payroll records, leave/comp time/FMLA, engagement and discharge correspondence, documentation of basis for independent contractor status (retain for all current employees and independent contractors and for three years after departure of each individual).\n### Lease, insurance, and contract/license records – Software license agreements, vendor, hotel and service agreements, independent contractor agreements, employment agreements, consultant agreements, and all other agreements (retain during term of the agreement and for three years after the termination, expiration, and non-renewal of each agreement).\n## '''Retain for one year''':\n### All other electronic records, documents and files – Correspondence files, past budgets, bank statements, publications, employee manuals/policies, procedures, survey information.\n# '''Exceptions''': Exceptions to these rules and terms for retention may be grantedonly by the Organization's chief staff executive or Chairman of the Board.",
+      "bytes": 3184
+    },
+    {
+      "id": 3052,
+      "parent_id": 3049,
+      "timestamp": "2011-11-21T07:52:45Z",
+      "contributor": {
+        "username": "Rrix",
+        "ip": null,
+        "id": 43
+      },
+      "comment": "edit",
+      "text": "This '''Document Retention and Destruction Policy''' of HeatSync Labs identifies the record retention responsibilities of staff, voluteers, members of the Board of Directors, and outsiders for maintaining and documenting the storage and destruction of the Organization's documents and records.\n\n# '''Rules'''.  The Organization' staff, volunteers, members of the Board of Directors and outsiders (i.e., independent contractors via agreements with the) are required to honor these rules: (a) paper or electronic documents indicated under the terms for retention below will be transferred and maintained by the Human Resources, Legal or Administrative staffs/departments or their equivalents; (b) all other paper documents will be destroyed after three years; (c) all other electronic documents will be deleted from all individual computers, databases, networks, and backup storage after one year; and (d) no paper or electronic documents will be destroyed or deleted if pertinent to any ongoing or anticipated government investigation or proceeding or private litigation.\n# '''Terms for retention''' .\n## '''Retain Permanently''':\n###* Governance Records -- Charter and amendments, Bylaws, other organizational documents, governing board and board committee minutes.\n### Tax Records -- Filed state and federal tac returns/reports and supporting records, tax emption determination letter and related correspondence, files related to tax audits.\n### Intellectual property records -- Copyright and trademark registations and samples of protected works",
+      "bytes": 1547
+    },
+    {
+      "id": 3049,
+      "parent_id": null,
+      "timestamp": "2011-11-17T21:01:35Z",
+      "contributor": {
+        "username": "Jadiaz",
+        "ip": null,
+        "id": 32
+      },
+      "comment": "Created page with 'This '''Document Retention and Destruction Policy''' of HeatSync Labs identifies the record retention responsibilities of staff, voluteers, members of the Board of Directors, and…'",
+      "text": "This '''Document Retention and Destruction Policy''' of HeatSync Labs identifies the record retention responsibilities of staff, voluteers, members of the Board of Directors, and outsiders for maintaining and documenting the storage and destruction of the Organization's documents and records.\n\n1) '''Rules'''.  The Organization' staff, volunteers, members of the Board of Directors and outsiders (i.e., independent contractors via agreements with the) are required to honor these rules: (a) paper or electronic documents indicated under the terms for retention below will be transferred and maintained by the Human Resources, Legal or Administrative staffs/departments or their equivalents; (b) all other paper documents will be destroyed after three years; (c) all other electronic documents will be deleted from all individual computers, databases, networks, and backup storage after one year; and (d) no paper or electronic documents will be destroyed or deleted if pertinent to any ongoing or anticipated government investigation or proceeding or private litigation.",
+      "bytes": 1071
+    }
+  ]
+}

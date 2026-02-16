@@ -1,0 +1,21 @@
+{
+  "title": "Toaster Oven Reflow Soldering",
+  "ns": 0,
+  "id": 131,
+  "slug": "Toaster_Oven_Reflow_Soldering",
+  "latest_revision": {
+    "id": 556,
+    "timestamp": "2010-01-27T07:56:56Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "Created page with '==Uses==  *the toaster oven in our lab  ==Warning== I wouldn't breath in the fumes of the toasting process.  Plenty of flux and glue and other chemicals in the PCB manufacturing …'",
+    "text": "==Uses== \n*the toaster oven in our lab\n\n==Warning==\nI wouldn't breath in the fumes of the toasting process.  Plenty of flux and glue and other chemicals in the PCB manufacturing process.  Do this with the bay door open or outside.\n\n==Background==\nUsing this page as reference : http://instruct1.cit.cornell.edu/courses/ee476/FinalProjects/s2006/ki38/Webpage/index.html\nSpecifically this reflow temperature curve characterization http://instruct1.cit.cornell.edu/courses/ee476/FinalProjects/s2006/ki38/Webpage/kester.jpg\n\nBased on that the curve should look like\n*room temp to 300Fahrenheit in ~90 seconds   Preheating Zone\n*300F to 350F in ~90 seconds     Soaking Zone\n*350F to 420F in 30 seconds peak   Reflow Zone rise\n*420F back to 350F in 30 seconds   Reflow Zone fall\n\n\nI characterized the toaster we have in the lab with nothing in it\n*starting@450\n*77F @      0 seconds\n*120F@     1:15\n*245F@     3:30\n*300F@     4:30\n*330F@     5\n*357F@     5:30\n*385F@     6:00\n*400F?@   6:30 (max of my thermometer)\n\n==Process==\nBased on this I attempted\n*210 sec or so warmup\n*90 sec in  #1\n*90 sec in  #2\n*30\n*30 cooling from 400\n\nWhat ended up happening was putting it in at around 250, figuring it would lose a lot of heat on opening the oven and then just watching until solder got shiny most everywhere\nI ended up chickening out before large polarized caps were able to finish because the oven reached 400+ degrees and I didn't want it to peak any higher than 420",
+    "bytes": 1462
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-01-27T07:56:56Z",
+  "is_redirect": false
+}

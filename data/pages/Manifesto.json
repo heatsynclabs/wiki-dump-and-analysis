@@ -1,0 +1,21 @@
+{
+  "title": "Manifesto",
+  "ns": 0,
+  "id": 370,
+  "slug": "Manifesto",
+  "latest_revision": {
+    "id": 2352,
+    "timestamp": "2011-05-24T18:43:44Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "",
+    "text": "HeatSync Labs is a hackerspace; A member-supported 501(c)3 nonprofit community workshop.\nHackerspaces are places for people to learn, share, and make things. We have no employees, only volunteers and a few tips:\n\n# Build and finish your projects after you dream them up.\n# Bring your work and your curiosity, but most importantly your skills and knowledge.\n# Understand that no one else is going to create it, fix it, pick it up, clean it, or replace it but you.\n# Be excellent to each other.",
+    "bytes": 492
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2011-05-23T09:37:48Z",
+  "is_redirect": false
+}

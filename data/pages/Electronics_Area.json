@@ -1,0 +1,21 @@
+{
+  "title": "Electronics Area",
+  "ns": 0,
+  "id": 585,
+  "slug": "Electronics_Area",
+  "latest_revision": {
+    "id": 2996,
+    "timestamp": "2011-10-26T21:31:38Z",
+    "contributor": {
+      "username": "Rrix",
+      "ip": null,
+      "id": 43
+    },
+    "comment": "add needs list",
+    "text": "== Area Details ==\n* Maintainer: [[User:Rrix|Ryan Rix]]\n* Location: Four benches in center-east of main floor\n\n=== Needs ===\n* .1\" headers\n* Jumpers \n** MF \n** FF \n** MM\n* IC Sockets\n* Flux\n* 1 sided PCB thin\n* Jumper wire kit (breadboard style)\n* Soldering Irons\n* New heating element or iron for soldering station\n* Arduino 9v Power Supply\n* 2 Channel o-scope\n\n== Rules ==\n=== Keep Clean ===\n* When you're finished, the space should look the same as when you started. If it does not or that does not mean \"SPARKLIN FREAKING CLEAN,\" then make it \"SPARKLIN FREAKING CLEAN.\"\n* SPARKLIN FREAKING CLEAN\n* If I have to clean this area you're doing it wrong.\n\n=== Wire should look like this! ===\n\n[[File:Wire Rules.jpg|320px|Wires. One is good, the other causes Chinese babies to starve.]]\n\nWires. One is good, the other causes Chinese babies to starve.\n\nGuess which one causes the babies to starve.\n\n=== The Mess of Jumpers From Hell ===\nNever again will the jumper wall be allowed to fall in to disarray.\n\n==== Banana Plugs ====\n[[File:Banana Plugs.jpg|320px|Monkeys freaking love banana plugs!]]\n\nMonkeys freaking love banana plugs!\n\n==== Alligator Plugs ====\n[[File:Alligator Plugs.jpg|320px|Om nom nom clippy clippy]]\n\nOm nom nom clippy clippy.\n\n==== Bastard Mutant Plugs ====\n[[File:Mutant Plugs.jpg|320px|You start with a banana plug and you end with a hook or an alligator plug. Oh god.]]\n\nYou start with a banana plug and you end with a hook or an alligator plug. Oh god. D:\n\n==== O-scope cables ====\n[[File:Oscope Cables.jpg|320px|Cables for the Oscopes.]]\n\nCables for the Oscopes.\n\n==== ????? PROFIT! ====\n[[File:Myster Cables.jpg|320px|Who knows which cables go here??? Any cables that don't fit with the others!]]\n\nWho knows which cables go here??? Any cables that don't fit with the others!\n\n==== The hook that is ALWAYS empty! ====\n[[File:Empty Hook of Goodness.jpg|320px|The GLORIOUS Empty Dead Jumper Hook]]\n\nThe '''GLORIOUS''' Empty Dead Jumper Hook.\n\n==== NOOOOOOOOOOOO~ ====\n[[File:NOOOOOOOOOOOOOOOOOO.jpg|320px|This costs us money!]]\n\nThis is where cables go to die. Cables shouldn't have to endure that fate.\n\n=== Drawers should look like this! ===\n\n[[File:Wire Drawer.jpg|320px|This is what the wire drawer should look like!]]\n\nThis is what the wire drawer should look like!\n\n[[File:Solder Drawer.jpg|320px|This is what the solder drawer should look like!]]\n\nThis is what the solder drawer should look like!",
+    "bytes": 2425
+  },
+  "revision_count": 14,
+  "first_revision_timestamp": "2011-10-18T01:19:55Z",
+  "is_redirect": false
+}

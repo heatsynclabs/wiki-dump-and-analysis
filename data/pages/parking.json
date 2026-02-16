@@ -1,0 +1,21 @@
+{
+  "title": "parking",
+  "ns": 0,
+  "id": 1716,
+  "slug": "parking",
+  "latest_revision": {
+    "id": 6801,
+    "timestamp": "2026-01-12T06:14:01Z",
+    "contributor": {
+      "username": "Jaymcgavren",
+      "ip": null,
+      "id": 731
+    },
+    "comment": "",
+    "text": "There are several free public parking lots available nearby, including the \"Green Lot\" across North MacDonald.\n\nThe street parking is 2 hour parking and more rigorously enforced because the business there want to make sure it's available for their customers.\n\nThe MacDonald parking lot is probably the best if you're going to be at the lab for long hours during business hours.\n\n[[File:HSL_Parking.png|500px]]",
+    "bytes": 409
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2026-01-12T06:11:05Z",
+  "is_redirect": false
+}

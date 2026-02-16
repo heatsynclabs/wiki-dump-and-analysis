@@ -1,0 +1,21 @@
+{
+  "title": "Soldering Station",
+  "ns": 0,
+  "id": 223,
+  "slug": "Soldering_Station",
+  "latest_revision": {
+    "id": 1450,
+    "timestamp": "2010-11-04T14:19:36Z",
+    "contributor": {
+      "username": "98.177.240.110",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with 'We have the Aoyue 968 unit.    =Replacement= sra-solder.com seems like a great site for replacement parts.  The only problem is the soldering tips section is really vague and has…'",
+    "text": "We have the Aoyue 968 unit.  \n\n=Replacement=\nsra-solder.com seems like a great site for replacement parts.  The only problem is the soldering tips section is really vague and has fake pictures for all tips.  I found it necessary to look up the tip model numbers with the company Aoyue is biting, hakko.  http://www.hakkousa.com/products.asp?CID=192,212 and lookup the vague solder tip numbers to get real pictures and descriptions of those tips.",
+    "bytes": 445
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-11-04T14:19:36Z",
+  "is_redirect": false
+}

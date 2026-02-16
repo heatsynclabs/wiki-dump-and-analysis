@@ -1,0 +1,21 @@
+{
+  "title": "Evoked Potential Mask",
+  "ns": 0,
+  "id": 152,
+  "slug": "Evoked_Potential_Mask",
+  "latest_revision": {
+    "id": 798,
+    "timestamp": "2010-03-16T02:16:41Z",
+    "contributor": {
+      "username": "Hjmiii",
+      "ip": null,
+      "id": 28
+    },
+    "comment": "moved [[Evoked Potential Mask]] to [[Evoked Potential Eye Mask]]",
+    "text": "#REDIRECT [[Evoked Potential Eye Mask]]",
+    "bytes": 39
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2010-03-16T02:16:41Z",
+  "is_redirect": true
+}

@@ -1,0 +1,21 @@
+{
+  "title": "501c3",
+  "ns": 0,
+  "id": 68,
+  "slug": "501c3",
+  "latest_revision": {
+    "id": 365,
+    "timestamp": "2009-12-28T01:03:04Z",
+    "contributor": {
+      "username": "65.103.203.33",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "Created page with '::Sample Documents  http://www.irs.gov/charities/charitable/article/0,,id=122729,00.html'",
+    "text": "::Sample Documents \nhttp://www.irs.gov/charities/charitable/article/0,,id=122729,00.html",
+    "bytes": 88
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2009-12-28T01:03:04Z",
+  "is_redirect": false
+}

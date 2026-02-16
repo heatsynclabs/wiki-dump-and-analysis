@@ -1,0 +1,21 @@
+{
+  "title": "Hackerspace Discounts",
+  "ns": 0,
+  "id": 195,
+  "slug": "Hackerspace_Discounts",
+  "latest_revision": {
+    "id": 3599,
+    "timestamp": "2012-06-10T23:37:03Z",
+    "contributor": {
+      "username": "Will",
+      "ip": null,
+      "id": 22
+    },
+    "comment": "",
+    "text": "=Hackerspaces get discounts at certain vendors=\nThe following is a list:\n\n*[http://www.adafruit.com/ Adafruit] - Up to 40% off depending on quantity.  $250 Minimum \n**[http://www.adafruit.com/blog/2010/06/01/big-news-all-hacker-spaces-in-the-world-get-adafruit-reseller-pricing-starting-today/ Source ] - Contact the Treasurer with your saved wishlist link\n*[http://www.makerbot.com/ Makerbot] 5% off a makerbot\n**Have to contact somebody at Makerbot with your credentials\n*[http://www.sparkfun.com/ Sparkfun] - We have gotten 20% off on large buys in the past. Contact the Treasurer with your public wishlist link.\n*[http://www.magyc-now.com/catalog/index.php?main_page=products_new Arduino Reseller] - We are an official Arduino distributor. We've found you must order in major quantities to make the shipping worth it though. We tend to use the Sparkfun or Adafruit discounts first. Contact the Treasurer for info on pricing.\n\n=Local Discounts=\nSome of our local friends are supporting us with valuable discounts and reduced costs. Contact the [http://groups.google.com/group/heatsynclabs google group] for access to these:\n*$40 an hour waterjet for non commercial small jobs - $70 an hour commercial - from [http://www.localmotors.com/ Local Motors]\n**[http://www.maxiemwaterjets.com/waterjet-cutting/machine/model/1515 Maximum 1515 Website]\n**[http://www.maxiemwaterjets.com/uploads/machines/pdf/1MAXIEM_1515DOM(1015)sm.pdf Maximum 1515 Data Sheet]\n** Post a new topic in the [http://groups.google.com/group/heatsynclabs google group] to request this.\n*Free hour of metal laser cutting (4000watt laser) from [http://kzell.com/ KZell Metals]!\n** Post a new topic in the [http://groups.google.com/group/heatsynclabs google group] to request this.",
+    "bytes": 1749
+  },
+  "revision_count": 7,
+  "first_revision_timestamp": "2010-06-01T07:00:12Z",
+  "is_redirect": false
+}

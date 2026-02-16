@@ -1,0 +1,21 @@
+{
+  "title": "Insurance",
+  "ns": 0,
+  "id": 15,
+  "slug": "Insurance",
+  "latest_revision": {
+    "id": 2018,
+    "timestamp": "2011-02-25T02:47:03Z",
+    "contributor": {
+      "username": "70.166.112.51",
+      "ip": null,
+      "id": 0
+    },
+    "comment": "/* Quotes */",
+    "text": "=Insurance=\n\n==Board of Directors Insurance==\nThis is so the board can't be sued\n===Research===\n*Freeside Atlanta hackerspace's = 300/year\n*Twin Cities Maker and Urban Stew use [http://www.fracturedatlas.org/ Fractured Atlas] ($200 membership a year+quote) $600-900\n\n===Quotes===\n*Lovitt & Touché-$1k-$2500 per year-$1-$2M in coverage\n*Waiting on Carolina Casualty Insurance Company - ~$1100 1M in coverage\n\n==Liability==\n===Research===\n*NYC Resistor's Insurance cost is 4k per year (Source Bre Pettis)\n*NoiseBridge cost was about 2k per year(including Board insurance) ([http://lists.hackerspaces.org/pipermail/discuss/2009-January/000137.html Source ])\n*Twin Cities Maker and Urban Stew use [http://www.fracturedatlas.org/ Fractured Atlas] ($200 membership a year+insurance quote)\n\n===Quotes===\n*Waiting on Cheeney Insurance--$836.00 yr, no medical, only 14 members?\n*Waiting on Carolina, or whoever Jose's contact can find for us -- Unable to find us anyone willing\n\n==Theft==\n===Research===\nNoiseBridge in the above source indicates this was 'too expensive'",
+    "bytes": 1062
+  },
+  "revision_count": 14,
+  "first_revision_timestamp": "2009-09-09T18:14:57Z",
+  "is_redirect": false
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PewPew9000",
+  "ns": 0,
+  "id": 1324,
+  "slug": "PewPew9000",
+  "latest_revision": {
+    "id": 5061,
+    "timestamp": "2022-04-29T19:18:15Z",
+    "contributor": {
+      "username": "Nate Caine",
+      "ip": null,
+      "id": 687
+    },
+    "comment": "Nate Caine moved page [[PewPew9000]] to [[Large 80W Laser]]: consistent naming",
+    "text": "#REDIRECT [[Large 80W Laser]]",
+    "bytes": 29
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2022-04-29T19:18:15Z",
+  "is_redirect": true
+}

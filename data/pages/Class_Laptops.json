@@ -1,0 +1,21 @@
+{
+  "title": "Class Laptops",
+  "ns": 0,
+  "id": 1412,
+  "slug": "Class_Laptops",
+  "latest_revision": {
+    "id": 5716,
+    "timestamp": "2023-11-05T16:55:21Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Other configuration */",
+    "text": "=Overview=\nThe lab has 12 laptops for hosting classes and events. These were [https://groups.google.com/g/heatsynclabs/c/q1L8OEhr43w/m/EY0JtLqNAQAJ proposed in 2020]. This [https://groups.google.com/g/heatsynclabs/c/LZDUuxmxo6s/ post] has specifics on the laptops. \n\nDell Latitude E7470 (Refurbished)\n*Intel Core i5-6200U / Core i5-6300U\n*Intel HD Graphics 520\n*8GB DDR4 (4GB x 2)\n*256GB M2 Solid State Drive\n*14\" Full HD 1920x1080 screen\n*Windows 10 Pro\n\n=Software=\nItem's installed via tha Ninite file on the desktop; Chrome\n*Firefox\n*Edge\n*Krita\n*Blender\n*gimp\n*Irfanview\n*Inkscape\n*Libre office\n*Sumatra pdf\n*7zip\n*VLC\n*Audacity\n*keepass\n*Notepad++\n*Eclipse*Visual Studio\n\nOther software not included with Ninite\n*Arduino (original not 2.0)\n*Fusion 360\n*Silhouette Studio\n*Roblox\n*Prusa Slicer\n*OBS\n\n=Other configuration=\nWe have Bob Ross printer driver installed, but not defaulted so that people don't accidentally print a bunch of pages.\n\nTo Do: Map the the \\\\files\\users folder as U:\\",
+    "bytes": 992
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2023-08-12T23:35:43Z",
+  "is_redirect": false
+}

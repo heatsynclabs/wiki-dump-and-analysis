@@ -1,0 +1,21 @@
+{
+  "title": "shapeoko",
+  "ns": 0,
+  "id": 1168,
+  "slug": "shapeoko",
+  "latest_revision": {
+    "id": 4342,
+    "timestamp": "2014-07-01T22:35:34Z",
+    "contributor": {
+      "username": "Eric Hubert",
+      "ip": null,
+      "id": 695
+    },
+    "comment": "",
+    "text": "=How to use the shapeoko:=\n==Moving the tool around==\n\nThe webapp (easel) does not have a way of controlling the tool directly (moving it around).  To move the tool, open \"Universal G Code Sender\", click \"open\", and then select \"machine control.\n\n==CAD, CAM, G-Code, CNC controller==\n\nThis is a quick overview until I can elaborate more:  The process for sending a g-code program to any CNC machine involves starting with a CAD model. This can be anything from a dxf to do 2d lines to stl to do 3d shapes or anything else in between that the next step, CAM software, can read.  The CAM (computer aided manufacturing) software which produces the g-code.  Cura for the 3d printer, LaserCut for the laser, and HSMWorks for the CNC mill are all examples of CAM software.  Notice you may use software other than Cura to slice models for 3d printing.  The same is true of most CNC controlled machines run by g-code (which is pretty much everything).  I believe there is some reason the laser may be excluded since it may have a proprietary interface.  The g-code is sent to the CNC processor which moves the stepper motors to make the machine work.  The CNC processor on the large mill is Mach3, on the shapeoko it is currently GRBL embedded on the Arduino Uno board.  The original makerbot ran GRBL.  To get the g-code from one's machine into the shapeoko one uses universal g-code sender (there maybe other ways but I don't know them yet).  It will send the g-code in batches since the Arduino only has like 3k of ram.  The controller does the rest of the work and bam, your project is being CNC'd.  Easle is software in development.  It is designed with the novice hobbyist in mind for simplicity and easy of use.  You will not machine rocket engines with it but you should definitely be able to etch your name in something in minutes.\n\n==Generating Files==\n\nTo generate files for the Shapeoko, use the app called \"easel\".\n\n=Things that could be improved:=\n==Machine Improvements==\nE-Stop Button\n\nLimit Switches\n\n==Software Improvements==\nMachine control\n\nCustom materials -- the ability to define materials other than the currently available ones.",
+    "bytes": 2145
+  },
+  "revision_count": 4,
+  "first_revision_timestamp": "2014-07-01T18:12:29Z",
+  "is_redirect": false
+}

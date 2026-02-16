@@ -1,0 +1,21 @@
+{
+  "title": "Laser Cutter Safety Training",
+  "ns": 0,
+  "id": 1222,
+  "slug": "Laser_Cutter_Safety_Training",
+  "latest_revision": {
+    "id": 4700,
+    "timestamp": "2020-06-24T15:43:38Z",
+    "contributor": {
+      "username": "Gamebofh",
+      "ip": null,
+      "id": 710
+    },
+    "comment": "move what I have from another page",
+    "text": "Seems wrong that these were red links.  Will need to be updated.\n\n# Locate water spray bottle\n# Locate fire extinguisher\n# Most flare-ups will self-extinguish when the laser stops\n# Stay at the laser while it is running. If you must leave, someone else trained must take your place.\n# If you need to suspend your job quickly, raise the hood. Cutting will resume when you lower the hood.\n\n\n[[Category:Laser]]\n[[Category:High Priority]]",
+    "bytes": 434
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2020-06-24T03:36:59Z",
+  "is_redirect": false
+}

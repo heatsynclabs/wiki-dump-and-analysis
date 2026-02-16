@@ -1,0 +1,21 @@
+{
+  "title": "Stencil Etching",
+  "ns": 0,
+  "id": 129,
+  "slug": "Stencil_Etching",
+  "latest_revision": {
+    "id": 554,
+    "timestamp": "2010-01-27T07:44:56Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "moved [[Stencil Etching: Stencil Etching]] to [[Stencil Etching]]",
+    "text": "*open original eagle file\n*show only top (or bottom) layer\n*ripup all traces\n*now you can print to pdf, make sure scale is one, monochrome, and mirror\n*take pdf and convert to png, 600 dpi will work\n*in Preview (Mac)you can inverse colors by going tools->adjust color and switching black and white level arrows on top to the other side\n*Now you'll want to create a white background and cut and paste out just your stencil (this way you don't print a ton of wasted black)\n*now follow  [[PCB_Etching]]\n**You'll want to seal with green\n**etch as little stencil as you have to as every bit of copper you etch is wasted etchant(cut away unneccessary)\n**but don't marker/cover over back of stencil.  It needs to be able to etch through from the back as well",
+    "bytes": 751
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2010-01-27T07:43:37Z",
+  "is_redirect": false
+}

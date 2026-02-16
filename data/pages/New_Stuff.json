@@ -1,0 +1,21 @@
+{
+  "title": "New Stuff",
+  "ns": 0,
+  "id": 247,
+  "slug": "New_Stuff",
+  "latest_revision": {
+    "id": 1511,
+    "timestamp": "2010-12-03T20:57:57Z",
+    "contributor": {
+      "username": "Geekner",
+      "ip": null,
+      "id": 21
+    },
+    "comment": "/* 12/2/2010: Nordac Vector Frequency Inverter and High Voltage Power Supply. */",
+    "text": "==Acquisitions==\n\n==Donations==\n===12/2/2010: Classic Variable Inductors and Voltmeters===\nRecently donated, a set of 2 classic Variable Inductors and 2 AC Voltmeters. Very classy looking. Inductors are housed in a 6\" wooden cube with feet, perfect for workbench usage. AC Voltmeter is a 4\" square panel-mount. '''UNTESTED'''\n{|\n|[[Image:Inductor.jpg|thumb|none|Inductor]]\n|[[Image:Inductor_label2.jpg|thumb|none|Inductor 1]]\n|[[Image:Inductor_label1.jpg|thumb|none|Inductor 2]]\n|-\n|[[Image:Classic_volt_meter.jpg|thumb|none|Volt Meter]]\n|}\n\n===12/2/2010: Nordac Vector Frequency Inverter and High Voltage Power Supply.===\nFrequency Inverter has damage on circuit board, one blown hi-voltage capacitor and resulting damage to nearby board. Other capacitors and components may be salvageable. Power supply seems to be in good condition, but requires 520V AC and is '''UNTESTED'''.\n[http://www.artisan-scientific.com/info/nordac_vector_user_manual.pdf Frequency Inverter Operations Manual]\n{|\n|[[Image:12-2-overall_shot.jpg|thumb|none|Frequency Inverter and Power Supply]]\n|[[Image:12-2-main unit label.jpg|thumb|none|Main Unit Label]]\n|[[Image:12-2-power_unit_label.jpg|thumb|none|Power Supply Label]]\n|-\n|[[Image:12-2inside_shot.jpg|thumb|none|Inverter Inside shot, Damage not visible]]\n|[[Image:Inverter_damage.jpg|thumb|none|Inverter Board Damage]]\n|}\n\n==New Tools==\n===Donated 12/2/2010: Anti-Laser Safety Goggles===\n[[Image:12-2-goggles-they do nothing.jpg|thumb|none]]",
+    "bytes": 1473
+  },
+  "revision_count": 3,
+  "first_revision_timestamp": "2010-12-03T20:41:58Z",
+  "is_redirect": false
+}

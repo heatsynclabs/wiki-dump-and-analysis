@@ -1,0 +1,21 @@
+{
+  "title": "Kudo3D Titan 1 Ruby",
+  "ns": 0,
+  "id": 1209,
+  "slug": "Kudo3D_Titan_1_Ruby",
+  "latest_revision": {
+    "id": 4632,
+    "timestamp": "2020-06-21T00:15:00Z",
+    "contributor": {
+      "username": "Cprossu",
+      "ip": null,
+      "id": 698
+    },
+    "comment": "",
+    "text": "*HeatSync Labs training required for operation.\n*Printer was donated by Intel to HeatSync Labs.\n*First successful operation noted in Hack Your Hackerspace notes in 08/10/2017\n\n== Documentation ==\n\nUser manual:\n\nhttps://www.dropbox.com/s/j73yhen44w0xvyh/Titan1_User_Manual_v3.1.pdf\n\n\nCover build guide:\n\nhttps://www.dropbox.com/s/uygd0ty4ilczprc/Kudo3D_Emerald_and_Ruby_Cover_Build_Guide_v1.2.pdf\n\n\nSoftware manual:\n\nhttps://www.dropbox.com/s/vrmvq566ulyy9f5/Kudo3D_Titan1_Windows_Software_Manual_v3.2.pdf\n\n\nFirmware manual:\n\nhttps://www.dropbox.com/s/11cmi2s7etwwbek/Kudo3D%20Firmware%20Update%20Manual%20v1.2.pdf\n\n\nManufacture website:\n\nhttps://www.kudo3d.com/\n\n\n== Software, drivers, and firmware ==\n\nKudo3D Titan 1 Software (v3.1) for Printer Control and Printing:\n\nhttps://www.dropbox.com/s/rekhjwna8gcinj0/Kudo3D_Titan1-3.1-setup.rar\n\n\nUSB Serial Port Driver:\n\nhttps://www.dropbox.com/s/l0dep12dklspnty/Hl-340.rar\n\n\nTitan1 and Titan2 Machine configuration for slicing\n\nhttps://www.dropbox.com/s/4rfxxgbbpl0l1k5/Titan1_and_Titan2_Machine_configuration_for_slicing.zip\n\n\nTitan 1 Firmware\n\nhttps://www.dropbox.com/s/yuwl6seewnv4oyi/Kudo3D-Marlin_v2.0.rar",
+    "bytes": 1156
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2020-06-20T23:55:45Z",
+  "is_redirect": false
+}

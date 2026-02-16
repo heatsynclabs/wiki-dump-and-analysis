@@ -1,0 +1,21 @@
+{
+  "title": "Mini 60W Laser",
+  "ns": 0,
+  "id": 1203,
+  "slug": "Mini_60W_Laser",
+  "latest_revision": {
+    "id": 6035,
+    "timestamp": "2024-03-05T20:44:24Z",
+    "contributor": {
+      "username": "Eric Ose",
+      "ip": null,
+      "id": 681
+    },
+    "comment": "/* Size */",
+    "text": "\n= Overview =\nThis is the main quick guide for the '''Mini 60W Laser'''. See the [[Laser_Cutters | Laser Cutters]] page for more laser cutter information.\n\n== What you can cut ==\nThese lists are not exhaustive. If your material is not on either list, ask first! \n\n* See the [[Laser Material Guidelines]] for a list of materials and common speed and power settings.\n\n= Lightburn Software =\nhttps://lightburnsoftware.github.io/NewDocs/index.html\n\n= Size =\nYou can fit material that is 75cm x 65cm and cut material that is just under 70cm x 50cm (27.5\" x 19.6\"). No luck cutting exactly 70cm x 50cm 2mm smaller on each worked though.\n\n=Turn on the laser=\nIf you look at the machine, you'll see the key slot right on the front.\n\n[[File:pp4500-key.jpg|250px]]\n\nYeah, you're going to ignore that.  The switches on the side are where you actually need to turn it on.  Get both of them.\n\n[[File:pp4500-switches.jpg|250px]]\n\n= Load the laser =\n\nOk, there is a lot of information in this next photo, so I'll provide details after your eyes glaze over.\n\n[[File:pp4500-bed.jpg|600px]]\n\n* Home position:  This is where the laser will return to when you tell it to home.\n* Laser pointer:  This is where actual cutting happens.  There is a positioning LED that is shining, but it is not the cutting laser.\n* Z-axis knob: This system has manual bed leveling, and you'll use this to position the laser focus.\n\n= Focus the laser =\n\nThe process for focusing the laser is the same for both lasers, the only difference is that you do it using the [[LaserCut 5.3]] software on the [[Large 80W Laser]] and you use the manual knob on this one.\n\n*[[Laser Focus]]\n\n=Dump for notes=\n\n* Manual z\n* [[LightBurn]]\n\n\n\n= Logs =\nPlease, log your work.  This is important to understand maintenance needs, as well as building a database of materials and power/speed settings to make figuring out settings easier.\n\n* [https://forms.gle/sYVUxXivxsEqdEYp8 Mini 60W Laser Log FORM]\n* [https://docs.google.com/spreadsheets/d/1tDxqWNbrJ9M5UuvxpV4khA5Drt6HOfNuQRQbdNvYTxM/edit?usp=sharing Mini 60W Laser Log RESPONSES]\n\n== Old Logs ==\n\n*[https://docs.google.com/forms/u/0/d/e/1FAIpQLSdCqAez_T_orQlXTbbgQC_OeXvEhC7uHbVpiTnmfmoraFjPQA/formResponse Mini 60W Laser Log]\n* [https://docs.google.com/spreadsheets/d/1gItwjL4vfXwAsAQZ4dHuAlmoJ7lkLDme82yCei9KeF8/edit#gid=1432871391 Mini-laser work log]\n\n\n[[Category:Laser]]",
+    "bytes": 2372
+  },
+  "revision_count": 18,
+  "first_revision_timestamp": "2020-06-20T19:01:01Z",
+  "is_redirect": false
+}

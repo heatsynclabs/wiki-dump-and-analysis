@@ -1,0 +1,21 @@
+{
+  "title": "VGG482704",
+  "ns": 0,
+  "id": 1080,
+  "slug": "VGG482704",
+  "latest_revision": {
+    "id": 4034,
+    "timestamp": "2013-03-07T23:55:47Z",
+    "contributor": {
+      "username": "Monteslu",
+      "ip": null,
+      "id": 684
+    },
+    "comment": "add pdf link",
+    "text": "We had a donor give us about 48 or so 4.3 inch touchscreens in the lab.  Model number:  '''VGG482704'''\n\n\nHere's a pdf of some specs or pin layout or something [[File:VGG482704-Series.pdf]]\n\n\nFrom: http://www.electronicsweekly.com/products/2008/05/27/2661/anders-tft-displays-for-industrial-and-embedded-apps.htm\n\nAnders TFT displays for industrial and embedded apps\nTuesday 27 May 2008\nAnders Electronics has launched two TFT displays for use in industrial and embedded applications.\n\nThe MT24G05G is based on a 2.4-inch screen size, while the VGG482704 is a drop-in replacement for a certain 4.3-inch, 480x272 pixel touch-screen device that is common in satellite navigation and other handheld products, as well as industrial and medical environments.\n\nBased on transmissive technology with an LED backlight, the MT24G05G offers RGB resolution of 240x320 (QVGA).\n\nWith an on-board controller and 18-bit CPU bus interface, it can display 262,000 colours.  The brightness is 250cd/m2 and the contrast ratio 200:1.\nThe VGG482704 also uses transmissive technology, can render 16.7 million colours and is controlled via a 24-bit TTL RGB interface. Contrast ratio is 450:1 and brightness is 600 cd/m sq\n\n\n[[File:VGG482704.jpg]]\n\n\nWould be cool if someone could hook one of these up to a shieldbot and build an army of arduino powered beyonce clones or something.\n\n[[File:sheildbotbot.jpg]]",
+    "bytes": 1385
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-03-07T23:36:01Z",
+  "is_redirect": false
+}

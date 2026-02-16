@@ -1,0 +1,21 @@
+{
+  "title": "HowTo",
+  "ns": 0,
+  "id": 33,
+  "slug": "HowTo",
+  "latest_revision": {
+    "id": 95,
+    "timestamp": "2009-09-13T22:56:06Z",
+    "contributor": {
+      "username": "Jjrosent",
+      "ip": null,
+      "id": 14
+    },
+    "comment": "moved [[HowTo]] to [[How To Hackerspace]]:&#32;clarification away from How Tos",
+    "text": "#REDIRECT [[How To Hackerspace]]",
+    "bytes": 32
+  },
+  "revision_count": 1,
+  "first_revision_timestamp": "2009-09-13T22:56:06Z",
+  "is_redirect": true
+}

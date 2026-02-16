@@ -1,0 +1,21 @@
+{
+  "title": "IT",
+  "ns": 0,
+  "id": 1129,
+  "slug": "IT",
+  "latest_revision": {
+    "id": 4217,
+    "timestamp": "2013-12-01T21:37:11Z",
+    "contributor": {
+      "username": "Blhack",
+      "ip": null,
+      "id": 666
+    },
+    "comment": "",
+    "text": "== Information Technology ==\n\n* Server/website/email/wiki/docs design/implementation/support/management\n* Web development and design (with marketing help)\n* eCommerce (with treasurer account)\n* Online account management (passwords, integration)\n* Computer/hardware design/implementation/management/support\n* Network support\n* Webcams, twitter bots, etc\n* Physical security (with resource manager)\n* Public notification of outages/downtime\n* Technological recommendations/reviews/ordering (with resource manager and treasurer)\n* Technical training",
+    "bytes": 546
+  },
+  "revision_count": 2,
+  "first_revision_timestamp": "2013-12-01T21:37:00Z",
+  "is_redirect": false
+}
