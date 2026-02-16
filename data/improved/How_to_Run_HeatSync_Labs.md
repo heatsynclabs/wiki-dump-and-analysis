@@ -5,7 +5,8 @@ changes:
   - "Restructured as onboarding guide for new board members"
   - "Added 'First 30 Days' checklist for each role"
   - "Added institutional knowledge notes (accounting, banking, insurance)"
-  - "Preserved treasurer notes from Eric Wood (August 2023)"
+  - "Preserved treasurer notes from Eric Wood (August 2022)"
+  - "Moved election timing to April per restructured Bylaws (original: October elections, November transition)"
   - "Added section on community governance philosophy"
 rationale: >
   The current document mixes role definitions with accumulated institutional knowledge. Restructuring as an onboarding guide makes it more useful for incoming board members who need both the 'what' and the 'how' of their new roles.
@@ -63,7 +64,7 @@ The Treasurer manages all financial operations.
 - Maintain budget and financial reports
 - Manage building-related expenses
 
-### Institutional Knowledge (as of 2023)
+### Institutional Knowledge (as of 2022)
 - **Accounting:** ~$300/month for external accounting service
 - **Auto-pay bills:** Rent, utilities, insurance are on auto-pay
 - **Manual bills:** Some vendor invoices arrive irregularly

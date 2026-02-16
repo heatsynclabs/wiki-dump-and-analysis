@@ -6,6 +6,8 @@
 > - Consolidated scattered safety rules into unified structure
 > - Added cross-references to Bylaws for membership and card access
 > - Improved table of contents and navigation
+> - Added woodshop and 3D printer safety sections (not in original)
+> - Condensed detailed equipment-specific rules into summary form (full originals on wiki) — original includes metalworking (Trust No One principle), lathe (chuck key safety), mill (speeds/feeds, DOC), CNC (getting started resources), bandsaw (blade longevity), bench grinder (shattering hazard), soldering (tip care), drill press, oscilloscope, and more
 >
 > **Rationale:** The Rules document is comprehensive (116 revisions of organic growth) but lacks a clear enforcement mechanism and damage reporting procedure. The enforcement ladder provides consistent, fair consequences while the damage reporting encourages transparency rather than hiding accidents.
 
@@ -25,20 +27,20 @@
 
 Membership tiers and eligibility are defined in the [Bylaws](Bylaws.md). Key points:
 
-- **Associate** ($25/month): Access during staffed hours
-- **Basic** ($50/month): Full access, card access eligible
-- **Plus** ($100/month): Full access, enhanced support
+- **Associate** ($25/month): A vote at HYH (excluding card-granting votes), discounts for certain classes
+- **Basic** ($50/month): All Associate benefits, plus a vote at board elections, a bankers box for storage, and eligibility for 24/7 card access nomination
+- **Plus** ($100/month): All Basic benefits, plus a secure-able locker for storage (no bankers box)
 
 ### Good Standing
 
 A member is in good standing when current on dues. Late payment process:
-- 30 days past due: Reminder notice from Treasurer
-- 60 days past due: Card access suspended; formal notice sent
-- 90+ days past due: Membership terminated; may re-apply after settling balance
+- If a member fails to pay dues, HSL will make a good faith effort to contact them for resolution.
+- If the member refuses to pay, membership is immediately terminated. If they have a storage box/locker, they have 30 days to claim its contents, after which contents are donated to charity.
+- If the member is unreachable within 60 days, a second contact attempt is made. If still unreachable after an additional 30 days, storage contents are donated to charity.
 
 ### Teacher Discount
 
-Members who teach regular classes receive a 50% membership discount for the months they teach.
+Teachers get 50% off any membership.
 
 ---
 
@@ -100,7 +102,7 @@ Members provide their own consumables (material, drill bits, sandpaper, etc.). M
 
 ### Laser Cutters
 
-- See [Laser FAQ](Laser_FAQ.html) for detailed materials guide
+- See [Laser Cutters](Laser_Cutters.html) for detailed materials guide
 - Never leave the laser unattended while operating
 - Only approved materials (check the FAQ for the approved/banned list)
 - Clean the bed and lens after use

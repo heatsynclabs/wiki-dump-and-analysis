@@ -12,6 +12,12 @@ changes:
   - "Added virtual/remote meeting provisions"
   - "Added clear officer removal process"
   - "Added board member indemnification provisions"
+  - "Moved Board elections from October to April (aligned with annual meeting)"
+  - "Changed officer removal threshold from unanimous remaining officers to two-thirds vote"
+  - "Removed Community Relations article (joint ventures, partnerships, asset loans to partnering organizations)"
+  - "Reworded purpose statement to align with 501(c)(3) language — original: 'provide a physical space for members and the public to work on projects (especially projects involving physical creation)'"
+  - "Simplified officer structure (removed explicit co-officer provisions — original allowed up to 2 Champions and up to 2 Treasurers)"
+  - "Removed Quarterly Scholarship provision (Board could grant 3-month free Basic membership for significant contributions)"
 rationale: >
   The previous Bylaws embedded operational policies (card access, proposal process, code of conduct) directly in the bylaws document. This makes iteration slow because amending bylaws requires a formal process, while community policies should be adaptable by simple HYH vote. The restructured bylaws are a lean legal framework that references separate Community Standards and Community Policies documents, adds member empowerment mechanisms (special elections), and includes anti-discrimination requirements for board members.
 ---

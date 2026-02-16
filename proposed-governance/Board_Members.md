@@ -10,47 +10,83 @@
 
 # Board Members
 
-## Current Board (2024-2025)
-
-| Position | Member(s) | Since |
-|----------|-----------|-------|
-| Co-Champions | David Lang & Landon | 2024 |
-| Secretary | Brett Neese | 2024 |
-| Treasurer | Shaundra Newstead & David Flores | 2022 (Shaundra), 2024 (David) |
-| Operations | *Open Position* | -- |
+HeatSync Labs is run by a Board of Directors, which aids in procedural and financial decisions. Each officer is voted into office once a year by the membership, unless they become impeached or resign. All board officers must be a member in good standing, attend once-monthly board meetings, and advocate for HeatSync. Contact the board at board {at} heatsynclabs.org.
 
 For detailed role descriptions, see [How to Run HeatSync Labs](How_to_Run_HeatSync_Labs.md).
+
+## Current Board (2024-2025)
+
+| Position | Member(s) |
+|----------|-----------|
+| Champion | David Lang |
+| Champion | Landon |
+| Operations | *Open* |
+| Secretary | Brett Neese |
+| Treasurer | Shaundra Newstead w/ assistance from David Flores |
 
 ## Board Elections
 
 - Elections are held annually at the April HYH meeting
 - Any member in good standing may run for any position
-- Voting is by show of hands (or electronic if virtual)
 - Terms are one year; no term limits
 - Vacancies may be filled by Board appointment until the next election
+- See [Board Elections](Board_Elections.html) for full details
 
 ## Past Board Members (2022-Present)
 
-| Year | Champion(s) | Treasurer | Secretary | Operations |
-|------|-------------|-----------|-----------|------------|
-| 2024-25 | David Lang, Landon | Shaundra Newstead, David Flores | Brett Neese | Open |
-| 2023-24 | Darrell Wertz, David Lang | Shaundra Newstead | Brett Neese | Jeff Sittler |
-| 2022-23 | Darrell Wertz (interim) | Shaundra Newstead | -- | Jeff Sittler |
+### 2024-2025 (Transition Period)
+
+| Position | Member(s) |
+|----------|-----------|
+| Champion | *(vacant)* |
+| Champion | Darrell Wertz (interim) |
+| Operations | Jeff Sittler |
+| Secretary | Sheldon McGee (interim) |
+| Treasurer | Shaundra Newstead |
+
+### 2023-2024
+
+| Position | Member(s) |
+|----------|-----------|
+| Champion | Darrell Wertz |
+| Champion | Robert Douglass |
+| Operations | Jeff Sittler |
+| Secretary | Bob Bushman |
+| Treasurer | Shaundra Newstead |
+
+### 2022-2023
+
+| Position | Member(s) |
+|----------|-----------|
+| Champion | Darrell Wertz |
+| Champion | Jot Powers |
+| Operations | Jeff Sittler |
+| Secretary | Bob Bushman |
+| Treasurer | Shaundra Newstead |
+
+## Past Board Members (Before 2022)
+
+| Position | Alumni |
+|----------|--------|
+| **Champion** | Jeremy Leung, Sean Hillmeyer, Jacob Rosenthal, Tim Gerrits, Luis Montes, Ryan McDermott, Larry Campbell, Trish Blickfeldt, Milton Williams, Shaundra Newstead, Greg Oswalt, Eric Wood, Mike Wolfson, Jot Powers, Eric Ose, Beau Leduc, Darrell Wertz |
+| **Secretary/Scribe** | Andrea Young, Paul Hickey, Eric Ose, Alyson Zepeda, Luis Montes, Shaundra Newstead, Chris McLaughlin |
+| **Treasurer** | Jose Diaz, Marita Ogden, Prescott Ogden, Chad Stearns, Boots (Josh Parry), David Flores, Eric Wood |
+| **Operations** (formerly IT Administrator) | Zachary Giles, Will Bradley, Moheeb Zara, Nate Plamondon, Gabe Finke, Andrew Lewton |
 
 ## Obsolete Positions
 
-The following positions existed historically but have been consolidated:
-
-- **PR/Marketing** → absorbed into Operations
-- **Event Coordinator** → community-driven
-- **Fundraising Coordinator** → shared Board responsibility
-- **Editor** → community wiki contributions
-- **Resource Manager** → absorbed into Operations
+| Position | Notes |
+|----------|-------|
+| **PR/Marketing** | Joyce Tang, Rick Osgood |
+| **Editor** | David Huerta |
+| **Event Coordinator** | Consolidated into Secretary role |
+| **Fundraising/Social Coordinator** | Split between Marketing and individual champions of fundraising ideas who communicate with Scribe |
+| **Resource Manager** | Andre Sprague |
 
 ## External Services
 
-- **Legal Counsel:** Retained (paid)
-- **Accountant/CPA:** Retained (paid, ~$300/month)
+- **Legal Counsel:** External party (paid)
+- **Accountant/CPA:** External party (paid)
 
 ---
 

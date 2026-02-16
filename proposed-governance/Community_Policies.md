@@ -8,6 +8,7 @@
 > - Added clear guidance on what a no vote should be based on
 > - Added nominee feedback mechanism for failed nominations
 > - Reduced proposal resubmission lockout from 6 months to 3 months
+> - Changed card access revocation from Board-only ('may be removed at any time by the Board') to requiring two-thirds card member vote at HYH (Board retains emergency revocation)
 > - Amendable by simple HYH majority vote (no Board ratification required)
 >
 > **Rationale:** The previous Bylaws embedded operational policies (card access, proposal process) directly, requiring the formal bylaws amendment process to change them. Moving these to a separate Community Policies document allows the community to iterate on these processes by simple HYH majority vote. The card access reforms address punitive nomination rules that locked both nominator and nominee for 6-12 months on a failed vote, discouraging nominations and community growth.
@@ -30,6 +31,7 @@ Having card access to the lab is both a privilege and a responsibility. Card acc
 ### 1.2 Nomination
 
 - Any current card access member may nominate an eligible non-card member.
+- **Proposing yourself for card access is not permitted.** You may request someone else propose you, or wait until someone proposes you.
 - The nominator agrees to serve as **mentor** for the nominee during a six (6) month probationary period. Mentorship means being available to answer questions, model good practices, and help the new card member integrate into the community.
 - There is no limit on how many nominations a card member may make.
 

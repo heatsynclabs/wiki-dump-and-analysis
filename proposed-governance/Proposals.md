@@ -22,12 +22,12 @@ Per the [Bylaws](Bylaws.md), formal proposals are required for:
 
 ## Proposal Process
 
-The full proposal process is defined in the Bylaws, Article VI. Summary:
+The full proposal process is defined in the [Community Policies](Community_Policies.md). Summary:
 
 1. **Days 1-2:** Submit proposal to Slack and/or Google Group
 2. **Days 3-7:** Community discussion period
-3. **Days 8-9:** Vote at HYH meeting (minimum 5 voting members)
-4. **Result:** Majority vote to pass; failed proposals cannot be resubmitted for 6 months
+3. **Days 8-9:** Vote at HYH meeting (minimum 8 paying members)
+4. **Result:** Majority vote to pass; failed proposals cannot be resubmitted for 3 months (unless substantial changes are made and members vote to allow early reconsideration)
 
 ## Proposal Template
 
@@ -52,10 +52,14 @@ VOTE DATE: [Planned HYH meeting date]
 
 ## Historic Proposals
 
-- Ultimaker Complete Kit (2012)
-- Ultimaker 2 (2015)
-- Vinyl Cutter (2015)
-- Laptop Purchases (2011-2015)
+- Members voting directly on proposals (August 2011)
+- Card access requires HYH vote (August 2011)
+- Change voting rules to require a quorum (August 2011)
+- SyncStarter: Ultimaker Complete Kit (February 2012)
+- Only card access members can vote on granting card access (November 2012)
+- Laptop purchase (March 2014)
+- Ultimaker 2 (January 2015)
+- Vinyl Cutter — LaserPoint II Series (February 2015)
 
 ---
 

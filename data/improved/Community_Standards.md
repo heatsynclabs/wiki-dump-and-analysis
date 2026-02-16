@@ -9,7 +9,7 @@ changes:
   - "Grievance committee preserved from current bylaws (1 board + 3 random HYH members)"
   - "Detailed reporting and investigation process with timelines"
   - "Weapons policy retained from current Code of Conduct"
-  - "No waiting for multiple complaints language"
+  - "Reversed 'three complaints' policy — original said 'The board reserves the right not to pursue consequences until three similar complaints are made'; a single credible report is now sufficient to investigate and act"
   - "Confidentiality and documentation requirements"
 rationale: >
   The previous Code of Conduct was embedded in the Bylaws, making it difficult to amend without the formal bylaws amendment process. This standalone Community Standards document is more comprehensive, includes a clear do-ocracy response framework, preserves the grievance committee structure from the current bylaws, and can be amended by simple HYH majority vote per the policy hierarchy defined in the Bylaws.

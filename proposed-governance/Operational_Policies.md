@@ -6,6 +6,7 @@
 > - Added storage policy with timeline
 > - Added noise/hours guidelines
 > - Preserved existing policies (sleeping, tools, public space)
+> - Added card sharing and door security rules
 >
 > **Rationale:** The current Operational Policies page is extremely brief (1,426 bytes, 4 sections). Expanding it provides clear operational expectations without requiring members to hunt through multiple documents.
 
@@ -23,6 +24,8 @@
 - All dangerous tools require HeatSync Labs certification, regardless of outside experience.
 - Return all tools to their designated storage locations after use.
 - Report any equipment issues or damage immediately (see Rules for reporting procedure).
+- Do not take equipment out of the lab without consulting the general community.
+- Do not hack apart stuff that isn't yours or a consumable.
 - Personal tools may be used but must be clearly labeled and stored separately.
 
 ## Guest Policy
@@ -41,9 +44,7 @@
 
 ## Sleeping in the Lab
 
-- Members may sleep in the lab a maximum of two (2) nights per week.
-- Sleeping areas must be cleaned and cleared by 9:00 AM.
-- This privilege may be revoked if it interferes with lab operations.
+- Sleeping in the lab is only acceptable for 2 nights per week or less.
 
 ## Hours and Noise
 
@@ -56,6 +57,7 @@
 
 - Card access voting and eligibility are governed by the [Community Policies](Community_Policies.md).
 - Technical card issuance and deactivation procedures are in [Access Card Procedure](Access_Card_Procedure.md).
+- Proposing yourself for card access is not permitted. You may request someone else propose you, or wait until someone proposes you.
 - Lost or damaged cards should be reported immediately.
 - Do not share your access card or let others use it to enter.
 - Do not prop doors open or bypass security systems.
